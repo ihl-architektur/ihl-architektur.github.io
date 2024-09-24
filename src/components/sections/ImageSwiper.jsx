@@ -8,7 +8,7 @@ const ImageSwiper = ({imageArray}) => {
   const [hovered, setHovered] = useState(null);
 
   return (
-    <div className="py-1">
+    <div className="py-1 cotnainer">
       <Swiper
         spaceBetween={8}
         slidesPerView={3}
@@ -17,6 +17,14 @@ const ImageSwiper = ({imageArray}) => {
         loop={true} 
         freeMode={true}
         breakpoints={{
+          320: {
+            slidesPerView: 1,
+            spaceBetween: 1
+          },
+          480: {
+            slidesPerView: 1,
+            spaceBetween: 1
+          },
           640: {
             slidesPerView: 1,
             slidesPerGroup: 1,

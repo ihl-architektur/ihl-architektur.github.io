@@ -13,12 +13,6 @@ const App = () => {
     <>
       <Nav />
       <ImageSwiper/>
-      <Hero />
-      <Work />
-      <Clients />
-      <About />
-      <Blog />
-      <Contact />
       <Footer />
     </>
   )
