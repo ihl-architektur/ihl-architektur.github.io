@@ -8,9 +8,9 @@ import ImageSwiper from './ImageSwiper';
 const Projects = () => {
   const [hovered, setHovered] = useState(null);
 
-  // Sample images array with titles
+  // Hier Bilder einfügen
   const images = [
-    { src: 'https://via.placeholder.com/300x350', title: 'Image 1' },
+    { src: 'https://via.placeholder.com/300x350', title: 'BoulderChurch' },
     { src: 'https://via.placeholder.com/300x350', title: 'Image 2' },
     { src: 'https://via.placeholder.com/300x350', title: 'Image 3' },
     { src: 'https://via.placeholder.com/300x350', title: 'Image 4' },
