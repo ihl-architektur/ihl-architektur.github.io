@@ -13,6 +13,7 @@ const App = () => {
     <>
       <Nav />
       <ImageSwiper/>
+      <Contact/>
       <Footer />
     </>
   )

@@ -19,16 +19,10 @@ const Nav = () => {
         <nav className="flex items-center">
           <ul className="items-center justify-between hidden gap-5 sm:flex">
             <li>
-              <a href="#work" className="font-medium uppercase transition-colors text-primary hover:text-secondary">Work</a>
+              <a href="#blog" className="font-medium uppercase transition-colors text-primary hover:text-secondary">Kontakt</a>
             </li>
             <li>
-              <a href="#about" className="font-medium uppercase transition-colors text-primary hover:text-secondary">About</a>
-            </li>
-            <li>
-              <a href="#blog" className="font-medium uppercase transition-colors text-primary hover:text-secondary">Blog</a>
-            </li>
-            <li>
-              <a href="#contact" className="font-medium uppercase transition-colors text-primary hover:text-secondary">Contact</a>
+              <a href="#contact" className="font-medium uppercase transition-colors text-primary hover:text-secondary">Vita</a>
             </li>
           </ul>
           <button className="sm:hidden" onClick={switchMenu}>
@@ -37,16 +31,10 @@ const Nav = () => {
           <ul className="absolute top-0 left-0 z-10 w-full transition -translate-y-full bg-white shadow-md sm:hidden" ref={menuRef}>
             <Container>
               <li>
-                <a href="#work" className="block py-3 font-medium uppercase transition-colors text-primary hover:text-secondary">Work</a>
+                <a href="#blog" className="block py-3 font-medium uppercase transition-colors text-primary hover:text-secondary">Kontakt</a>
               </li>
               <li>
-                <a href="#about" className="block py-3 font-medium uppercase transition-colors text-primary hover:text-secondary">About</a>
-              </li>
-              <li>
-                <a href="#blog" className="block py-3 font-medium uppercase transition-colors text-primary hover:text-secondary">Blog</a>
-              </li>
-              <li>
-                <a href="#contact" className="block py-3 font-medium uppercase transition-colors text-primary hover:text-secondary">Contact</a>
+                <a href="#contact" className="block py-3 font-medium uppercase transition-colors text-primary hover:text-secondary">Vita</a>
               </li>
             </Container>
           </ul>
