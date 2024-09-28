@@ -1,22 +1,26 @@
-import Nav from "./components/sections/Nav"
-import Hero from "./components/sections/Hero"
-import Work from "./components/sections/Work"
-import Clients from "./components/sections/Clients"
-import About from "./components/sections/About"
-import Blog from "./components/sections/Blog"
-import Contact from "./components/sections/Contact"
-import Footer from "./components/sections/Footer"
-import ImageSwiper from "./components/sections/Projects"
+import React from 'react';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import Layout from './components/pages/Layout';
+import Home from './components/pages/Home';
+import Imprint from './components/pages/Imprint';
+import DataPrivacy from './components/pages/DataPrivacy';
+import Contact from './components/pages/Contact';
+import NotFound from './components/pages/NotFound';
 
 const App = () => {
   return (
-    <>
-      <Nav />
-      <ImageSwiper/>
-      <Contact/>
-      <Footer />
-    </>
-  )
-}
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Layout />}>
+          <Route index element={<Home />} />
+          <Route path="kontakt" element={<Contact />} />
+          <Route path="datenschutz" element={<DataPrivacy />} />
+          <Route path="impressum" element={<Imprint />} />
+          <Route path="*" element={<NotFound />} />
+        </Route>
+      </Routes>
+    </BrowserRouter>
+  );
+};
 
-export default App
+export default App;

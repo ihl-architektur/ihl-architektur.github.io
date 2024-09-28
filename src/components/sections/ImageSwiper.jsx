@@ -4,7 +4,7 @@ import { useState } from 'react';
 
 import { FreeMode } from 'swiper/modules';
 
-const ImageSwiper = ({imageArray}) => {
+const ImageSwiper = ({ imageArray }) => {
   const [hovered, setHovered] = useState(null);
 
   return (
@@ -14,16 +14,16 @@ const ImageSwiper = ({imageArray}) => {
         slidesPerView={3}
         slidesPerGroup={3}
         modules={[FreeMode]}
-        loop={true} 
+        loop={true}
         freeMode={true}
         breakpoints={{
           320: {
             slidesPerView: 1,
-            spaceBetween: 1
+            spaceBetween: 1,
           },
           480: {
             slidesPerView: 1,
-            spaceBetween: 1
+            spaceBetween: 1,
           },
           640: {
             slidesPerView: 1,
@@ -52,18 +52,18 @@ const ImageSwiper = ({imageArray}) => {
                 className="object-cover w-full h-full"
               />
               {hovered === index && (
-               <div
-               className={`absolute inset-0 bg-black bg-opacity-60 flex items-center justify-center text-white text-lg font-semibold transition-opacity duration-300 ${
-                 hovered === index ? 'opacity-100' : 'opacity-0'
-               }`}
-             >
+                <div
+                  className={`absolute inset-0 bg-black bg-opacity-60 flex items-center justify-center text-white text-lg font-semibold transition-opacity duration-300 ${
+                    hovered === index ? 'opacity-100' : 'opacity-0'
+                  }`}
+                >
                   {image.title}
                 </div>
               )}
             </div>
           </SwiperSlide>
         ))}
-          </Swiper>
+      </Swiper>
     </div>
   );
 };
