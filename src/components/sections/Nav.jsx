@@ -4,6 +4,7 @@ import Logo from '../atoms/Logo';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBars } from '@fortawesome/free-solid-svg-icons';
 import { useRef } from 'react';
+import { Link } from 'react-router-dom';
 
 const Nav = () => {
   const menuRef = useRef();
@@ -20,20 +21,28 @@ const Nav = () => {
         <nav className="flex items-center">
           <ul className="items-center justify-between hidden gap-5 sm:flex">
             <li>
-              <a
-                href="#blog"
+              <Link
+                to="/"
+                className="font-medium uppercase transition-colors text-primary hover:text-secondary"
+              >
+                Projekte
+              </Link>
+            </li>
+            <li>
+              <Link
+                to="/kontakt"
                 className="font-medium uppercase transition-colors text-primary hover:text-secondary"
               >
                 Kontakt
-              </a>
+              </Link>
             </li>
             <li>
-              <a
-                href="#contact"
+              <Link
+                to="/vita"
                 className="font-medium uppercase transition-colors text-primary hover:text-secondary"
               >
                 Vita
-              </a>
+              </Link>
             </li>
           </ul>
           <button className="sm:hidden" onClick={switchMenu}>
@@ -45,20 +54,28 @@ const Nav = () => {
           >
             <Container>
               <li>
-                <a
-                  href="#blog"
+                <Link
+                  to="/"
+                  className="block py-3 font-medium uppercase transition-colors text-primary hover:text-secondary"
+                >
+                  Projekte
+                </Link>
+              </li>
+              <li>
+                <Link
+                  to="/kontakt"
                   className="block py-3 font-medium uppercase transition-colors text-primary hover:text-secondary"
                 >
                   Kontakt
-                </a>
+                </Link>
               </li>
               <li>
-                <a
-                  href="#contact"
+                <Link
+                  to="/vita"
                   className="block py-3 font-medium uppercase transition-colors text-primary hover:text-secondary"
                 >
                   Vita
-                </a>
+                </Link>
               </li>
             </Container>
           </ul>

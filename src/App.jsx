@@ -6,6 +6,7 @@ import Imprint from './components/pages/Imprint';
 import DataPrivacy from './components/pages/DataPrivacy';
 import Contact from './components/pages/Contact';
 import NotFound from './components/pages/NotFound';
+import Vita from './components/pages/Vita';
 
 const App = () => {
   return (
@@ -16,6 +17,7 @@ const App = () => {
           <Route path="kontakt" element={<Contact />} />
           <Route path="datenschutz" element={<DataPrivacy />} />
           <Route path="impressum" element={<Imprint />} />
+          <Route path="vita" element={<Vita />} />
           <Route path="*" element={<NotFound />} />
         </Route>
       </Routes>
