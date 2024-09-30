@@ -1,11 +1,22 @@
+import React from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
 import { useState } from 'react';
 
 import { FreeMode } from 'swiper/modules';
+import ProjectDetailView from './ProjectDetailView';
 
 const ImageSwiper = ({ imageArray }) => {
   const [hovered, setHovered] = useState(null);
+  const [selectedImage, setSelectedImage] = useState(null);
+
+  const handleImageClick = (image) => {
+    setSelectedImage(image);
+  };
+
+  const handleCloseDetails = () => {
+    setSelectedImage(null);
+  };
 
   return (
     <div className="py-1 cotnainer">
@@ -45,6 +56,7 @@ const ImageSwiper = ({ imageArray }) => {
               className="relative"
               onMouseEnter={() => setHovered(index)}
               onMouseLeave={() => setHovered(null)}
+              onClick={() => handleImageClick(image.title)}
             >
               <img
                 src={image.src}
@@ -64,6 +76,16 @@ const ImageSwiper = ({ imageArray }) => {
           </SwiperSlide>
         ))}
       </Swiper>
+      {selectedImage && (
+        <ProjectDetailView
+          title={selectedImage.title}
+          description={selectedImage.description}
+          date={selectedImage.date}
+          location={selectedImage.location}
+          tags={selectedImage.tags}
+          onClose={handleCloseDetails}
+        />
+      )}
     </div>
   );
 };

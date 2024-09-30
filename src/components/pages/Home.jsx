@@ -1,11 +1,11 @@
 import React from 'react';
 
-import ImageSwiper from '../sections/Projects';
+import Projects from '../sections/Projects';
 
 const Home = () => {
   return (
     <>
-      <ImageSwiper />
+      <Projects />
     </>
   );
 };

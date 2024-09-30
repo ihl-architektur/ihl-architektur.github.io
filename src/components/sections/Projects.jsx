@@ -1,14 +1,18 @@
 import React from 'react';
 
 import 'swiper/css';
-import { useState } from 'react';
+import boulderChurch from '../../data/boulderChurch/boulderChurch';
 
 import ImageSwiper from './ImageSwiper';
 
 const Projects = () => {
   // Hier Bilder einfügen
   const images = [
-    { src: 'https://via.placeholder.com/300x350', title: 'BoulderChurch' },
+    {
+      src: 'https://via.placeholder.com/300x350',
+      title: 'BoulderChurch',
+      data: boulderChurch,
+    },
     { src: 'https://via.placeholder.com/300x350', title: 'Image 2' },
     { src: 'https://via.placeholder.com/300x350', title: 'Image 3' },
     { src: 'https://via.placeholder.com/300x350', title: 'Image 4' },
