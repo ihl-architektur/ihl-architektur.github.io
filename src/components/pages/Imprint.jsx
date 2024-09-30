@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Imprint = () => {
-  return <div>Kontakt</div>;
+  return <div>Impressum</div>;
 };
 
 export default Imprint;
