@@ -8,14 +8,14 @@ import ProjectDetailView from './ProjectDetailView';
 
 const ImageSwiper = ({ imageArray }) => {
   const [hovered, setHovered] = useState(null);
-  const [selectedImage, setSelectedImage] = useState(null);
+  const [selectedProject, setSelectedProject] = useState(null);
 
-  const handleImageClick = (image) => {
-    setSelectedImage(image);
+  const handleProjectClick = (image) => {
+    setSelectedProject(image);
   };
 
   const handleCloseDetails = () => {
-    setSelectedImage(null);
+    setSelectedProject(null);
   };
 
   return (
@@ -29,24 +29,24 @@ const ImageSwiper = ({ imageArray }) => {
         freeMode={true}
         breakpoints={{
           320: {
-            slidesPerView: 1,
-            spaceBetween: 1,
+            slidesPerView: 3,
+            spaceBetween: 3,
           },
           480: {
-            slidesPerView: 1,
-            spaceBetween: 1,
+            slidesPerView: 3,
+            spaceBetween: 3,
           },
           640: {
-            slidesPerView: 1,
-            slidesPerGroup: 1,
-          },
-          768: {
-            slidesPerView: 2,
-            slidesPerGroup: 2,
-          },
-          1024: {
             slidesPerView: 3,
             slidesPerGroup: 3,
+          },
+          768: {
+            slidesPerView: 4,
+            slidesPerGroup: 4,
+          },
+          1024: {
+            slidesPerView: 5,
+            slidesPerGroup: 5,
           },
         }}
       >
@@ -56,7 +56,7 @@ const ImageSwiper = ({ imageArray }) => {
               className="relative"
               onMouseEnter={() => setHovered(index)}
               onMouseLeave={() => setHovered(null)}
-              onClick={() => handleImageClick(image.title)}
+              onClick={() => handleProjectClick(image)}
             >
               <img
                 src={image.src}
@@ -76,15 +76,8 @@ const ImageSwiper = ({ imageArray }) => {
           </SwiperSlide>
         ))}
       </Swiper>
-      {selectedImage && (
-        <ProjectDetailView
-          title={selectedImage.title}
-          description={selectedImage.description}
-          date={selectedImage.date}
-          location={selectedImage.location}
-          tags={selectedImage.tags}
-          onClose={handleCloseDetails}
-        />
+      {selectedProject && (
+        <ProjectDetailView {...selectedProject} onClose={handleCloseDetails} />
       )}
     </div>
   );

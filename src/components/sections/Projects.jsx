@@ -2,15 +2,13 @@ import React from 'react';
 
 import 'swiper/css';
 import boulderChurch from '../../data/boulderChurch/boulderChurch';
-
+import boulderCurchImage from '../../assets/ownwork/01_Ihl-Architektur_BOU_Innenperspektive.jpg';
 import ImageSwiper from './ImageSwiper';
 
 const Projects = () => {
-  // Hier Bilder einfügen
   const images = [
     {
-      src: 'https://via.placeholder.com/300x350',
-      title: 'BoulderChurch',
+      src: boulderCurchImage,
       data: boulderChurch,
     },
     { src: 'https://via.placeholder.com/300x350', title: 'Image 2' },
