@@ -2,6 +2,7 @@ import React from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
 import { useState } from 'react';
+import { useNavigate } from 'react-router-dom';
 
 import { FreeMode } from 'swiper/modules';
 import ProjectDetailView from './ProjectDetailView';
@@ -9,9 +10,10 @@ import ProjectDetailView from './ProjectDetailView';
 const ImageSwiper = ({ imageArray }) => {
   const [hovered, setHovered] = useState(null);
   const [selectedProject, setSelectedProject] = useState(null);
+  const navigate = useNavigate();
 
-  const handleProjectClick = (image) => {
-    setSelectedProject(image);
+  const handleProjectClick = (link) => {
+    navigate(link);
   };
 
   const handleCloseDetails = () => {
@@ -56,7 +58,7 @@ const ImageSwiper = ({ imageArray }) => {
               className="relative"
               onMouseEnter={() => setHovered(index)}
               onMouseLeave={() => setHovered(null)}
-              onClick={() => handleProjectClick(image)}
+              onClick={() => handleProjectClick(image.link)}
             >
               <img
                 src={image.src}

@@ -15,7 +15,7 @@ const Nav = () => {
   };
 
   return (
-    <div className="sticky top-0 left-0 z-30 flex items-center py-3 bg-white shadow-sm">
+    <div className="sticky top-0 left-0 z-30 flex items-center py-3 bg-white ">
       <Container className="flex items-center justify-between gap-3">
         <Logo />
         <nav className="flex items-center">
