@@ -3,7 +3,6 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-
 import { FreeMode } from 'swiper/modules';
 import ProjectDetailView from './ProjectDetailView';
 
@@ -55,16 +54,11 @@ const ImageSwiper = ({ imageArray }) => {
         {imageArray.map((image, index) => (
           <SwiperSlide key={index}>
             <div
-              className="relative"
               onMouseEnter={() => setHovered(index)}
               onMouseLeave={() => setHovered(null)}
               onClick={() => handleProjectClick(image.link)}
             >
-              <img
-                src={image.src}
-                alt={`Slide ${index + 1}`}
-                className="object-cover w-full h-full"
-              />
+              <img src={image.src} alt={`Slide ${index + 1}`} />
               {hovered === index && (
                 <div
                   className={`absolute inset-0 bg-black bg-opacity-60 flex items-center justify-center text-white text-lg font-semibold transition-opacity duration-300 ${

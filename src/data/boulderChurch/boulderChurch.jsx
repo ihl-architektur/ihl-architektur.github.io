@@ -1,7 +1,7 @@
 import { importAll } from 'components/utils/helper';
 
 const images = importAll(
-  require.context('../../assets/ownwork', false, /\.(png|jpe?g|svg)$/)
+  require.context('../../assets/projects-a', false, /\.(png|jpe?g|svg)$/)
 );
 
 const boulderChurch = {
