@@ -30,10 +30,30 @@ const Projects = () => {
       subtitle: 'Bouldercurch',
       link: '/projects/boulderchurch',
     },
-    { src: projectsA2, link: 'Image 2' },
-    { src: projectsA3, link: 'Image 3' },
-    { src: projectsA4, link: 'Image 4' },
-    { src: projectsA5, link: 'Image 5' },
+    {
+      src: projectsA2,
+      title: 'Boulderhalle',
+      subtitle: 'Bouldercurch',
+      link: '/projects/boulderchurch',
+    },
+    {
+      src: projectsA3,
+      title: 'Boulderhalle',
+      subtitle: 'Bouldercurch',
+      link: '/projects/boulderchurch',
+    },
+    {
+      src: projectsA4,
+      title: 'Boulderhalle',
+      subtitle: 'Bouldercurch',
+      link: '/projects/boulderchurch',
+    },
+    {
+      src: projectsA5,
+      title: 'Boulderhalle',
+      subtitle: 'Bouldercurch',
+      link: '/projects/boulderchurch',
+    },
   ];
 
   const images2 = [
