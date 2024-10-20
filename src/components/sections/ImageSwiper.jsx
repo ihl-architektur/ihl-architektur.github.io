@@ -5,6 +5,7 @@ import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { FreeMode } from 'swiper/modules';
 import ProjectDetailView from './ProjectDetailView';
+import './swiper.css';
 
 const ImageSwiper = ({ imageArray }) => {
   const [hovered, setHovered] = useState(null);
@@ -23,10 +24,7 @@ const ImageSwiper = ({ imageArray }) => {
     <div className="py-1 cotnainer">
       <Swiper
         spaceBetween={8}
-        slidesPerView={3}
-        slidesPerGroup={3}
         modules={[FreeMode]}
-        loop={true}
         freeMode={true}
         breakpoints={{
           320: {
@@ -42,12 +40,11 @@ const ImageSwiper = ({ imageArray }) => {
             slidesPerGroup: 3,
           },
           768: {
-            slidesPerView: 4,
-            slidesPerGroup: 4,
+            slidesPerView: 2,
+            slidesPerGroup: 2,
           },
           1024: {
-            slidesPerView: 5,
-            slidesPerGroup: 5,
+            slidesPerView: 3,
           },
         }}
       >
@@ -61,11 +58,14 @@ const ImageSwiper = ({ imageArray }) => {
               <img src={image.src} alt={`Slide ${index + 1}`} />
               {hovered === index && (
                 <div
-                  className={`absolute inset-0 bg-black bg-opacity-60 flex items-center justify-center text-white text-lg font-semibold transition-opacity duration-300 ${
+                  className={`absolute flex-col inset-0 bg-secondary bg-opacity-80 flex items-center justify-center text-black text-lg font-semibold transition-opacity duration-300 ${
                     hovered === index ? 'opacity-100' : 'opacity-0'
                   }`}
                 >
-                  {image.title}
+                  {image?.title?.toUpperCase()}
+                  <p className="text-sm font-normal">
+                    {image?.subtitle?.toUpperCase()}
+                  </p>
                 </div>
               )}
             </div>

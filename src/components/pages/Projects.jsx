@@ -26,6 +26,8 @@ const Projects = () => {
   const images = [
     {
       src: projectsA1,
+      title: 'Boulderhalle',
+      subtitle: 'Bouldercurch',
       link: '/projects/boulderchurch',
     },
     { src: projectsA2, link: 'Image 2' },
