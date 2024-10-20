@@ -1,11 +1,14 @@
 import React from 'react';
+import Container from 'components/utils/Container';
 
 const Vita = () => {
   return (
-    <div>
-      VITA Hallo hier bin ich
-      <p>das ist ein P</p>
-    </div>
+    <Container>
+      <div>
+        VITA Hallo hier bin ich
+        <p>das ist ein P</p>
+      </div>
+    </Container>
   );
 };
 

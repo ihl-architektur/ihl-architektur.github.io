@@ -20,7 +20,7 @@ import projectsC4 from '../../assets/projects-c/04_Fachmodul_Bildbauten.jpg';
 
 import projectsD1 from '../../assets/projects-d/01_Architekturkollektiv_Lattemit.jpg';
 import projectsD2 from '../../assets/projects-d/02_Thusanang_Soziales-Projekt.jpg';
-import ImageSwiper from './ImageSwiper';
+import ImageSwiper from 'components/sections/ImageSwiper';
 
 const Projects = () => {
   const images = [

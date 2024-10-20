@@ -1,9 +1,8 @@
 import React from 'react';
 import ProjectDetailView from 'components/sections/ProjectDetailView';
-import boulderChurchData from 'data/boulderChurch/boulderChurch';
 
 const Renes = () => {
-  return <ProjectDetailView data={boulderChurchData} />;
+  return <ProjectDetailView />;
 };
 
 export default Renes;

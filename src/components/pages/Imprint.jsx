@@ -1,7 +1,12 @@
 import React from 'react';
+import Container from 'components/utils/Container';
 
 const Imprint = () => {
-  return <div>Impressum</div>;
+  return (
+    <Container>
+      <div>Impressum</div>
+    </Container>
+  );
 };
 
 export default Imprint;
