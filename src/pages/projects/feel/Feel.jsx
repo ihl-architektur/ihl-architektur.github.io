@@ -1,5 +1,5 @@
 import React from 'react';
-import ProjectDetailView from 'components/molecules/ProjectDetailView/ProjectDetailView';
+import ProjectDetailView from 'components/ProjectDetailView/ProjectDetailView';
 import boulderChurchData from './data';
 
 const Feel = () => {
