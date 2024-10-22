@@ -4,25 +4,24 @@ import 'swiper/css';
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { FreeMode } from 'swiper/modules';
-import ProjectDetailView from './ProjectDetailView';
 import './swiper.css';
 
 const ImageSwiper = ({ imageArray }) => {
   const [hovered, setHovered] = useState(null);
-  const [selectedProject, setSelectedProject] = useState(null);
   const navigate = useNavigate();
 
   const handleProjectClick = (link) => {
     navigate(link);
   };
 
-  const handleCloseDetails = () => {
-    setSelectedProject(null);
-  };
-
   return (
     <div className="py-1 cotnainer">
-      <Swiper spaceBetween={8} modules={[FreeMode]} freeMode={true}>
+      <Swiper
+        spaceBetween={8}
+        modules={[FreeMode]}
+        freeMode={true}
+        slidesPerView="auto"
+      >
         {imageArray.map((image, index) => (
           <SwiperSlide key={index}>
             <div
@@ -47,9 +46,6 @@ const ImageSwiper = ({ imageArray }) => {
           </SwiperSlide>
         ))}
       </Swiper>
-      {selectedProject && (
-        <ProjectDetailView {...selectedProject} onClose={handleCloseDetails} />
-      )}
     </div>
   );
 };

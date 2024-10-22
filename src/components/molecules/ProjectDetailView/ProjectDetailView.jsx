@@ -1,18 +1,21 @@
-import React from 'react';
+import React, { useRef } from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faTimes } from '@fortawesome/free-solid-svg-icons';
+import 'swiper/css';
 import './swiper.css';
+import { Navigation, Pagination } from 'swiper/modules';
 import Container from 'utils/Container';
 import { Link } from 'react-router-dom';
 
 const ProjectDetailView = ({ data }) => {
+  const swiperRef = useRef(null); // Reference to the Swiper instance
+
   return (
     <Container>
       {/* Close button */}
-
       <div className="flex flex-col w-full h-full bg-white">
-        <div className="flex flex-row justify-between py-4 ">
+        <div className="flex flex-row justify-between py-4">
           <div className="flex flex-col justify-left">
             <h2 className="text-xl">{data.topline}</h2>
             <h1 className="text-3xl">{data.title.toUpperCase()}</h1>
@@ -27,9 +30,17 @@ const ProjectDetailView = ({ data }) => {
 
         {/* Set overflow-hidden only for the image carousel */}
         <div className="items-center justify-center">
-          <Swiper slidesPerView={2} pagination={{ clickable: true }} navigation>
+          <Swiper
+            slidesPerView={1}
+            slidesPerGroup={1}
+            pagination={{ clickable: true }}
+            navigation={true}
+            showsPagination={false}
+            onSwiper={(swiper) => (swiperRef.current = swiper)} // Assign swiper instance to ref
+            modules={[Navigation, Pagination]} // Add navigation and pagination modules
+          >
             {data?.images?.map((image, index) => (
-              <SwiperSlide key={index}>
+              <SwiperSlide key={index} className="swiper-slidewide">
                 <img src={image.imageUrl} alt={image.subtitle} />
               </SwiperSlide>
             ))}
@@ -37,7 +48,7 @@ const ProjectDetailView = ({ data }) => {
         </div>
 
         {/* Scrollable content section */}
-        <div className="flex ">
+        <div className="flex">
           <div className="">
             <div className="flex flex-col md:flex-row">
               {/* Main text section, make sure this area is scrollable */}

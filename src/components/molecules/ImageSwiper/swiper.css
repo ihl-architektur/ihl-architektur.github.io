@@ -6,12 +6,9 @@
   .swiper-button-prev {
     color: #ffe600;
   }
-  
-
 
 .swiper-slide {
     width: auto !important; /* Make slide width depend on the image width */
-
 }
 
 

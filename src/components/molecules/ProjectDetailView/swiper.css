@@ -1,0 +1,18 @@
+
+.swiper-button-next {
+    color: #ffe600; 
+  }
+  
+  .swiper-button-prev {
+    color: #ffe600;
+  }
+  
+  .swiper-slidewide {
+    width: 100% !important;
+}
+
+.swiper-pagination-bullets {
+  display: none;
+}
+
+  
