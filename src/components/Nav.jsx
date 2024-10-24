@@ -12,6 +12,7 @@ const Nav = () => {
   const switchMenu = () => {
     menuRef.current.classList.toggle('top-full');
     menuRef.current.classList.toggle('translate-y-0');
+    menuRef.current.classList.toggle('shadow-md');
   };
 
   return (
@@ -49,12 +50,13 @@ const Nav = () => {
             <FontAwesomeIcon icon={faBars} className="text-2xl" />
           </button>
           <ul
-            className="absolute top-0 left-0 z-10 w-full transition -translate-y-full bg-white shadow-md sm:hidden"
+            className="absolute top-0 left-0 z-10 w-full transition -translate-y-full bg-white sm:hidden"
             ref={menuRef}
           >
             <Container>
               <li>
                 <Link
+                  onClick={switchMenu}
                   to="/"
                   className="block py-3 font-medium uppercase transition-colors text-primary hover:text-secondary"
                 >
@@ -63,6 +65,7 @@ const Nav = () => {
               </li>
               <li>
                 <Link
+                  onClick={switchMenu}
                   to="/kontakt"
                   className="block py-3 font-medium uppercase transition-colors text-primary hover:text-secondary"
                 >
@@ -71,6 +74,7 @@ const Nav = () => {
               </li>
               <li>
                 <Link
+                  onClick={switchMenu}
                   to="/vita"
                   className="block py-3 font-medium uppercase transition-colors text-primary hover:text-secondary"
                 >
