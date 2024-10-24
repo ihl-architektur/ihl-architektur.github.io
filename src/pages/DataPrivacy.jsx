@@ -4,7 +4,7 @@ import Container from 'utils/Container';
 const DataPrivacy = () => {
   return (
     <Container>
-      <div>Datenschutz</div>
+      <div>Datenschutz und mehr</div>
     </Container>
   );
 };
