@@ -5,7 +5,7 @@ const Vita = () => {
   return (
     <Container>
       <div>
-        VITA Hallo hier bin ich
+        LEBENSLAUF
         <p>das ist ein P</p>
       </div>
     </Container>
