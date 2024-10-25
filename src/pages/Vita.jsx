@@ -213,7 +213,7 @@ const Vita = () => {
               >
                 04/2024
               </span>
-              Architekturkollektiv 'LaPemit'
+              Architekturkollektiv &apos;LaPemit&apos;
             </div>
             <div>
               <span
@@ -226,7 +226,7 @@ const Vita = () => {
               >
                 02/2020 - 03/2020
               </span>
-              Soziales Projekt 'Thusanang', Südafrika
+              Soziales Projekt &apos;Thusanang&apos;, Südafrika
             </div>
           </div>
         </section>
