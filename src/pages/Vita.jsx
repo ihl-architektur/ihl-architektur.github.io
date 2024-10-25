@@ -7,70 +7,128 @@ const Vita = () => {
       <div>
         LEBENSLAUF
         <section>
-            <h2 style={{ color: '#555', borderBottom: '2px solid #ccc', paddingBottom: '5px', fontSize: '1.2em' }}>Ausbildung</h2>
-            <div>
-                <div style={{ marginBottom: '10px', display: 'flex', alignItems: 'flex-start' }}>
-                    <span style={{ fontWeight: 'bold', color: '#888', width: '80px', display: 'inline-block' }}>
-                        10/2016<br />02/2018
-                    </span>
-                    Master of Science (m. Auszeichnung), TU Darmstadt
-                </div>
-                <div style={{ marginBottom: '10px', display: 'flex', alignItems: 'flex-start' }}>
-                    <span style={{ fontWeight: 'bold', color: '#888', width: '80px', display: 'inline-block' }}>
-                        09/2015<br />06/2016
-                    </span>
-                    Austauschstudium, EPF Lausanne
-                </div>
-                <div style={{ marginBottom: '10px', display: 'flex', alignItems: 'flex-start' }}>
-                    <span style={{ fontWeight: 'bold', color: '#888', width: '80px', display: 'inline-block' }}>
-                        10/2011<br />07/2014
-                    </span>
-                    Bachelor of Science, TU Darmstadt
-                </div>
+          <h2
+            style={{
+              color: '#555',
+              borderBottom: '2px solid #ccc',
+              paddingBottom: '5px',
+              fontSize: '1.2em',
+            }}
+          >
+            Ausbildung
+          </h2>
+          <div>
+            <div style={{ marginBottom: '10px' }}>
+              <span style={{ fontWeight: 'bold', color: '#888' }}>
+                10/2016 - 02/2018
+              </span>{' '}
+              Master of Science (m. Auszeichnung), TU Darmstadt
             </div>
+            <div style={{ marginBottom: '10px' }}>
+              <span style={{ fontWeight: 'bold', color: '#888' }}>
+                09/2015 - 06/2016
+              </span>{' '}
+              Austauschstudium, EPF Lausanne
+            </div>
+            <div style={{ marginBottom: '10px' }}>
+              <span style={{ fontWeight: 'bold', color: '#888' }}>
+                10/2011 - 07/2014
+              </span>{' '}
+              Bachelor of Science, TU Darmstadt
+            </div>
+          </div>
         </section>
-
         <section>
-            <h2 style={{ color: '#555', borderBottom: '2px solid #ccc', paddingBottom: '5px', fontSize: '1.2em' }}>Beruflicher Werdegang</h2>
-            <div>
-                <div style={{ marginBottom: '10px', display: 'flex', alignItems: 'flex-start' }}>
-                    <span style={{ fontWeight: 'bold', color: '#888', width: '80px', display: 'inline-block' }}>
-                        01/2024<br />
-                    </span>
-                    Mitglied der Architektenkammer, Berlin
-                </div>
-                <div style={{ marginBottom: '10px', display: 'flex', alignItems: 'flex-start' }}>
-                    <span style={{ fontWeight: 'bold', color: '#888', width: '80px', display: 'inline-block' }}>
-                        11/2023<br />
-                    </span>
-                    Selbstständigkeit
-                </div>
-                <div style={{ marginBottom: '10px', display: 'flex', alignItems: 'flex-start' }}>
-                    <span style={{ fontWeight: 'bold', color: '#888', width: '80px', display: 'inline-block' }}>
-                        07/2022<br />12/2023
-                    </span>
-                    Mitarbeiterin, Müller Reimann Architekten, Berlin
-                </div>
-                <!-- Weitere Einträge folgen im gleichen Format -->
+          <h2
+            style={{
+              color: '#555',
+              borderBottom: '2px solid #ccc',
+              paddingBottom: '5px',
+              fontSize: '1.2em',
+            }}
+          >
+            Beruflicher Werdegang
+          </h2>
+          <div>
+            <div style={{ marginBottom: '10px' }}>
+              <span style={{ fontWeight: 'bold', color: '#888' }}>
+                01/2024 -
+              </span>{' '}
+              Mitglied der Architektenkammer, Berlin
             </div>
+            <div style={{ marginBottom: '10px' }}>
+              <span style={{ fontWeight: 'bold', color: '#888' }}>
+                11/2023 -
+              </span>{' '}
+              Selbstständigkeit
+            </div>
+            <div style={{ marginBottom: '10px' }}>
+              <span style={{ fontWeight: 'bold', color: '#888' }}>
+                07/2022 - 12/2023
+              </span>{' '}
+              Mitarbeiterin, Müller Reimann Architekten, Berlin
+            </div>
+            <div style={{ marginBottom: '10px' }}>
+              <span style={{ fontWeight: 'bold', color: '#888' }}>
+                04/2019 - 04/2022
+              </span>{' '}
+              Mitarbeiterin, Heneghan peng architects, Berlin
+            </div>
+            <div style={{ marginBottom: '10px' }}>
+              <span style={{ fontWeight: 'bold', color: '#888' }}>
+                04/2018 - 08/2018
+              </span>{' '}
+              Wiss. Mitarbeiterin, Entwerfen und Baukonstruktion, TU DA
+            </div>
+            <div style={{ marginBottom: '10px' }}>
+              <span style={{ fontWeight: 'bold', color: '#888' }}>
+                06/2017 - 01/2018
+              </span>{' '}
+              Praktikantin, Waechter + Waechter Architekten, Darmstadt
+            </div>
+            <div style={{ marginBottom: '10px' }}>
+              <span style={{ fontWeight: 'bold', color: '#888' }}>
+                06/2016 - 11/2016
+              </span>{' '}
+              Praktikantin, Dreier Frenzel Architekten, Lausanne
+            </div>
+            <div style={{ marginBottom: '10px' }}>
+              <span style={{ fontWeight: 'bold', color: '#888' }}>
+                10/2014 - 08/2015
+              </span>{' '}
+              Tutorin, Entwerfen und Gebäudetechnologie, TU DA
+            </div>
+            <div style={{ marginBottom: '10px' }}>
+              <span style={{ fontWeight: 'bold', color: '#888' }}>
+                10/2013 - 07/2014
+              </span>{' '}
+              Tutorin, Entwerfen und Stadtentwicklung, TU DA
+            </div>
+          </div>
         </section>
-
         <section>
-            <h2 style={{ color: '#555', borderBottom: '2px solid #ccc', paddingBottom: '5px', fontSize: '1.2em' }}>Nebenberufliche Engagements</h2>
-            <div>
-                <div style={{ marginBottom: '10px', display: 'flex', alignItems: 'flex-start' }}>
-                    <span style={{ fontWeight: 'bold', color: '#888', width: '80px', display: 'inline-block' }}>
-                        04/2024
-                    </span>
-                    Architekturkollektiv &apos;LaPemit&apos;
-                </div>
-                <div style={{ marginBottom: '10px', display: 'flex', alignItems: 'flex-start' }}>
-                    <span style={{ fontWeight: 'bold', color: '#888', width: '80px', display: 'inline-block' }}>
-                        02/2020<br />03/2020
-                    </span>
-                    Soziales Projekt &apos;Thusanang&apos;, Südafrika
-                </div>
+          <h2
+            style={{
+              color: '#555',
+              borderBottom: '2px solid #ccc',
+              paddingBottom: '5px',
+              fontSize: '1.2em',
+            }}
+          >
+            Nebenberufliche Engagements
+          </h2>
+          <div>
+            <div style={{ marginBottom: '10px' }}>
+              <span style={{ fontWeight: 'bold', color: '#888' }}>04/2024</span>{' '}
+              Architekturkollektiv &apos;LaPemit&apos;
             </div>
+            <div style={{ marginBottom: '10px' }}>
+              <span style={{ fontWeight: 'bold', color: '#888' }}>
+                02/2020 - 03/2020
+              </span>{' '}
+              Soziales Projekt &apos;Thusanang&apos;, Südafrika
+            </div>
+          </div>
         </section>
         <p>das ist ein P</p>
       </div>
