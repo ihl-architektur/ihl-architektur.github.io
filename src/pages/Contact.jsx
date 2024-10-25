@@ -12,7 +12,9 @@ const Contact = () => {
           color: '#333',
         }}
       >
-        <div style={{ marginRight: '2em' }}>
+        <div style={{ marginRight: '4em', display: 'inline-block' }}>
+          {' '}
+          {/* Abstand auf 4em erhöht */}
           <p style={{ margin: 0 }}>KONTAKT</p>
         </div>
         <div>
