@@ -18,22 +18,67 @@ const Vita = () => {
             Ausbildung
           </h2>
           <div>
-            <div style={{ marginBottom: '10px' }}>
-              <span style={{ fontWeight: 'bold', color: '#888' }}>
-                10/2016 - 02/2018
-              </span>{' '}
+            <div
+              style={{
+                marginBottom: '10px',
+                display: 'flex',
+                alignItems: 'flex-start',
+              }}
+            >
+              <span
+                style={{
+                  fontWeight: 'bold',
+                  color: '#888',
+                  width: '80px',
+                  textAlign: 'center',
+                }}
+              >
+                <span style={{ display: 'block' }}>10/2016</span>
+                <span style={{ display: 'block' }}>-</span>
+                <span style={{ display: 'block' }}>02/2018</span>
+              </span>
               Master of Science (m. Auszeichnung), TU Darmstadt
             </div>
-            <div style={{ marginBottom: '10px' }}>
-              <span style={{ fontWeight: 'bold', color: '#888' }}>
-                09/2015 - 06/2016
-              </span>{' '}
+            <div
+              style={{
+                marginBottom: '10px',
+                display: 'flex',
+                alignItems: 'flex-start',
+              }}
+            >
+              <span
+                style={{
+                  fontWeight: 'bold',
+                  color: '#888',
+                  width: '80px',
+                  textAlign: 'center',
+                }}
+              >
+                <span style={{ display: 'block' }}>09/2015</span>
+                <span style={{ display: 'block' }}>-</span>
+                <span style={{ display: 'block' }}>06/2016</span>
+              </span>
               Austauschstudium, EPF Lausanne
             </div>
-            <div style={{ marginBottom: '10px' }}>
-              <span style={{ fontWeight: 'bold', color: '#888' }}>
-                10/2011 - 07/2014
-              </span>{' '}
+            <div
+              style={{
+                marginBottom: '10px',
+                display: 'flex',
+                alignItems: 'flex-start',
+              }}
+            >
+              <span
+                style={{
+                  fontWeight: 'bold',
+                  color: '#888',
+                  width: '80px',
+                  textAlign: 'center',
+                }}
+              >
+                <span style={{ display: 'block' }}>10/2011</span>
+                <span style={{ display: 'block' }}>-</span>
+                <span style={{ display: 'block' }}>07/2014</span>
+              </span>
               Bachelor of Science, TU Darmstadt
             </div>
           </div>
@@ -50,22 +95,63 @@ const Vita = () => {
             Beruflicher Werdegang
           </h2>
           <div>
-            <div style={{ marginBottom: '10px' }}>
-              <span style={{ fontWeight: 'bold', color: '#888' }}>
-                01/2024 -
-              </span>{' '}
+            <div
+              style={{
+                marginBottom: '10px',
+                display: 'flex',
+                alignItems: 'flex-start',
+              }}
+            >
+              <span
+                style={{
+                  fontWeight: 'bold',
+                  color: '#888',
+                  width: '80px',
+                  textAlign: 'center',
+                }}
+              >
+                <span style={{ display: 'block' }}>01/2024</span>
+              </span>
               Mitglied der Architektenkammer, Berlin
             </div>
-            <div style={{ marginBottom: '10px' }}>
-              <span style={{ fontWeight: 'bold', color: '#888' }}>
-                11/2023 -
-              </span>{' '}
+            <div
+              style={{
+                marginBottom: '10px',
+                display: 'flex',
+                alignItems: 'flex-start',
+              }}
+            >
+              <span
+                style={{
+                  fontWeight: 'bold',
+                  color: '#888',
+                  width: '80px',
+                  textAlign: 'center',
+                }}
+              >
+                <span style={{ display: 'block' }}>11/2023</span>
+              </span>
               Selbstständigkeit
             </div>
-            <div style={{ marginBottom: '10px' }}>
-              <span style={{ fontWeight: 'bold', color: '#888' }}>
-                07/2022 - 12/2023
-              </span>{' '}
+            <div
+              style={{
+                marginBottom: '10px',
+                display: 'flex',
+                alignItems: 'flex-start',
+              }}
+            >
+              <span
+                style={{
+                  fontWeight: 'bold',
+                  color: '#888',
+                  width: '80px',
+                  textAlign: 'center',
+                }}
+              >
+                <span style={{ display: 'block' }}>07/2022</span>
+                <span style={{ display: 'block' }}>-</span>
+                <span style={{ display: 'block' }}>12/2023</span>
+              </span>
               Mitarbeiterin, Müller Reimann Architekten, Berlin
             </div>
             <div style={{ marginBottom: '10px' }}>
