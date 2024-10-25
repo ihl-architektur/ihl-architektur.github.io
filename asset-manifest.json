@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e3e28e56.css",
-    "main.js": "/static/js/main.e50a592e.js",
+    "main.css": "/static/css/main.e4e7b130.css",
+    "main.js": "/static/js/main.d5900036.js",
     "static/media/02_Thusanang_Soziales-Projekt.jpg": "/static/media/02_Thusanang_Soziales-Projekt.e8b256def08a613df88e.jpg",
     "static/media/03_Ihl-Architektur_BOU_Foto Chorbereich.jpg": "/static/media/03_Ihl-Architektur_BOU_Foto Chorbereich.3eb7489432af7d8796ba.jpg",
     "static/media/05_bad-orb-st-michael3-bild-Jörg-Braukmann-cc-by-sa-4.0-2020.jpg": "/static/media/05_bad-orb-st-michael3-bild-Jörg-Braukmann-cc-by-sa-4.0-2020.d59c90d9c2ed2afb85db.jpg",
@@ -19,11 +19,11 @@
     "static/media/02_Ihl-Architektur_BOU_Erdgeschoss.jpg": "/static/media/02_Ihl-Architektur_BOU_Erdgeschoss.9fa55ba20351c33a185b.jpg",
     "static/media/04_Ihl-Architektur_BOU_Emporenebene.jpg": "/static/media/04_Ihl-Architektur_BOU_Emporenebene.55710fe16580b3736ab5.jpg",
     "index.html": "/index.html",
-    "main.e3e28e56.css.map": "/static/css/main.e3e28e56.css.map",
-    "main.e50a592e.js.map": "/static/js/main.e50a592e.js.map"
+    "main.e4e7b130.css.map": "/static/css/main.e4e7b130.css.map",
+    "main.d5900036.js.map": "/static/js/main.d5900036.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3e28e56.css",
-    "static/js/main.e50a592e.js"
+    "static/css/main.e4e7b130.css",
+    "static/js/main.d5900036.js"
   ]
 }
