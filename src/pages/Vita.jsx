@@ -17,44 +17,23 @@ const Vita = () => {
           >
             Ausbildung
           </h2>
-          <div style={{ paddingLeft: '20px' }}>
-            <div>
-              <span
-                style={{
-                  fontWeight: 'bold',
-                  color: '#888',
-                  width: '150px',
-                  display: 'inline-block',
-                }}
-              >
+          <div>
+            <div style={{ marginBottom: '10px' }}>
+              <span style={{ fontWeight: 'bold', color: '#888' }}>
                 10/2016 - 02/2018
-              </span>
+              </span>{' '}
               Master of Science (m. Auszeichnung), TU Darmstadt
             </div>
-            <div>
-              <span
-                style={{
-                  fontWeight: 'bold',
-                  color: '#888',
-                  width: '150px',
-                  display: 'inline-block',
-                }}
-              >
+            <div style={{ marginBottom: '10px' }}>
+              <span style={{ fontWeight: 'bold', color: '#888' }}>
                 09/2015 - 06/2016
-              </span>
+              </span>{' '}
               Austauschstudium, EPF Lausanne
             </div>
-            <div>
-              <span
-                style={{
-                  fontWeight: 'bold',
-                  color: '#888',
-                  width: '150px',
-                  display: 'inline-block',
-                }}
-              >
+            <div style={{ marginBottom: '10px' }}>
+              <span style={{ fontWeight: 'bold', color: '#888' }}>
                 10/2011 - 07/2014
-              </span>
+              </span>{' '}
               Bachelor of Science, TU Darmstadt
             </div>
           </div>
@@ -70,122 +49,59 @@ const Vita = () => {
           >
             Beruflicher Werdegang
           </h2>
-          <div style={{ paddingLeft: '20px' }}>
-            <div>
-              <span
-                style={{
-                  fontWeight: 'bold',
-                  color: '#888',
-                  width: '150px',
-                  display: 'inline-block',
-                }}
-              >
+          <div>
+            <div style={{ marginBottom: '10px' }}>
+              <span style={{ fontWeight: 'bold', color: '#888' }}>
                 01/2024 -
-              </span>
+              </span>{' '}
               Mitglied der Architektenkammer, Berlin
             </div>
-            <div>
-              <span
-                style={{
-                  fontWeight: 'bold',
-                  color: '#888',
-                  width: '150px',
-                  display: 'inline-block',
-                }}
-              >
+            <div style={{ marginBottom: '10px' }}>
+              <span style={{ fontWeight: 'bold', color: '#888' }}>
                 11/2023 -
-              </span>
+              </span>{' '}
               Selbstständigkeit
             </div>
-            <div>
-              <span
-                style={{
-                  fontWeight: 'bold',
-                  color: '#888',
-                  width: '150px',
-                  display: 'inline-block',
-                }}
-              >
+            <div style={{ marginBottom: '10px' }}>
+              <span style={{ fontWeight: 'bold', color: '#888' }}>
                 07/2022 - 12/2023
-              </span>
+              </span>{' '}
               Mitarbeiterin, Müller Reimann Architekten, Berlin
             </div>
-            <div>
-              <span
-                style={{
-                  fontWeight: 'bold',
-                  color: '#888',
-                  width: '150px',
-                  display: 'inline-block',
-                }}
-              >
+            <div style={{ marginBottom: '10px' }}>
+              <span style={{ fontWeight: 'bold', color: '#888' }}>
                 04/2019 - 04/2022
-              </span>
+              </span>{' '}
               Mitarbeiterin, Heneghan peng architects, Berlin
             </div>
-            <div>
-              <span
-                style={{
-                  fontWeight: 'bold',
-                  color: '#888',
-                  width: '150px',
-                  display: 'inline-block',
-                }}
-              >
+            <div style={{ marginBottom: '10px' }}>
+              <span style={{ fontWeight: 'bold', color: '#888' }}>
                 04/2018 - 08/2018
-              </span>
+              </span>{' '}
               Wiss. Mitarbeiterin, Entwerfen und Baukonstruktion, TU DA
             </div>
-            <div>
-              <span
-                style={{
-                  fontWeight: 'bold',
-                  color: '#888',
-                  width: '150px',
-                  display: 'inline-block',
-                }}
-              >
+            <div style={{ marginBottom: '10px' }}>
+              <span style={{ fontWeight: 'bold', color: '#888' }}>
                 06/2017 - 01/2018
-              </span>
+              </span>{' '}
               Praktikantin, Waechter + Waechter Architekten, Darmstadt
             </div>
-            <div>
-              <span
-                style={{
-                  fontWeight: 'bold',
-                  color: '#888',
-                  width: '150px',
-                  display: 'inline-block',
-                }}
-              >
+            <div style={{ marginBottom: '10px' }}>
+              <span style={{ fontWeight: 'bold', color: '#888' }}>
                 06/2016 - 11/2016
-              </span>
+              </span>{' '}
               Praktikantin, Dreier Frenzel Architekten, Lausanne
             </div>
-            <div>
-              <span
-                style={{
-                  fontWeight: 'bold',
-                  color: '#888',
-                  width: '150px',
-                  display: 'inline-block',
-                }}
-              >
+            <div style={{ marginBottom: '10px' }}>
+              <span style={{ fontWeight: 'bold', color: '#888' }}>
                 10/2014 - 08/2015
-              </span>
+              </span>{' '}
               Tutorin, Entwerfen und Gebäudetechnologie, TU DA
             </div>
-            <div>
-              <span
-                style={{
-                  fontWeight: 'bold',
-                  color: '#888',
-                  width: '150px',
-                  display: 'inline-block',
-                }}
-              >
+            <div style={{ marginBottom: '10px' }}>
+              <span style={{ fontWeight: 'bold', color: '#888' }}>
                 10/2013 - 07/2014
-              </span>
+              </span>{' '}
               Tutorin, Entwerfen und Stadtentwicklung, TU DA
             </div>
           </div>
@@ -201,31 +117,15 @@ const Vita = () => {
           >
             Nebenberufliche Engagements
           </h2>
-          <div style={{ paddingLeft: '20px' }}>
-            <div>
-              <span
-                style={{
-                  fontWeight: 'bold',
-                  color: '#888',
-                  width: '150px',
-                  display: 'inline-block',
-                }}
-              >
-                04/2024
-              </span>
+          <div>
+            <div style={{ marginBottom: '10px' }}>
+              <span style={{ fontWeight: 'bold', color: '#888' }}>04/2024</span>{' '}
               Architekturkollektiv &apos;LaPemit&apos;
             </div>
-            <div>
-              <span
-                style={{
-                  fontWeight: 'bold',
-                  color: '#888',
-                  width: '150px',
-                  display: 'inline-block',
-                }}
-              >
+            <div style={{ marginBottom: '10px' }}>
+              <span style={{ fontWeight: 'bold', color: '#888' }}>
                 02/2020 - 03/2020
-              </span>
+              </span>{' '}
               Soziales Projekt &apos;Thusanang&apos;, Südafrika
             </div>
           </div>
