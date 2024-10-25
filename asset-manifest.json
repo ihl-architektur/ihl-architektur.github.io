@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e4e7b130.css",
-    "main.js": "/static/js/main.d5900036.js",
+    "main.js": "/static/js/main.87a76aca.js",
     "static/media/02_Thusanang_Soziales-Projekt.jpg": "/static/media/02_Thusanang_Soziales-Projekt.e8b256def08a613df88e.jpg",
     "static/media/03_Ihl-Architektur_BOU_Foto Chorbereich.jpg": "/static/media/03_Ihl-Architektur_BOU_Foto Chorbereich.3eb7489432af7d8796ba.jpg",
     "static/media/05_bad-orb-st-michael3-bild-Jörg-Braukmann-cc-by-sa-4.0-2020.jpg": "/static/media/05_bad-orb-st-michael3-bild-Jörg-Braukmann-cc-by-sa-4.0-2020.d59c90d9c2ed2afb85db.jpg",
@@ -20,10 +20,10 @@
     "static/media/04_Ihl-Architektur_BOU_Emporenebene.jpg": "/static/media/04_Ihl-Architektur_BOU_Emporenebene.55710fe16580b3736ab5.jpg",
     "index.html": "/index.html",
     "main.e4e7b130.css.map": "/static/css/main.e4e7b130.css.map",
-    "main.d5900036.js.map": "/static/js/main.d5900036.js.map"
+    "main.87a76aca.js.map": "/static/js/main.87a76aca.js.map"
   },
   "entrypoints": [
     "static/css/main.e4e7b130.css",
-    "static/js/main.d5900036.js"
+    "static/js/main.87a76aca.js"
   ]
 }
