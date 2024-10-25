@@ -27,51 +27,112 @@ const Projects = () => {
     {
       src: projectsA1,
       title: 'Boulderhalle',
-      subtitle: 'Bouldercurch',
+      subtitle: 'Eigenes Projekt',
       link: '/projects/boulderchurch',
     },
     {
       src: projectsA2,
       title: 'Boulderhalle',
-      subtitle: 'Bouldercurch',
+      subtitle: 'Eigenes Projekt',
       link: '/projects/boulderchurch',
     },
     {
       src: projectsA3,
       title: 'Boulderhalle',
-      subtitle: 'Bouldercurch',
+      subtitle: 'Eigenes Projekt',
       link: '/projects/boulderchurch',
     },
     {
       src: projectsA4,
       title: 'Boulderhalle',
-      subtitle: 'Bouldercurch',
+      subtitle: 'Eigenes Projekt',
       link: '/projects/boulderchurch',
     },
     {
       src: projectsA5,
       title: 'Boulderhalle',
-      subtitle: 'Bouldercurch',
+      subtitle: 'Eigenes Projekt',
       link: '/projects/boulderchurch',
+    },
+    {
+      src: projectsB1,
+      title: 'Boulderhalle',
+      subtitle: 'Eigenes Projekt',
+      link: '/projects/fortress',
     },
   ];
 
   const images2 = [
-    { src: projectsB1, link: '/projects/fortress' },
-    { src: projectsB2, link: '/projects/nikolai-chruch' },
-    { src: projectsB3, link: 'Image 9' },
-    { src: projectsB4, link: 'Image 10' },
-    { src: projectsB5, link: 'Image 11' },
+    {
+      src: projectsB1,
+      title: 'Museum Kaserne Königstein',
+      subtitle: 'Mitarbeit hparc',
+      link: '/projects/fortress',
+    },
+    {
+      src: projectsB2,
+      title: 'Lilienthal Flug Museum',
+      subtitle: 'Mitarbeit hparc',
+      link: '/projects/nikolai-chruch',
+    },
+    {
+      src: projectsB3,
+      title: 'Machbarkeitsstudie',
+      subtitle: 'Mitarbeit Prof. Waechter',
+      link: 'Image 9',
+    },
+    {
+      src: projectsB4,
+      title: 'Wettbewerb',
+      subtitle: 'Mitarbeit W+W Architekten',
+      link: 'Image 10',
+    },
+    {
+      src: projectsB5,
+      title: 'Wohnungsbau',
+      subtitle: 'Mitarbeit Dreier Frenzel Architektur',
+      link: 'Image 11',
+    },
   ];
   const images3 = [
-    { src: projectsC1, link: 'Image 7' },
-    { src: projectsC2, link: 'Image 8' },
-    { src: projectsC3, link: 'Image 9' },
-    { src: projectsC4, link: 'Image 10' },
+    {
+      src: projectsC1,
+      title: 'Masterthesis',
+      subtitle: 'Ausbildung TU Darmstadt',
+      link: 'Image 7',
+    },
+    {
+      src: projectsC2,
+      title: 'Entwurf',
+      subtitle: 'Ausbildung EPFL',
+      link: 'Image 8',
+    },
+    {
+      src: projectsC3,
+      title: 'Fachmodul',
+      subtitle: 'Ausbildung TU Darmstadt',
+      link: 'Image 9',
+    },
+    {
+      src: projectsC4,
+      title: 'Bildbauten',
+      subtitle: 'Ausbildung EPFL',
+      link: 'Image 10',
+    },
   ];
   const images4 = [
-    { src: projectsD1, link: 'Image 7' },
-    { src: projectsD2, link: 'Image 8' },
+    {
+      src: projectsD1,
+      title: 'Lattemit',
+      subtitle: 'Engagement Architekturkollektiv',
+      link: 'Image 7',
+    },
+    {
+      src: projectsD2,
+      title: 'Thusanang',
+      subtitle: 'Engagement Soziales Projekt',
+      link: 'Image 8',
+    },
   ];
 
   return (
