@@ -6,7 +6,7 @@ const DataPrivacy = () => {
     <Container>
       <div>
 
-<h1 style={{ margin: '2em 0' }}>Datenschutz</h1>
+<h1 style={{ margin: '2em 0' }}>DATENSCHUTZ</h1>
 
 <h2 style={{ margin: '2em 0' }}>1. DATENSCHUTZERKLÄRUNG</h2>
 
