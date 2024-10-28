@@ -29,6 +29,52 @@ const DataPrivacy = () => {
           dieser Website entnehmen.
         </p>
 
+        <p>
+          <strong>Wie erfassen wir Ihre Daten?</strong>
+          <br />
+          Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese
+          mitteilen. Hierbei kann es sich z.B. um Daten handeln, die Sie uns bei
+          einem Kontakt per E-Mail mitteilen. Andere personenbezogene Daten
+          werden automatisch beim Besuch der Website durch IT-Systeme des
+          Websitebetreibers erfasst. Das sind vor allem technische Daten (z.B.
+          Internetbrowser, Betriebssystem oder Uhrzeit des Seitenaufrufs). Die
+          Erfassung dieser Daten erfolgt automatisch, sobald Sie unsere Website
+          betreten.
+        </p>
+
+        <p>
+          <strong>Wofür nutzen wir Ihre Daten?</strong>
+          <br />
+          Ein Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung
+          der Website zu gewährleisten. Andere Daten können zur Analyse Ihres
+          Nutzerverhaltens verwendet werden.
+        </p>
+
+        <p>
+          <strong>Welche Rechte haben Sie bezüglich Ihrer Daten?</strong>
+          <br />
+          Sie haben jederzeit das Recht unentgeltlich Auskunft über Herkunft,
+          Empfänger und Zweck Ihrer gespeicherten, personenbezogenen Daten zu
+          erhalten. Sie haben außerdem ein Recht, die Berichtigung, Sperrung
+          oder Löschung dieser Daten zu verlangen. Hierzu sowie zu weiteren
+          Fragen zum Thema Datenschutz können Sie sich jederzeit unter der im
+          Impressum angegebenen Adresse an uns wenden. Des Weiteren steht Ihnen
+          gesetzlich ein Beschwerderecht bei der zuständigen Aufsichtsbehörde
+          zu.
+        </p>
+
+        <p>
+          <strong>Analyse-Tools und Tools von Drittanbietern</strong>
+          <br />
+          Beim Besuch unserer Website kann Ihr Surf-Verhalten statistisch
+          ausgewertet werden. Das geschieht vor allem sogenannten
+          Analyseprogrammen. Die Analyse Ihres Surf-Verhaltens erfolgt in der
+          Regel anonym; das Surf-Verhalten kann nicht zu Ihnen zurückverfolgt
+          werden. Sie können dieser Analyse widersprechen. Über die
+          Widerspruchsmöglichkeiten werden wir Sie in dieser
+          Datenschutzerklärung informieren.
+        </p>
+
         <h3 style={{ margin: '2em 0' }}>1.2 HOSTING</h3>
 
         <p>
@@ -61,6 +107,77 @@ const DataPrivacy = () => {
           im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken
           aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch
           Dritte ist nicht möglich.
+        </p>
+
+        <p>
+          Die verantwortliche Stelle für die Datenverarbeitung auf dieser
+          Website ist:
+          <br />
+          Isabelle Ihl
+          <br />
+          Damaschkestraße 34
+          <br />
+          10711 Berlin
+          <br />
+          info@ihl-architektur.de
+        </p>
+
+        <p>
+          <strong>Widerruf Ihrer Einwilligung zur Datenverarbeitung</strong>
+          <br />
+          Viele Datenverarbeitungsvorgänge sind nur mit Ihrer ausdrücklichen
+          Einwilligung möglich. Sie können eine bereits erteilte Einwilligung
+          jederzeit widerrufen. Dazu reicht eine formlose Mitteilung per E-Mail
+          an uns. Die Rechtmäßigkeit der bis zum Widerruf erfolgten
+          Datenverarbeitung bleibt vom Widerruf unberührt.
+        </p>
+
+        <p>
+          <strong>Beschwerderecht bei der zuständigen Aufsichtsbehörde</strong>
+          <br />
+          Im Falle datenschutzrechtlicher Verstöße steht dem Betroffenen ein
+          Beschwerderecht bei der zuständigen Aufsichtsbehörde zu. Zuständige
+          Aufsichtsbehörde in datenschutzrechtlichen Fragen ist der
+          Landesdatenschutzbeauftragte des Bundeslandes, in dem unser
+          Unternehmen seinen Sitz hat. Eine Liste der Datenschutzbeauftragten
+          sowie deren Kontaktdaten können folgendem Link entnommen werden:
+          <a href="https://www.bfdi.bund.de/DE/Infothek/AnschriftenLinks/anschriftenlinks-node.html">
+            https://www.bfdi.bund.de/DE/Infothek/AnschriftenLinks/anschriftenlinks-node.html
+          </a>
+        </p>
+
+        <p>
+          <strong>Recht auf Datenübertragbarkeit</strong>
+          <br />
+          Sie haben das Recht, Daten, die wir auf Grundlage Ihrer Einwilligung
+          oder in Erfüllung eines Vertrags automatisiert verarbeiten, an sich
+          oder an einen Dritten in einem gängigen, maschinenlesbaren Format
+          aushändigen zu lassen. Sofern Sie die direkte Übertragung der Daten an
+          einen anderen Verantwortlichen verlangen, erfolgt dies nur, soweit es
+          technisch machbar ist.
+        </p>
+
+        <p>
+          <strong>SSL- bzw. TLS-Verschlüsselung</strong>
+          <br />
+          Diese Seite nutzt aus Sicherheitsgründen eine SSL- bzw.
+          TLS-Verschlüsselung. Eine verschlüsselte Verbindung erkennen Sie
+          daran, dass die Adresszeile des Browsers von “http://” auf “https://”
+          wechselt und an dem Schloss-Symbol in Ihrer Browserzeile. Wenn die
+          SSL- bzw. TLS-Verschlüsselung aktiviert ist, können die Daten, die Sie
+          an uns übermitteln, nicht von Dritten mitgelesen werden.
+        </p>
+
+        <p>
+          <strong>Auskunft, Sperrung, Löschung</strong>
+          <br />
+          Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit
+          das Recht auf unentgeltliche Auskunft über Ihre gespeicherten
+          personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck
+          der Datenverarbeitung und ggf. ein Recht auf Berichtigung, Sperrung
+          oder Löschung dieser Daten. Hierzu sowie zu weiteren Fragen zum Thema
+          personenbezogene Daten können Sie sich jederzeit unter der im
+          Impressum angegebenen Adresse an uns wenden.
         </p>
 
         <h2 style={{ margin: '2em 0' }}>2. HAFTUNGSAUSSCHLUSS</h2>

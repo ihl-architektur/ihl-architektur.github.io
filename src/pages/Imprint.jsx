@@ -4,7 +4,100 @@ import Container from 'utils/Container';
 const Imprint = () => {
   return (
     <Container>
-      <div>Impressum, hallo</div>
+      <div>
+        <h1 style={{ margin: '2em 0' }}>IMPRESSUM</h1>
+
+        <p>
+          Isabelle Ihl
+          <br />
+          Damaschkestraße 34
+          <br />
+          D- 10711 Berlin
+          <br />
+          +49 15733927022
+          <br />
+          info@ihl-architektur.de
+        </p>
+
+        <h2 style={{ margin: '2em 0' }}>SITZ DER GESELLSCHAFT</h2>
+
+        <p>
+          Amtsgericht Charlottenburg HRB 224077
+          <br />
+          Geschäftsführer Dipl. Ing. Arch. Malte Looff und Dipl. Ing. Arch.
+          Andreas Dopfer
+          <br />
+          USt-ID DE337854279
+        </p>
+
+        <h2 style={{ margin: '2em 0' }}>BERUFSBEZEICHNUNG</h2>
+
+        <p>Architekt*in</p>
+
+        <h2 style={{ margin: '2em 0' }}>
+          ARCHITEKTENKAMMER UND AUFSICHTBEHÖRDE
+        </h2>
+
+        <p>Isabelle Ihl ist Mitglied der Architektenkammer Berlin</p>
+
+        <h2 style={{ margin: '2em 0' }}>BERUFSRECHTLICHE REGELUNGEN</h2>
+
+        <p>
+          Abrufbar unter:{' '}
+          <a href="https://www.ak-berlin.de/architektenkammer-berlin/regelwerke.html">
+            https://www.ak-berlin.de/architektenkammer-berlin/regelwerke.html
+          </a>
+        </p>
+
+        <ul>
+          <li>Berliner Architekten- und Baukammergesetz (ABKG);</li>
+          <li>Satzung der Architektenkammer Berlin;</li>
+          <li>Berufsordnung der Architektenkammer Berlin;</li>
+          <li>Eintragungsordnung der Architektenkammer Berlin;</li>
+          <li>Berufsanerkennungsordnung der Architektenkammer Berlin;</li>
+          <li>
+            Fortbildungs- und Praktikumsordnung der Architektenkammer Berlin.
+          </li>
+        </ul>
+
+        <h2 style={{ margin: '2em 0' }}>BERUFSHAFTPFLICHTVERSICHERUNG</h2>
+
+        <p>
+          Es besteht eine Berufshaftpflichtversicherung für die Architektinnen
+          und Architekten der Studio Qwertz GmbH über VHV Allgemeine
+          Versicherung AG, Hannover.
+        </p>
+
+        <h2 style={{ margin: '2em 0' }}>VERBRAUCHERSCHLICHTUNGSSTELLE</h2>
+
+        <p>
+          Plattform der EU-Kommission zur Online-Streitbeilegung:
+          <a href="https://ec.europa.eu/consumers/odr">
+            https://ec.europa.eu/consumers/odr
+          </a>
+          . Wir sind zur Teilnahme an einem Streitbeilegungsverfahren vor einer
+          Verbraucherschlichtungsstelle weder verpflichtet noch bereit.
+        </p>
+
+        <h2 style={{ margin: '2em 0' }}>URHEBERRECHT</h2>
+
+        <p>
+          Die durch die Seitenbetreiberin erstellten Inhalte und Werke auf
+          diesen Seiten unterliegen dem deutschen Urheberrecht. Die
+          Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung
+          außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen
+          Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien
+          dieser Seite sind nicht gestattet. Gegenteiliges ist ausdrücklich
+          vermerkt. Soweit die Inhalte auf dieser Seite nicht von der
+          Betreiberin erstellt wurden, werden die Urheberrechte Dritter
+          beachtet. Insbesondere werden Inhalte Dritter als solche
+          gekennzeichnet.
+        </p>
+
+        <h2 style={{ margin: '2em 0' }}>PROGRAMMIERUNG WEBSEITE</h2>
+
+        <p>Kai Kroth</p>
+      </div>
     </Container>
   );
 };
