@@ -5,33 +5,31 @@ const DataPrivacy = () => {
   return (
     <Container>
       <div>
-        <h1 style={{ margin: '2em 0' }}>DATENSCHUTZ</h1>
+        <h1 className="py-6 text-base font-semibold uppercase">DATENSCHUTZ</h1>
 
         <h2 style={{ margin: '2em 0' }}>1. DATENSCHUTZERKLÄRUNG</h2>
 
         <h3 style={{ margin: '2em 0' }}>1.1 DATENSCHUTZ AUF EINEN BLICK</h3>
 
         <p>
-          <strong>Allgemeine Hinweise</strong>
+          <div>Allgemeine Hinweise</div>
           <br />
           Die folgenden Hinweise geben einen einfachen Überblick darüber, was
           mit Ihren personenbezogenen Daten passiert, wenn Sie unsere Website
           besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie
           persönlich identifiziert werden können.
         </p>
-
+        <br />
         <p>
-          <strong>Datenerfassung auf unserer Website</strong>
-          <br />
+          <div>Datenerfassung auf unserer Website</div>
           Das Büro erfasst während Ihrem Besuch der Website keine eigenen Daten.
           Die Datenverarbeitung auf dieser Website erfolgt ausschließlich durch
           den Websitebetreiber. Dessen Kontaktdaten können Sie dem Impressum
           dieser Website entnehmen.
         </p>
-
+        <br />
         <p>
-          <strong>Wie erfassen wir Ihre Daten?</strong>
-          <br />
+          <div>Wie erfassen wir Ihre Daten?</div>
           Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese
           mitteilen. Hierbei kann es sich z.B. um Daten handeln, die Sie uns bei
           einem Kontakt per E-Mail mitteilen. Andere personenbezogene Daten
@@ -41,18 +39,16 @@ const DataPrivacy = () => {
           Erfassung dieser Daten erfolgt automatisch, sobald Sie unsere Website
           betreten.
         </p>
-
+        <br />
         <p>
-          <strong>Wofür nutzen wir Ihre Daten?</strong>
-          <br />
+          <div>Wofür nutzen wir Ihre Daten?</div>
           Ein Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung
           der Website zu gewährleisten. Andere Daten können zur Analyse Ihres
           Nutzerverhaltens verwendet werden.
         </p>
-
+        <br />
         <p>
-          <strong>Welche Rechte haben Sie bezüglich Ihrer Daten?</strong>
-          <br />
+          <div>Welche Rechte haben Sie bezüglich Ihrer Daten?</div>
           Sie haben jederzeit das Recht unentgeltlich Auskunft über Herkunft,
           Empfänger und Zweck Ihrer gespeicherten, personenbezogenen Daten zu
           erhalten. Sie haben außerdem ein Recht, die Berichtigung, Sperrung
@@ -62,10 +58,9 @@ const DataPrivacy = () => {
           gesetzlich ein Beschwerderecht bei der zuständigen Aufsichtsbehörde
           zu.
         </p>
-
+        <br />
         <p>
-          <strong>Analyse-Tools und Tools von Drittanbietern</strong>
-          <br />
+          <div>Analyse-Tools und Tools von Drittanbietern</div>
           Beim Besuch unserer Website kann Ihr Surf-Verhalten statistisch
           ausgewertet werden. Das geschieht vor allem sogenannten
           Analyseprogrammen. Die Analyse Ihres Surf-Verhaltens erfolgt in der
@@ -78,8 +73,7 @@ const DataPrivacy = () => {
         <h3 style={{ margin: '2em 0' }}>1.2 HOSTING</h3>
 
         <p>
-          <strong>Externes Hosting</strong>
-          <br />
+          <div>Externes Hosting</div>
           Ich nutze die Dienste der Namecheap Inc., 4600 East Washington Street,
           Suite 305, Phoenix, AZ 85034, USA zum Webhosting für meine Webseite
           und habe dazu einen Vertrag zur Auftragsverarbeitung gemäß Art. 28
@@ -98,8 +92,7 @@ const DataPrivacy = () => {
         </h3>
 
         <p>
-          <strong>Datenschutz</strong>
-          <br />
+          <div>Datenschutz</div>
           Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten
           sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und
           entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser
@@ -108,12 +101,11 @@ const DataPrivacy = () => {
           aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch
           Dritte ist nicht möglich.
         </p>
-
+        <br />
         <p>
           Die verantwortliche Stelle für die Datenverarbeitung auf dieser
           Website ist:
-          <br />
-          Isabelle Ihl
+          <br /> Isabelle Ihl
           <br />
           Damaschkestraße 34
           <br />
@@ -123,7 +115,7 @@ const DataPrivacy = () => {
         </p>
 
         <p>
-          <strong>Widerruf Ihrer Einwilligung zur Datenverarbeitung</strong>
+          <div>Widerruf Ihrer Einwilligung zur Datenverarbeitung</div>
           <br />
           Viele Datenverarbeitungsvorgänge sind nur mit Ihrer ausdrücklichen
           Einwilligung möglich. Sie können eine bereits erteilte Einwilligung
@@ -133,7 +125,7 @@ const DataPrivacy = () => {
         </p>
 
         <p>
-          <strong>Beschwerderecht bei der zuständigen Aufsichtsbehörde</strong>
+          <div>Beschwerderecht bei der zuständigen Aufsichtsbehörde</div>
           <br />
           Im Falle datenschutzrechtlicher Verstöße steht dem Betroffenen ein
           Beschwerderecht bei der zuständigen Aufsichtsbehörde zu. Zuständige
@@ -147,7 +139,7 @@ const DataPrivacy = () => {
         </p>
 
         <p>
-          <strong>Recht auf Datenübertragbarkeit</strong>
+          <div>Recht auf Datenübertragbarkeit</div>
           <br />
           Sie haben das Recht, Daten, die wir auf Grundlage Ihrer Einwilligung
           oder in Erfüllung eines Vertrags automatisiert verarbeiten, an sich
@@ -158,7 +150,7 @@ const DataPrivacy = () => {
         </p>
 
         <p>
-          <strong>SSL- bzw. TLS-Verschlüsselung</strong>
+          <div>SSL- bzw. TLS-Verschlüsselung</div>
           <br />
           Diese Seite nutzt aus Sicherheitsgründen eine SSL- bzw.
           TLS-Verschlüsselung. Eine verschlüsselte Verbindung erkennen Sie
@@ -169,7 +161,7 @@ const DataPrivacy = () => {
         </p>
 
         <p>
-          <strong>Auskunft, Sperrung, Löschung</strong>
+          <div>Auskunft, Sperrung, Löschung</div>
           <br />
           Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit
           das Recht auf unentgeltliche Auskunft über Ihre gespeicherten

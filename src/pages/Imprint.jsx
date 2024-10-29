@@ -5,8 +5,7 @@ const Imprint = () => {
   return (
     <Container>
       <div>
-        <h1 style={{ margin: '2em 0' }}>IMPRESSUM</h1>
-
+        <h1 className="py-6 text-base font-semibold uppercase">IMPRESSUM</h1>
         <p>
           Isabelle Ihl
           <br />
@@ -19,28 +18,15 @@ const Imprint = () => {
           info@ihl-architektur.de
         </p>
 
-        <h2 style={{ margin: '2em 0' }}>SITZ DER GESELLSCHAFT</h2>
-
-        <p>
-          Amtsgericht Charlottenburg HRB 224077
-          <br />
-          Geschäftsführer Dipl. Ing. Arch. Malte Looff und Dipl. Ing. Arch.
-          Andreas Dopfer
-          <br />
-          USt-ID DE337854279
-        </p>
-
-        <h2 style={{ margin: '2em 0' }}>BERUFSBEZEICHNUNG</h2>
+        <h2 className="pt-6">BERUFSBEZEICHNUNG</h2>
 
         <p>Architekt*in</p>
 
-        <h2 style={{ margin: '2em 0' }}>
-          ARCHITEKTENKAMMER UND AUFSICHTBEHÖRDE
-        </h2>
+        <h2 className="pt-6">ARCHITEKTENKAMMER UND AUFSICHTBEHÖRDE</h2>
 
         <p>Isabelle Ihl ist Mitglied der Architektenkammer Berlin</p>
 
-        <h2 style={{ margin: '2em 0' }}>BERUFSRECHTLICHE REGELUNGEN</h2>
+        <h2 className="pt-6">BERUFSRECHTLICHE REGELUNGEN</h2>
 
         <p>
           Abrufbar unter:{' '}
@@ -60,15 +46,7 @@ const Imprint = () => {
           </li>
         </ul>
 
-        <h2 style={{ margin: '2em 0' }}>BERUFSHAFTPFLICHTVERSICHERUNG</h2>
-
-        <p>
-          Es besteht eine Berufshaftpflichtversicherung für die Architektinnen
-          und Architekten der Studio Qwertz GmbH über VHV Allgemeine
-          Versicherung AG, Hannover.
-        </p>
-
-        <h2 style={{ margin: '2em 0' }}>VERBRAUCHERSCHLICHTUNGSSTELLE</h2>
+        <h2 className="pt-6">VERBRAUCHERSCHLICHTUNGSSTELLE</h2>
 
         <p>
           Plattform der EU-Kommission zur Online-Streitbeilegung:
@@ -79,7 +57,7 @@ const Imprint = () => {
           Verbraucherschlichtungsstelle weder verpflichtet noch bereit.
         </p>
 
-        <h2 style={{ margin: '2em 0' }}>URHEBERRECHT</h2>
+        <h2 className="pt-6">URHEBERRECHT</h2>
 
         <p>
           Die durch die Seitenbetreiberin erstellten Inhalte und Werke auf
@@ -93,10 +71,6 @@ const Imprint = () => {
           beachtet. Insbesondere werden Inhalte Dritter als solche
           gekennzeichnet.
         </p>
-
-        <h2 style={{ margin: '2em 0' }}>PROGRAMMIERUNG WEBSEITE</h2>
-
-        <p>Kai Kroth</p>
       </div>
     </Container>
   );
