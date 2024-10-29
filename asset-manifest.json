@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.3a9542ff.css",
-    "main.js": "/static/js/main.b9c0a7e1.js",
+    "main.css": "/static/css/main.cff61347.css",
+    "main.js": "/static/js/main.2ecc4c7d.js",
+    "static/media/02_Ihl-Architektur_BOU_Innenperspektive_belebt.jpg": "/static/media/02_Ihl-Architektur_BOU_Innenperspektive_belebt.3e6fd82be3a7a652f39b.jpg",
+    "static/media/01_Ihl-Architektur_BOU_Innenperspektive.jpg": "/static/media/01_Ihl-Architektur_BOU_Innenperspektive.449f3da0dbb392ae2c26.jpg",
     "static/media/02_Thusanang_Soziales-Projekt.jpg": "/static/media/02_Thusanang_Soziales-Projekt.e8b256def08a613df88e.jpg",
+    "static/media/02_Architekturkollektiv_Lattemit.jpg": "/static/media/02_Architekturkollektiv_Lattemit.9fe689a6a14b0def25d6.jpg",
+    "static/media/03_Architekturkollektiv_Lattemit.jpg": "/static/media/03_Architekturkollektiv_Lattemit.460682f4475e68dc2258.jpg",
     "static/media/03_Ihl-Architektur_BOU_Foto Chorbereich.jpg": "/static/media/03_Ihl-Architektur_BOU_Foto Chorbereich.3eb7489432af7d8796ba.jpg",
     "static/media/05_bad-orb-st-michael3-bild-Jörg-Braukmann-cc-by-sa-4.0-2020.jpg": "/static/media/05_bad-orb-st-michael3-bild-Jörg-Braukmann-cc-by-sa-4.0-2020.d59c90d9c2ed2afb85db.jpg",
+    "static/media/03_Ihl-Architektur_BOU_Erdgeschoss.jpg": "/static/media/03_Ihl-Architektur_BOU_Erdgeschoss.c887a79e1873ac7968e3.jpg",
     "static/media/02_hparc_IKA_Innenraumperspektive.jpg": "/static/media/02_hparc_IKA_Innenraumperspektive.98ae4a2d8eab30dd3d22.jpg",
     "static/media/01_Architekturkollektiv_Lattemit.jpg": "/static/media/01_Architekturkollektiv_Lattemit.1a28937f3d1f9b84934b.jpg",
-    "static/media/01_Ihl-Architektur_BOU_Innenperspektive.jpg": "/static/media/01_Ihl-Architektur_BOU_Innenperspektive.449f3da0dbb392ae2c26.jpg",
     "static/media/01_Masterthesis_Flamenco-Schule_Perspektive-Modell-Hof.jpg": "/static/media/01_Masterthesis_Flamenco-Schule_Perspektive-Modell-Hof.e26a5fece70b5ad61694.jpg",
     "static/media/02_Wohnungsbau_Forms-of-Living.jpg": "/static/media/02_Wohnungsbau_Forms-of-Living.e3cba77ce6bcd6112a49.jpg",
+    "static/media/04_Ihl-Architektur_BOU_Emporenebene.jpg": "/static/media/04_Ihl-Architektur_BOU_Emporenebene.55710fe16580b3736ab5.jpg",
     "static/media/01_hparc_FKS_Gemälde Bestand.jpg": "/static/media/01_hparc_FKS_Gemälde Bestand.e0c0c10c7b46e13ea09a.jpg",
     "static/media/03_Prof. Felix Waechter_Machbarkeitsstudie Mannheim_Modellfoto.jpg": "/static/media/03_Prof. Felix Waechter_Machbarkeitsstudie Mannheim_Modellfoto.2e037105af3422e219ae.jpg",
     "static/media/05_Dreier Frenzel_Immeuble Verdeaux Renens_Innenraum.jpg": "/static/media/05_Dreier Frenzel_Immeuble Verdeaux Renens_Innenraum.a35c836ef6faacd35300.jpg",
@@ -17,13 +22,12 @@
     "static/media/04_W+W_Tapetenmuseum Kassel_Wettbewerb.jpg": "/static/media/04_W+W_Tapetenmuseum Kassel_Wettbewerb.a5bfacbd3ee0cb2d44b4.jpg",
     "static/media/04_Fachmodul_Bildbauten.jpg": "/static/media/04_Fachmodul_Bildbauten.e6a651df70eb15c1ae35.jpg",
     "static/media/02_Ihl-Architektur_BOU_Erdgeschoss.jpg": "/static/media/02_Ihl-Architektur_BOU_Erdgeschoss.9fa55ba20351c33a185b.jpg",
-    "static/media/04_Ihl-Architektur_BOU_Emporenebene.jpg": "/static/media/04_Ihl-Architektur_BOU_Emporenebene.55710fe16580b3736ab5.jpg",
     "index.html": "/index.html",
-    "main.3a9542ff.css.map": "/static/css/main.3a9542ff.css.map",
-    "main.b9c0a7e1.js.map": "/static/js/main.b9c0a7e1.js.map"
+    "main.cff61347.css.map": "/static/css/main.cff61347.css.map",
+    "main.2ecc4c7d.js.map": "/static/js/main.2ecc4c7d.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a9542ff.css",
-    "static/js/main.b9c0a7e1.js"
+    "static/css/main.cff61347.css",
+    "static/js/main.2ecc4c7d.js"
   ]
 }
