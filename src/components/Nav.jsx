@@ -31,18 +31,18 @@ const Nav = () => {
             </li>
             <li>
               <Link
-                to="/kontakt"
-                className="font-medium uppercase transition-colors text-primary hover:text-secondary"
-              >
-                Kontakt
-              </Link>
-            </li>
-            <li>
-              <Link
                 to="/vita"
                 className="font-medium uppercase transition-colors text-primary hover:text-secondary"
               >
                 Vita
+              </Link>
+            </li>
+            <li>
+              <Link
+                to="/kontakt"
+                className="font-medium uppercase transition-colors text-primary hover:text-secondary"
+              >
+                Kontakt
               </Link>
             </li>
           </ul>

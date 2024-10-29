@@ -4,26 +4,15 @@ import Container from 'utils/Container';
 const Contact = () => {
   return (
     <Container>
-      <div
-        style={{
-          display: 'flex',
-          alignItems: 'flex-start',
-          fontFamily: 'Arial, sans-serif',
-          color: '#333',
-        }}
-      >
-        <div style={{ marginRight: '4em', display: 'inline-block' }}>
-          {' '}
-          {/* Abstand auf 4em erhöht */}
-          <p style={{ margin: 0 }}>KONTAKT</p>
-        </div>
-        <div>
-          <p style={{ margin: 0 }}>Isabelle Ihl</p>
-          <p style={{ margin: 0 }}>M.Sc. Architektin</p>
-          <p style={{ margin: 0 }}>Damaschkestraße 34</p>
-          <p style={{ margin: 0 }}>D-10711 Berlin</p>
-          <p style={{ margin: 0 }}>+49 15733927022</p>
-          <p style={{ margin: 0 }}>info@ihl-architektur.de</p>
+      <div className="flex flex-row">
+        <div className="py-6 text-base font-semibold uppercase">KONTAKT</div>
+        <div className="py-6 pl-[82px]">
+          <p>Isabelle Ihl</p>
+          <p>M.Sc. Architektin</p>
+          <p>Damaschkestraße 34</p>
+          <p>D-10711 Berlin</p>
+          <p className="pt-6">+49 15733927022</p>
+          <p>info@ihl-architektur.de</p>
         </div>
       </div>
     </Container>

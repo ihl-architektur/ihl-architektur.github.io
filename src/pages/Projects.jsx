@@ -19,7 +19,9 @@ import projectsC3 from '../assets/projects-c/03_Fachmodul_Pausa---Ort-der-innere
 import projectsC4 from '../assets/projects-c/04_Fachmodul_Bildbauten.jpg';
 
 import projectsD1 from '../assets/projects-d/01_Architekturkollektiv_Lattemit.jpg';
-import projectsD2 from '../assets/projects-d/02_Thusanang_Soziales-Projekt.jpg';
+import projectsD2 from '../assets/projects-d/02_Architekturkollektiv_Lattemit.jpg';
+import projectsD3 from '../assets/projects-d/03_Architekturkollektiv_Lattemit.jpg';
+import projectsD4 from '../assets/projects-d/02_Thusanang_Soziales-Projekt.jpg';
 import ImageSwiper from 'components/ImageSwiper/ImageSwiper';
 
 const Projects = () => {
@@ -53,12 +55,6 @@ const Projects = () => {
       title: 'Boulderhalle',
       subtitle: 'Eigenes Projekt',
       link: '/projects/boulderchurch',
-    },
-    {
-      src: projectsB1,
-      title: 'Boulderhalle',
-      subtitle: 'Eigenes Projekt',
-      link: '/projects/fortress',
     },
   ];
 
@@ -125,10 +121,22 @@ const Projects = () => {
       src: projectsD1,
       title: 'Lattemit',
       subtitle: 'Engagement Architekturkollektiv',
-      link: 'Image 7',
+      link: '/projects/lattemit',
     },
     {
       src: projectsD2,
+      title: 'Lattemit',
+      subtitle: 'Engagement Architekturkollektiv',
+      link: '/projects/lattemit',
+    },
+    {
+      src: projectsD3,
+      title: 'Lattemit',
+      subtitle: 'Engagement Architekturkollektiv',
+      link: '/projects/lattemit',
+    },
+    {
+      src: projectsD4,
       title: 'Thusanang',
       subtitle: 'Engagement Soziales Projekt',
       link: 'Image 8',

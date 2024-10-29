@@ -32,12 +32,12 @@ const ImageSwiper = ({ imageArray }) => {
               <img src={image.src} alt={`Slide ${index + 1}`} />
               {hovered === index && (
                 <div
-                  className={`absolute flex-col inset-0 bg-secondary bg-opacity-80 flex items-center justify-center text-black text-lg font-semibold transition-opacity duration-300 ${
+                  className={`px-4 absolute flex-col inset-0 bg-secondary bg-opacity-80 flex items-center justify-center text-black text-center text-lg font-semibold transition-opacity duration-300 ${
                     hovered === index ? 'opacity-100' : 'opacity-0'
                   }`}
                 >
                   {image?.title?.toUpperCase()}
-                  <p className="text-sm font-normal">
+                  <p className="mx-4 text-sm font-normal">
                     {image?.subtitle?.toUpperCase()}
                   </p>
                 </div>
