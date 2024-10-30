@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cff61347.css",
-    "main.js": "/static/js/main.b8aebdb6.js",
+    "main.js": "/static/js/main.71a9d759.js",
     "static/media/02_Ihl-Architektur_BOU_Innenperspektive_belebt.jpg": "/static/media/02_Ihl-Architektur_BOU_Innenperspektive_belebt.3e6fd82be3a7a652f39b.jpg",
     "static/media/01_Ihl-Architektur_BOU_Innenperspektive.jpg": "/static/media/01_Ihl-Architektur_BOU_Innenperspektive.449f3da0dbb392ae2c26.jpg",
     "static/media/02_Thusanang_Soziales-Projekt.jpg": "/static/media/02_Thusanang_Soziales-Projekt.e8b256def08a613df88e.jpg",
@@ -24,10 +24,10 @@
     "static/media/02_Ihl-Architektur_BOU_Erdgeschoss.jpg": "/static/media/02_Ihl-Architektur_BOU_Erdgeschoss.9fa55ba20351c33a185b.jpg",
     "index.html": "/index.html",
     "main.cff61347.css.map": "/static/css/main.cff61347.css.map",
-    "main.b8aebdb6.js.map": "/static/js/main.b8aebdb6.js.map"
+    "main.71a9d759.js.map": "/static/js/main.71a9d759.js.map"
   },
   "entrypoints": [
     "static/css/main.cff61347.css",
-    "static/js/main.b8aebdb6.js"
+    "static/js/main.71a9d759.js"
   ]
 }
