@@ -26,7 +26,7 @@ const Vita = () => {
         </tr>
         <tr>
           <td className="flex flex-row justify-between min-w-[140px]">
-            <div> 10|2011</div> <div>-</div> <div>07|2014</div>
+            <div>10|2011</div> <div>-</div> <div>07|2014</div>
           </td>
           <td className="pb-10 pl-4">Bachelor of Science, TU Darmstadt</td>
         </tr>
@@ -68,7 +68,7 @@ const Vita = () => {
             <div>04|2018</div> <div>-</div> <div>08|2018</div>
           </td>
           <td className="pl-4">
-            Wiss. Mitarbeiterin, Entwerfen und Baukonstruktion, TU DA
+            Wiss. Mitarbeiterin, Entwerfen und Baukonstruktion, TU Darmstadt
           </td>
         </tr>
         <tr>
@@ -92,7 +92,7 @@ const Vita = () => {
             <div>10|2014</div> <div>-</div> <div>08|2015</div>
           </td>
           <td className="pl-4">
-            Tutorin, Entwerfen und Gebäudetechnologie, TU DA
+            Tutorin, Entwerfen und Gebäudetechnologie, TU Darmstadt
           </td>
         </tr>
         <tr>
@@ -100,7 +100,7 @@ const Vita = () => {
             <div>10|2013</div> <div>-</div> <div>07|2014</div>
           </td>
           <td className="pb-10 pl-4">
-            Tutorin, Entwerfen und Stadtentwicklung, TU DA
+            Tutorin, Entwerfen und Stadtentwicklung, TU Darmstadt
           </td>
         </tr>
         <tr>
