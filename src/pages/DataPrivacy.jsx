@@ -7,13 +7,14 @@ const DataPrivacy = () => {
       <div>
         <h1 className="py-6 text-base font-semibold uppercase">DATENSCHUTZ</h1>
 
-        <h2 style={{ margin: '2em 0' }}>1. DATENSCHUTZERKLÄRUNG</h2>
+        <h2>1. DATENSCHUTZERKLÄRUNG</h2>
 
-        <h3 style={{ margin: '2em 0' }}>1.1 DATENSCHUTZ AUF EINEN BLICK</h3>
+        <h3 style={{ marginTop: '0.5em', marginBottom: '1em' }}>
+          1.1 DATENSCHUTZ AUF EINEN BLICK
+        </h3>
 
         <p>
           <div>Allgemeine Hinweise</div>
-          <br />
           Die folgenden Hinweise geben einen einfachen Überblick darüber, was
           mit Ihren personenbezogenen Daten passiert, wenn Sie unsere Website
           besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie
@@ -24,8 +25,8 @@ const DataPrivacy = () => {
           <div>Datenerfassung auf unserer Website</div>
           Das Büro erfasst während Ihrem Besuch der Website keine eigenen Daten.
           Die Datenverarbeitung auf dieser Website erfolgt ausschließlich durch
-          den Websitebetreiber. Dessen Kontaktdaten können Sie dem Impressum
-          dieser Website entnehmen.
+          den Websitebetreiber. Dessen Kontaktdaten können Sie nachfolgend unter
+          dem Abschnitt &apos;1.2 Hosting&apos; einsehen.
         </p>
         <br />
         <p>
@@ -70,25 +71,38 @@ const DataPrivacy = () => {
           Datenschutzerklärung informieren.
         </p>
 
-        <h3 style={{ margin: '2em 0' }}>1.2 HOSTING</h3>
+        <h3 style={{ marginTop: '2em', marginBottom: '1em' }}>1.2 HOSTING</h3>
 
         <p>
           <div>Externes Hosting</div>
-          Ich nutze die Dienste der Namecheap Inc., 4600 East Washington Street,
-          Suite 305, Phoenix, AZ 85034, USA zum Webhosting für meine Webseite
-          und habe dazu einen Vertrag zur Auftragsverarbeitung gemäß Art. 28
-          DSGVO mit der Namescheap Inc. geschlossen. Weitere Informationen
-          erhalten Sie in der Datenschutzerklärung der Namecheap Inc. unter{' '}
-          <a href="https://www.namecheap.com/about/privacy-commitment/">
-            https://www.namecheap.com/about/privacy-commitment/
-          </a>
-          . Rechtsgrundlage ist unser berechtigtes Interesse des Betriebes und
-          des Erhalts der Betriebssicherheit dieser Webseite gemäß Art. 6 Abs. 1
-          S. 1 lit. f DSGVO.
+          Ich nutze die Dienste der GitHub B.V., Prins Bernhardplein 200,
+          Amsterdam 1097JB, Niederlande zum Webhosting für meine Webseite.
+          Weitere Informationen erhalten Sie in der Datenschutzerklärung der
+          GitHub B.V. unter
+          {' https://docs.github.com/de/site-policy/privacy-policies'}.
         </p>
+        <h3 style={{ marginTop: '2em', marginBottom: '1em' }}>
+          1.3 DARSTELLUNG VON SCHRIFTARTEN
+        </h3>
 
-        <h3 style={{ margin: '2em 0' }}>
-          1.3 ALLGEMEINE HINWEISE UND PFLICHTINFORMATIONEN
+        <p>
+          <div>Google Web Fonts</div>
+          Ich nutze zur einheitlichen Darstellung von Schriftarten sogenannte
+          Google Web Fonts, die von der Google Ireland Limited, Gordon House,
+          Barrow Street, Dublin 4, Irland, bereitgestellt werden. Beim Aufruf
+          meiner Webseite lädt Dein Browser die benötigten Web Fonts in Deinen
+          Browsercache, um Texte und Schriftarten korrekt anzuzeigen. Wenn Dein
+          Browser Web Fonts nicht unterstützt, wird eine Standardschrift von
+          Deinem Computer genutzt. Weitere Informationen zu Google Web Fonts
+          findest Du unter https://developers.google.com/fonts/faq und in der
+          Datenschutzerklärung von Google:
+          https://www.google.com/policies/privacy/. Ich kann für die
+          Datenverarbeitung von Google keine Verantwortung übernehmen und habe
+          abgesehen von den Informationen auf den vorgenannten Webseiten keine
+          Informationen über Googles Datenverarbeitungsaktivitäten.
+        </p>
+        <h3 style={{ marginTop: '2em', marginBottom: '1em' }}>
+          1.4 ALLGEMEINE HINWEISE UND PFLICHTINFORMATIONEN
         </h3>
 
         <p>
@@ -123,24 +137,22 @@ const DataPrivacy = () => {
           an uns. Die Rechtmäßigkeit der bis zum Widerruf erfolgten
           Datenverarbeitung bleibt vom Widerruf unberührt.
         </p>
-
+        <br />
         <p>
           <div>Beschwerderecht bei der zuständigen Aufsichtsbehörde</div>
-          <br />
           Im Falle datenschutzrechtlicher Verstöße steht dem Betroffenen ein
           Beschwerderecht bei der zuständigen Aufsichtsbehörde zu. Zuständige
           Aufsichtsbehörde in datenschutzrechtlichen Fragen ist der
           Landesdatenschutzbeauftragte des Bundeslandes, in dem unser
           Unternehmen seinen Sitz hat. Eine Liste der Datenschutzbeauftragten
           sowie deren Kontaktdaten können folgendem Link entnommen werden:
-          <a href="https://www.bfdi.bund.de/DE/Infothek/AnschriftenLinks/anschriftenlinks-node.html">
-            https://www.bfdi.bund.de/DE/Infothek/AnschriftenLinks/anschriftenlinks-node.html
-          </a>
+          {
+            ' https://www.bfdi.bund.de/DE/Infothek/AnschriftenLinks/anschriftenlinks-node.html'
+          }
         </p>
-
+        <br />
         <p>
           <div>Recht auf Datenübertragbarkeit</div>
-          <br />
           Sie haben das Recht, Daten, die wir auf Grundlage Ihrer Einwilligung
           oder in Erfüllung eines Vertrags automatisiert verarbeiten, an sich
           oder an einen Dritten in einem gängigen, maschinenlesbaren Format
@@ -148,10 +160,9 @@ const DataPrivacy = () => {
           einen anderen Verantwortlichen verlangen, erfolgt dies nur, soweit es
           technisch machbar ist.
         </p>
-
+        <br />
         <p>
           <div>SSL- bzw. TLS-Verschlüsselung</div>
-          <br />
           Diese Seite nutzt aus Sicherheitsgründen eine SSL- bzw.
           TLS-Verschlüsselung. Eine verschlüsselte Verbindung erkennen Sie
           daran, dass die Adresszeile des Browsers von “http://” auf “https://”
@@ -159,10 +170,9 @@ const DataPrivacy = () => {
           SSL- bzw. TLS-Verschlüsselung aktiviert ist, können die Daten, die Sie
           an uns übermitteln, nicht von Dritten mitgelesen werden.
         </p>
-
+        <br />
         <p>
           <div>Auskunft, Sperrung, Löschung</div>
-          <br />
           Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit
           das Recht auf unentgeltliche Auskunft über Ihre gespeicherten
           personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck
@@ -172,16 +182,20 @@ const DataPrivacy = () => {
           Impressum angegebenen Adresse an uns wenden.
         </p>
 
-        <h2 style={{ margin: '2em 0' }}>2. HAFTUNGSAUSSCHLUSS</h2>
+        <h2 style={{ marginTop: '2em', marginBottom: '1em' }}>
+          2. HAFTUNGSAUSSCHLUSS
+        </h2>
 
-        <h3 style={{ margin: '2em 0' }}>2.1 HAFTUNG FÜR INHALTE</h3>
+        <h3 style={{ marginTop: '0.5em', marginBottom: '1em' }}>
+          2.1 HAFTUNG FÜR INHALTE
+        </h3>
 
         <p>
-          Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für
-          die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir
-          jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7
+          Die Inhalte meiner Seiten wurden mit größter Sorgfalt erstellt. Für
+          die Richtigkeit, Vollständigkeit und Aktualität der Inhalte kann ich
+          jedoch keine Gewähr übernehmen. Als Diensteanbieter bin ich gemäß § 7
           Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen
-          Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als
+          Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG bin ich als
           Diensteanbieter jedoch nicht verpflichtet, übermittelte oder
           gespeicherte fremde Informationen zu überwachen oder nach Umständen zu
           forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
@@ -193,19 +207,21 @@ const DataPrivacy = () => {
           umgehend entfernen.
         </p>
 
-        <h3 style={{ margin: '2em 0' }}>2.2 HAFTUNG FÜR LINKS</h3>
+        <h3 style={{ marginTop: '2em', marginBottom: '1em' }}>
+          2.2 HAFTUNG FÜR LINKS
+        </h3>
 
         <p>
-          Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren
-          Inhalte wir keinen Einfluss haben. Deshalb können wir für diese
-          fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der
-          verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der
-          Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der
+          Mein Angebot enthält Links zu externen Webseiten Dritter, auf deren
+          Inhalte ich keinen Einfluss habe. Deshalb kann ich für diese fremden
+          Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten
+          Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten
+          verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der
           Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige
           Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine
           permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne
           konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei
-          Bekanntwerden von Rechtsverletzungen werden wir derartige Links
+          Bekanntwerden von Rechtsverletzungen werde ich derartige Links
           umgehend entfernen.
         </p>
       </div>
