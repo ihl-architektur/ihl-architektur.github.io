@@ -118,6 +118,12 @@ const Projects = () => {
   ];
   const images4 = [
     {
+      src: projectsD3,
+      title: 'Lattemit',
+      subtitle: 'Engagement Architekturkollektiv',
+      link: '/projects/lattemit',
+    },
+    {
       src: projectsD1,
       title: 'Lattemit',
       subtitle: 'Engagement Architekturkollektiv',
@@ -125,12 +131,6 @@ const Projects = () => {
     },
     {
       src: projectsD2,
-      title: 'Lattemit',
-      subtitle: 'Engagement Architekturkollektiv',
-      link: '/projects/lattemit',
-    },
-    {
-      src: projectsD3,
       title: 'Lattemit',
       subtitle: 'Engagement Architekturkollektiv',
       link: '/projects/lattemit',
