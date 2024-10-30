@@ -1,9 +1,9 @@
 import React from 'react';
 import ProjectDetailView from 'components/ProjectDetailView/ProjectDetailView';
-import boulderChurchData from './data';
+import FeasibilityStudyData from './data';
 
-const BoulderChurch = () => {
-  return <ProjectDetailView data={boulderChurchData} />;
+const FeasibilityStudy = () => {
+  return <ProjectDetailView data={FeasibilityStudyData} />;
 };
 
-export default BoulderChurch;
+export default FeasibilityStudy;

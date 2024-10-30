@@ -12,23 +12,34 @@ const boulderChurch = {
   images: [
     {
       imageUrl: images['01_Ihl-Architektur_BOU_Innenperspektive.jpg'],
+      subtitle: 'Innenperspektive',
+    },
+    {
+      imageUrl: images['02_Ihl-Architektur_BOU_Innenperspektive_belebt.jpg'],
+      subtitle: 'Innenperspektive belebt',
+    },
+    {
+      imageUrl: images['03_Ihl-Architektur_BOU_Erdgeschoss.jpg'],
       subtitle: 'Grundriss Erdgeschoss',
     },
     {
-      imageUrl: images['02_Ihl-Architektur_BOU_Erdgeschoss.jpg'],
-      subtitle: 'Grundriss Obergeschoss',
+      imageUrl: images['04_Ihl-Architektur_BOU_Emporenebene.jpg'],
+      subtitle: 'Grundriss Emporenebene',
     },
   ],
   title: 'Lattemit',
-  topline: 'Eigene Arbeit',
+  topline: 'Engagement',
   bodyText:
-    ' <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget enim nec ligula volutpat facilisis ut ac purus. In et velit id est volutpat interdum non nec velit. Cras interdum pharetra nibh, ac viverra nisi auctor nec. Quisque ac erat risus. Ut volutpat dui felis, vitae tempor lacus vehicula a. Duis sit amet turpis turpis. Integer sollicitudin interdum libero, vel interdum nisl. Aliquam eget auctor orci. Cras luctus nisl ac malesuada suscipit. Fusce in massa ipsum. Donec fermentum velit sit amet magna consectetur, et porttitor nisi facilisis. Suspendisse condimentum nibh at ex vehicula, quis tincidunt nunc dictum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur a eros vel sapien aliquet ultricies. Suspendisse potenti. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur rhoncus quam non auctor blandit. Sed dictum nisl in facilisis tincidunt. Vivamus vel felis non ipsum facilisis malesuada eget ut mi. Nulla et dui arcu. Fusce ut velit et lacus facilisis dapibus sed sit amet urna. Donec nec nulla eu erat fringilla hendrerit nec sed est. Maecenas euismod velit ut libero faucibus, id suscipit augue congue. Integer non bibendum sapien. In feugiat lectus nec orci lobortis, id varius felis scelerisque. Etiam pellentesque est id magna scelerisque vehicula. Nam sed nisl nisl. Phasellus elementum ac lectus id ultricies. Aliquam luctus lacinia tortor sit amet maximus. Nulla a malesuada leo, et cursus tortor.',
-  location: 'Jena, Deutschland',
-  size: '1000 qm',
-  state: 'In Planung',
-  timerange: '2021-2016',
-  performance: 'LPH 1-9',
-  client: 'Stiftung Detusches Optisches Museum',
+    '<p>Das Architekturkollektiv &apos;Lattemit&apos; entwirft und realisiert temporäre Installationen aus recycelten Holzlattenrosten, die als architektonischer sowie künsterlicher Beitrag für Kulturveranstaltungen gesucht werden. Es handelt sich um ein Zusammenschluss von handwerklich begabten und kreativen Köpfen, meist aus dem Bereich der Architektur, die Lust haben sich nebenberuflich zu engagieren, Gemeinschaft zu erleben, aus ihrem alltäglichen Umfeld herauszutreten, selbst praktisch aktiv zu werden sowie eine direkte Veränderung vor Ort mitzuerleben.</p><br/><p>Nach unzähligen filigranen Kugeln, komplexen Gyroiden, feinen Knotenpunkten und Gitterstrukturen hat in 2025 &apos;Lattemit&apos; u.a. einen Stopp auf dem MS Dockville Hafengelände in Hamburg gemacht. Diesmal waren dabei - mehr als 2 km Latten, 1000 Schrauben und neue Dimensionen. Die Vorliebe bleibt für periodische Geometrie, puristische Materialien und absolute Verwirrung treu und fest bestehen. Rechteckige Querschnitte, die sich zur fluiden Form vereinen, Lichtdurchlässigkeit und doch solide Ansichten.</p><br/><p>Art that makes your brain hurt.</p><p>But in a good way.</p><br/><p>Instagram:</p><p>www.instagram.com/lattemit/</p><br/><p>Artikel:</p><p>www.zeit.de/news/2024-08/17/miteinander-einfach-gluecklich-dockville-in-wilhelmsburg.</p>',
+  location: 'MS Dockville | Feel Festival | Bucht der Träumer, Deutschland',
+  type: '',
+  size: '',
+  state: 'Realisiert',
+  timerange: '2024',
+  performance: '',
+  client: '',
+  team: '',
+  company: '',
 };
 
 export default boulderChurch;

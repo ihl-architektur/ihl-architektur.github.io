@@ -12,23 +12,34 @@ const boulderChurch = {
   images: [
     {
       imageUrl: images['01_Ihl-Architektur_BOU_Innenperspektive.jpg'],
+      subtitle: 'Innenperspektive',
+    },
+    {
+      imageUrl: images['02_Ihl-Architektur_BOU_Innenperspektive_belebt.jpg'],
+      subtitle: 'Innenperspektive belebt',
+    },
+    {
+      imageUrl: images['03_Ihl-Architektur_BOU_Erdgeschoss.jpg'],
       subtitle: 'Grundriss Erdgeschoss',
     },
     {
-      imageUrl: images['02_Ihl-Architektur_BOU_Erdgeschoss.jpg'],
-      subtitle: 'Grundriss Obergeschoss',
+      imageUrl: images['04_Ihl-Architektur_BOU_Emporenebene.jpg'],
+      subtitle: 'Grundriss Emporenebene',
     },
   ],
-  title: "Boulderhalle 'Boulderchurch'",
-  topline: 'Eigene Arbeit',
+  title: 'Wettbewerb: Neubau Deutsches Tapetenmuseum Kassel',
+  topline: 'Mitarbeit Waechter + Waechter Architekten BDA',
   bodyText:
-    ' <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget enim nec ligula volutpat facilisis ut ac purus. In et velit id est volutpat interdum non nec velit. Cras interdum pharetra nibh, ac viverra nisi auctor nec. Quisque ac erat risus. Ut volutpat dui felis, vitae tempor lacus vehicula a. Duis sit amet turpis turpis. Integer sollicitudin interdum libero, vel interdum nisl. Aliquam eget auctor orci. Cras luctus nisl ac malesuada suscipit. Fusce in massa ipsum. Donec fermentum velit sit amet magna consectetur, et porttitor nisi facilisis. Suspendisse condimentum nibh at ex vehicula, quis tincidunt nunc dictum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur a eros vel sapien aliquet ultricies. Suspendisse potenti. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur rhoncus quam non auctor blandit. Sed dictum nisl in facilisis tincidunt. Vivamus vel felis non ipsum facilisis malesuada eget ut mi. Nulla et dui arcu. Fusce ut velit et lacus facilisis dapibus sed sit amet urna. Donec nec nulla eu erat fringilla hendrerit nec sed est. Maecenas euismod velit ut libero faucibus, id suscipit augue congue. Integer non bibendum sapien. In feugiat lectus nec orci lobortis, id varius felis scelerisque. Etiam pellentesque est id magna scelerisque vehicula. Nam sed nisl nisl. Phasellus elementum ac lectus id ultricies. Aliquam luctus lacinia tortor sit amet maximus. Nulla a malesuada leo, et cursus tortor.',
-  location: 'Jena, Deutschland',
-  size: '1000 qm',
-  state: 'In Planung',
-  timerange: '2021-2016',
-  performance: 'LPH 1-9',
-  client: 'Stiftung Detusches Optisches Museum',
+    '<p>Ziel des Wettbewerbes war die Planung eines Neubaus, welcher neben der Konzeption eines modernen Museumsbaus die stimmige Integration von teilweise denkmalgeschützten Bestandsgebäuden in das Museumskonzept beinhaltet. .</p><br/><p>Ebenerdig wird das Museum an der Schnittstelle zwischen Torwache und Neubau erschlossen. Großzügig öffnet sich die Eingangshalle über zwei Ebenen und damit weithin sichtbar zum Platz. Besucher betreten alle gleichberechtigt das Foyer und blicken gegenüberliegend in den ergänzten Park. Unmittelbar auf der Foyerebene schließen die Ausstellungsräume im Erdgeschoss an; eine polygonale Deckenöffnung in der Gebäudeecke eröffnet Einblicke in die obere bzw. von oben in die untere Ausstellung, weckt Neugierde zum Weitgehen, ermöglicht aber auch, großformatige Tapeten auszustellen.</p>',
+  location: 'Kassel, Deutschland',
+  type: 'Wettbewerb (Anerkennung)',
+  size: '',
+  state: '',
+  timerange: '2017',
+  performance: '',
+  client: 'Landesbetrieb Bau u. Immobilien Hessen',
+  team: '',
+  company: 'Werkstudentin bei Waechter + Waechter Architekten BDA',
 };
 
 export default boulderChurch;

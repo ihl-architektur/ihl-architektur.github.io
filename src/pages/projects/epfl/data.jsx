@@ -12,23 +12,34 @@ const boulderChurch = {
   images: [
     {
       imageUrl: images['01_Ihl-Architektur_BOU_Innenperspektive.jpg'],
+      subtitle: 'Innenperspektive',
+    },
+    {
+      imageUrl: images['02_Ihl-Architektur_BOU_Innenperspektive_belebt.jpg'],
+      subtitle: 'Innenperspektive belebt',
+    },
+    {
+      imageUrl: images['03_Ihl-Architektur_BOU_Erdgeschoss.jpg'],
       subtitle: 'Grundriss Erdgeschoss',
     },
     {
-      imageUrl: images['02_Ihl-Architektur_BOU_Erdgeschoss.jpg'],
-      subtitle: 'Grundriss Obergeschoss',
+      imageUrl: images['04_Ihl-Architektur_BOU_Emporenebene.jpg'],
+      subtitle: 'Grundriss Emporenebene',
     },
   ],
-  title: "Boulderhalle 'Boulderchurch'",
-  topline: 'Eigene Arbeit',
+  title: "Wohnungsbau 'Forms of Living'",
+  topline: 'Entwurf EPFL',
   bodyText:
-    ' <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget enim nec ligula volutpat facilisis ut ac purus. In et velit id est volutpat interdum non nec velit. Cras interdum pharetra nibh, ac viverra nisi auctor nec. Quisque ac erat risus. Ut volutpat dui felis, vitae tempor lacus vehicula a. Duis sit amet turpis turpis. Integer sollicitudin interdum libero, vel interdum nisl. Aliquam eget auctor orci. Cras luctus nisl ac malesuada suscipit. Fusce in massa ipsum. Donec fermentum velit sit amet magna consectetur, et porttitor nisi facilisis. Suspendisse condimentum nibh at ex vehicula, quis tincidunt nunc dictum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur a eros vel sapien aliquet ultricies. Suspendisse potenti. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur rhoncus quam non auctor blandit. Sed dictum nisl in facilisis tincidunt. Vivamus vel felis non ipsum facilisis malesuada eget ut mi. Nulla et dui arcu. Fusce ut velit et lacus facilisis dapibus sed sit amet urna. Donec nec nulla eu erat fringilla hendrerit nec sed est. Maecenas euismod velit ut libero faucibus, id suscipit augue congue. Integer non bibendum sapien. In feugiat lectus nec orci lobortis, id varius felis scelerisque. Etiam pellentesque est id magna scelerisque vehicula. Nam sed nisl nisl. Phasellus elementum ac lectus id ultricies. Aliquam luctus lacinia tortor sit amet maximus. Nulla a malesuada leo, et cursus tortor.',
-  location: 'Jena, Deutschland',
-  size: '1000 qm',
-  state: 'In Planung',
-  timerange: '2021-2016',
-  performance: 'LPH 1-9',
-  client: 'Stiftung Detusches Optisches Museum',
+    '<p>Dieser Wohnungsbau beschäftigt sich mit der Untersuchung von alternativen räumlichen Konfigurationen, die ein neues Verständnis von der Beziehung zwischen Raum und Funktion aufzeigen. Dabei soll frei von Konventionen eine spezifische und individuelle Vorstellung von „zu Hause“ den Entwurf definieren. Der Entwurf sollte auf einem frei gewähltem Grundstück im Stadtkern von Lausanne platziert werden:</p><br/><p>Eine bewohnte Treppe charakterisiert das Konzept dieser Wohnung. In verschiedenen Intervallen und Entfernungen entlang des Aufstiegs oder Abstiegs, erweitert sich die Treppe zu Ebenen mit unterschiedlichen Höhen und Breiten.</p><p>Durch die Verdrehung im Stufenverlauf, den Winkel des Auftritts, die Tiefe der Laufflächen und die Anzahl der Steigungen; wird eine Reihe von wechselnden kommunalen und privaten Zonen gebildet. Diese unterschiedlichen Bereiche der Wohnung sind nicht klar voneinander getrennt, sondern können sich überlappen. Die offene Beziehung zwischen den Ebenen schafft eine kontinuierliche Zirkulation und ein dynamisches Raumsystem. Die besondere Gestalt der Treppe bietet den Bewohnern Raum, der Wohnen und Durchschreiten eins werden lässt.</p>',
+  location: 'Lausanne, Schweiz',
+  type: 'Entwurf EPFL',
+  size: '',
+  state: '',
+  timerange: 'Wintersemester 2015|16',
+  performance: '',
+  client: '',
+  team: '',
+  company: 'PROFESSOR*IN Prof. Christian Müller Inderbitzin',
 };
 
 export default boulderChurch;

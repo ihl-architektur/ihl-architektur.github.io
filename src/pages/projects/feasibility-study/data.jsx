@@ -12,23 +12,34 @@ const boulderChurch = {
   images: [
     {
       imageUrl: images['01_Ihl-Architektur_BOU_Innenperspektive.jpg'],
+      subtitle: 'Innenperspektive',
+    },
+    {
+      imageUrl: images['02_Ihl-Architektur_BOU_Innenperspektive_belebt.jpg'],
+      subtitle: 'Innenperspektive belebt',
+    },
+    {
+      imageUrl: images['03_Ihl-Architektur_BOU_Erdgeschoss.jpg'],
       subtitle: 'Grundriss Erdgeschoss',
     },
     {
-      imageUrl: images['02_Ihl-Architektur_BOU_Erdgeschoss.jpg'],
-      subtitle: 'Grundriss Obergeschoss',
+      imageUrl: images['04_Ihl-Architektur_BOU_Emporenebene.jpg'],
+      subtitle: 'Grundriss Emporenebene',
     },
   ],
-  title: "Boulderhalle 'Boulderchurch'",
-  topline: 'Eigene Arbeit',
+  title: 'Machbarkeitsstudie: Erweiterungsbau Musikhochschule Mannheim',
+  topline: 'Mitarbeit Prof. Felix Waechter',
   bodyText:
-    ' <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget enim nec ligula volutpat facilisis ut ac purus. In et velit id est volutpat interdum non nec velit. Cras interdum pharetra nibh, ac viverra nisi auctor nec. Quisque ac erat risus. Ut volutpat dui felis, vitae tempor lacus vehicula a. Duis sit amet turpis turpis. Integer sollicitudin interdum libero, vel interdum nisl. Aliquam eget auctor orci. Cras luctus nisl ac malesuada suscipit. Fusce in massa ipsum. Donec fermentum velit sit amet magna consectetur, et porttitor nisi facilisis. Suspendisse condimentum nibh at ex vehicula, quis tincidunt nunc dictum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur a eros vel sapien aliquet ultricies. Suspendisse potenti. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur rhoncus quam non auctor blandit. Sed dictum nisl in facilisis tincidunt. Vivamus vel felis non ipsum facilisis malesuada eget ut mi. Nulla et dui arcu. Fusce ut velit et lacus facilisis dapibus sed sit amet urna. Donec nec nulla eu erat fringilla hendrerit nec sed est. Maecenas euismod velit ut libero faucibus, id suscipit augue congue. Integer non bibendum sapien. In feugiat lectus nec orci lobortis, id varius felis scelerisque. Etiam pellentesque est id magna scelerisque vehicula. Nam sed nisl nisl. Phasellus elementum ac lectus id ultricies. Aliquam luctus lacinia tortor sit amet maximus. Nulla a malesuada leo, et cursus tortor.',
-  location: 'Jena, Deutschland',
-  size: '1000 qm',
-  state: 'In Planung',
-  timerange: '2021-2016',
-  performance: 'LPH 1-9',
-  client: 'Stiftung Detusches Optisches Museum',
+    '<p>Die Studie ermittelt die Realisierbarkeit eines Erweiterungsbaus der Hochschule für Musik und Darstellende Kunst in Mannheim. Eine Herausforderung bietet das Grundstück: Mitten im Zentrum Mannheims gelegen, rundum von Gebäuden eingefasst, gibt es lediglich im sehr begrenzten Innenhof der Hochschule die Möglichkeit den Neubau zu realisieren. Zudem ist eine Angliederung des Erweiterungsbaus an das denkmalgeschützte Altbaugebäude gewünscht.</p><br/><p>Ein selbstbewusster Kopfbau an der nordwestlich anschließenden Straße gibt der Hochschule eine neue, präsente Adresse in der Innenstadt Mannheims. Der Baukörper entwickelt sich entlang der in die Jahre gekommenen, geschlossenen Fassade des Nachbarkomplexes bis tief in den Innenhof hinein. Dieser steht den Studenten weiterhin als Kommunikations- und Pausenfläche zur Verfügung und verknüpft alle Bereiche der Hochschule. Ein neuer großer Konzert- und Theatersaal verbindet den denkmalgeschützten Altbau mit dem Neubau unterirdisch und wird durch zwei unterschiedlich große Höfe belichtet. Der Größere eröffnet in den Sommermonaten die Möglichkeit ihn als Freilufttheater zu bespielen.</p>',
+  location: 'Mannheim, Deutschland',
+  type: 'Machbarkeitsstudie',
+  size: '',
+  state: '',
+  timerange: '2018',
+  performance: '',
+  client: 'Vermögen und Bau Baden-Württemberg',
+  team: '',
+  company: 'Mitarbeit bei Prof. Felix Waechter',
 };
 
 export default boulderChurch;

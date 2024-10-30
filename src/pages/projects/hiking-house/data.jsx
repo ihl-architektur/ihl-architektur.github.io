@@ -12,23 +12,34 @@ const boulderChurch = {
   images: [
     {
       imageUrl: images['01_Ihl-Architektur_BOU_Innenperspektive.jpg'],
+      subtitle: 'Innenperspektive',
+    },
+    {
+      imageUrl: images['02_Ihl-Architektur_BOU_Innenperspektive_belebt.jpg'],
+      subtitle: 'Innenperspektive belebt',
+    },
+    {
+      imageUrl: images['03_Ihl-Architektur_BOU_Erdgeschoss.jpg'],
       subtitle: 'Grundriss Erdgeschoss',
     },
     {
-      imageUrl: images['02_Ihl-Architektur_BOU_Erdgeschoss.jpg'],
-      subtitle: 'Grundriss Obergeschoss',
+      imageUrl: images['04_Ihl-Architektur_BOU_Emporenebene.jpg'],
+      subtitle: 'Grundriss Emporenebene',
     },
   ],
-  title: "Boulderhalle 'Boulderchurch'",
-  topline: 'Eigene Arbeit',
+  title: "'Pausa - Ort der inneren Einkehr'",
+  topline: 'Fachmodul TU Darmstadt',
   bodyText:
-    ' <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget enim nec ligula volutpat facilisis ut ac purus. In et velit id est volutpat interdum non nec velit. Cras interdum pharetra nibh, ac viverra nisi auctor nec. Quisque ac erat risus. Ut volutpat dui felis, vitae tempor lacus vehicula a. Duis sit amet turpis turpis. Integer sollicitudin interdum libero, vel interdum nisl. Aliquam eget auctor orci. Cras luctus nisl ac malesuada suscipit. Fusce in massa ipsum. Donec fermentum velit sit amet magna consectetur, et porttitor nisi facilisis. Suspendisse condimentum nibh at ex vehicula, quis tincidunt nunc dictum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur a eros vel sapien aliquet ultricies. Suspendisse potenti. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur rhoncus quam non auctor blandit. Sed dictum nisl in facilisis tincidunt. Vivamus vel felis non ipsum facilisis malesuada eget ut mi. Nulla et dui arcu. Fusce ut velit et lacus facilisis dapibus sed sit amet urna. Donec nec nulla eu erat fringilla hendrerit nec sed est. Maecenas euismod velit ut libero faucibus, id suscipit augue congue. Integer non bibendum sapien. In feugiat lectus nec orci lobortis, id varius felis scelerisque. Etiam pellentesque est id magna scelerisque vehicula. Nam sed nisl nisl. Phasellus elementum ac lectus id ultricies. Aliquam luctus lacinia tortor sit amet maximus. Nulla a malesuada leo, et cursus tortor.',
-  location: 'Jena, Deutschland',
-  size: '1000 qm',
-  state: 'In Planung',
-  timerange: '2021-2016',
-  performance: 'LPH 1-9',
-  client: 'Stiftung Detusches Optisches Museum',
+    '<p>Die Aufgabe des Fachmoduls sah vor, einen Kontrapunkt zum Publikumsmagneten Felsenmeer zu setzen und einen Ort der inneren Einkehr zu schaffen.</p><br/><p>Auf dem Höhenrundweg am Felsenmeer lässt sich so manche Landmarke erwandern. Diesem galt es eine weitere Perle hinzuzufügen. Eine kleine Intervention. Ein Einraum. Ein kleines Gebäude an dem man sich ausruht, rastet, eine Pause macht.</p>',
+  location: 'Lautertal (Odenwald), Deutschland',
+  type: 'Fachmodulentwurf',
+  size: '',
+  state: '',
+  timerange: 'Sommersemester 2017',
+  performance: '',
+  client: '',
+  team: '',
+  company: 'PROFESSOR*IN Dipl.-Ing. Joachim Raab',
 };
 
 export default boulderChurch;
