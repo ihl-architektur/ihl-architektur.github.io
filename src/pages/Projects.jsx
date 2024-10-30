@@ -75,19 +75,19 @@ const Projects = () => {
       src: projectsB3,
       title: 'Machbarkeitsstudie',
       subtitle: 'Mitarbeit Prof. Waechter',
-      link: 'Image 9',
+      link: '/projects/feasibility-study',
     },
     {
       src: projectsB4,
       title: 'Wettbewerb',
       subtitle: 'Mitarbeit W+W Architekten',
-      link: 'Image 10',
+      link: '/projects/competition',
     },
     {
       src: projectsB5,
       title: 'Wohnungsbau',
       subtitle: 'Mitarbeit Dreier Frenzel Architektur',
-      link: 'Image 11',
+      link: '/projects/renes',
     },
   ];
   const images3 = [
@@ -95,25 +95,25 @@ const Projects = () => {
       src: projectsC1,
       title: 'Masterthesis',
       subtitle: 'Ausbildung TU Darmstadt',
-      link: 'Image 7',
+      link: '/projects/master',
     },
     {
       src: projectsC2,
       title: 'Entwurf',
       subtitle: 'Ausbildung EPFL',
-      link: 'Image 8',
+      link: '/projects/epfl',
     },
     {
       src: projectsC3,
       title: 'Fachmodul',
       subtitle: 'Ausbildung TU Darmstadt',
-      link: 'Image 9',
+      link: '/projects/hiking-house',
     },
     {
       src: projectsC4,
       title: 'Bildbauten',
       subtitle: 'Ausbildung EPFL',
-      link: 'Image 10',
+      link: '/projects/picture-building',
     },
   ];
   const images4 = [
@@ -139,7 +139,7 @@ const Projects = () => {
       src: projectsD4,
       title: 'Thusanang',
       subtitle: 'Engagement Soziales Projekt',
-      link: 'Image 8',
+      link: '/projects/social-project',
     },
   ];
 

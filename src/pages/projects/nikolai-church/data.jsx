@@ -19,16 +19,19 @@ const boulderChurch = {
       subtitle: 'Grundriss Obergeschoss',
     },
   ],
-  title: "Boulderhalle 'Boulderchurch'",
-  topline: 'Eigene Arbeit',
+  title: 'Lilienthal Flug Museum',
+  topline: 'Mitarbeit heneghan peng architects',
   bodyText:
-    ' <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget enim nec ligula volutpat facilisis ut ac purus. In et velit id est volutpat interdum non nec velit. Cras interdum pharetra nibh, ac viverra nisi auctor nec. Quisque ac erat risus. Ut volutpat dui felis, vitae tempor lacus vehicula a. Duis sit amet turpis turpis. Integer sollicitudin interdum libero, vel interdum nisl. Aliquam eget auctor orci. Cras luctus nisl ac malesuada suscipit. Fusce in massa ipsum. Donec fermentum velit sit amet magna consectetur, et porttitor nisi facilisis. Suspendisse condimentum nibh at ex vehicula, quis tincidunt nunc dictum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur a eros vel sapien aliquet ultricies. Suspendisse potenti. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur rhoncus quam non auctor blandit. Sed dictum nisl in facilisis tincidunt. Vivamus vel felis non ipsum facilisis malesuada eget ut mi. Nulla et dui arcu. Fusce ut velit et lacus facilisis dapibus sed sit amet urna. Donec nec nulla eu erat fringilla hendrerit nec sed est. Maecenas euismod velit ut libero faucibus, id suscipit augue congue. Integer non bibendum sapien. In feugiat lectus nec orci lobortis, id varius felis scelerisque. Etiam pellentesque est id magna scelerisque vehicula. Nam sed nisl nisl. Phasellus elementum ac lectus id ultricies. Aliquam luctus lacinia tortor sit amet maximus. Nulla a malesuada leo, et cursus tortor.',
-  location: 'Jena, Deutschland',
-  size: '1000 qm',
-  state: 'In Planung',
-  timerange: '2021-2016',
-  performance: 'LPH 1-9',
-  client: 'Stiftung Detusches Optisches Museum',
+    '<p>Die Nikolaikirche soll in mehreren Schritten zum &apos;Lilienthal Flug Museum&apos; ausgebaut werden. Dies beinhaltet parallel zur Wiederherstellung des Turmhelms, das Kirchengebäude denkmalgerecht zu sanieren, neue Ausstellungsflächen als Einbauten in den Bestand zu integrieren und einen Ergänzungsbau als Eingangsgebäude zum Museum zu realisieren.</p><br/><p>Der Schutz dieses Denkmals und das Errichten neuer Bauten in zeitgenössischer Formensprache bilden keine gegensätzlichen Themen, sondern treten in Zusammenhang zueinander auf. Die Nikolaikirche greift die spannende Dialektik dieser zwei Themen in ihrer Architektur auf und möchte sie erlebbar machen.</p><br/><p>Die Realisierung des &apos;Lilienthal Flug Museum&apos; in der wiederhergestellten Nikolaikirche in Anklam, der Taufkirche Otto Lilienthals, stellt den ersten wesentlichen Teil der Aufgabe dar:Um Zeugnis über die Geschichte seiner Backsteingotik, bis hin zu Zerstörung und Wiederaufbau abzulegen, wird das nördliche Seitenschiff der Nikolaikirche freigehalten. Es bildet in seine Unberührtheit einen Gegenpol zum südlichen Seitenschiff. Hier befinden sich neue Einbauten für die Ausstellung, welche das Volumen der Kirche verändern und neu interpretieren. Das Mittelschiff fungiert als Zwischenraum und Bindeglied der Raumstruktur. Diese Strategie ermöglicht das Betrachten der Nikolaikirche nicht nur in der Vergangenheit, sondern erlaubt auch Blicke in die Zukunft.</p>',
+  location: 'Nikolaikirche Anklam, Deutschland',
+  type: 'Denkmalgerechte Sanierung, Erweiterung Ausstellungsfläche',
+  size: 'Kirche 2.800 m² | Anbau 1.500 m² BGF',
+  state: 'in Realisierung',
+  timerange: '2020-2022',
+  performance: 'LPH 2-3, Teilbereiche 4, 5',
+  client: 'Hansestadt Anklam',
+  team: '',
+  company: 'Projektarchitektin bei hparc',
 };
 
 export default boulderChurch;
