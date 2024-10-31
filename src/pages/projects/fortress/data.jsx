@@ -1,30 +1,31 @@
 import { importAll } from 'utils/helper';
 
 const images = importAll(
-  require.context(
-    '../../../assets/a_boulderchurch',
-    false,
-    /\.(png|jpe?g|svg)$/
-  )
+  require.context('../../../assets/b1_fortress', false, /\.(png|jpe?g|svg)$/)
 );
 
 const boulderChurch = {
   images: [
     {
-      imageUrl: images['01_Ihl-Architektur_BOU_Innenperspektive.jpg'],
-      subtitle: 'Grundriss Erdgeschoss',
+      imageUrl: images['01_hparc_FKS_Gemälde,E.F. v. Oehme.jpg'],
+      subtitle: 'Gemälde, E.F. v. Oehme (1797-1855)',
     },
     {
-      imageUrl: images['02_Ihl-Architektur_BOU_Innenperspektive_belebt.jpg'],
-      subtitle: 'Grundriss Obergeschoss',
+      imageUrl:
+        images['02_hparc_FKS_Festungsgelände Isometrie, Peter Mauksch.jpg'],
+      subtitle: 'Festungsgelände Isometrie, Peter Mauksch',
     },
     {
-      imageUrl: images['03_Ihl-Architektur_BOU_Erdgeschoss.jpg'],
-      subtitle: 'Grundriss Obergeschoss',
+      imageUrl: images['03_hparc_FKS_Nutzungsverteilung Isometrie.jpg'],
+      subtitle: 'Nutzungsverteilung Isometrie',
     },
     {
-      imageUrl: images['04_Ihl-Architektur_BOU_Emporenebene.jpg'],
-      subtitle: 'Grundriss Obergeschoss',
+      imageUrl: images['04_hparc_FKS_Ansicht Musterfassade.jpg'],
+      subtitle: 'Ansicht Musterfassade',
+    },
+    {
+      imageUrl: images['05_hparc_FKS_Musterfassade.jpg'],
+      subtitle: 'Musterfassade',
     },
   ],
   title: 'Museum Alte Kaserne, Festung Königstein',
