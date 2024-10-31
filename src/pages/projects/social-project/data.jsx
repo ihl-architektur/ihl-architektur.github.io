@@ -12,31 +12,31 @@ const boulderChurch = {
   images: [
     {
       imageUrl: images['01_Thusanang.jpg'],
-      subtitle: 'Innenperspektive',
+      subtitle: 'Baustelle_Community Center',
     },
     {
       imageUrl: images['02_Thusanang.jpg'],
-      subtitle: 'Innenperspektive belebt',
+      subtitle: 'Baustelle_Community Centert',
     },
     {
       imageUrl: images['03_Thusanang.jpg'],
-      subtitle: 'Grundriss Erdgeschoss',
+      subtitle: 'Baustelle_Community Center',
     },
     {
       imageUrl: images['04_Thusanang.jpg'],
-      subtitle: 'Grundriss Emporenebene',
+      subtitle: 'Baustelle_Community Center',
     },
     {
       imageUrl: images['05_Thusanang.jpg'],
-      subtitle: 'Grundriss Emporenebene',
+      subtitle: 'Herstellung Lehmsteine',
     },
     {
       imageUrl: images['06_Thusanang.jpg'],
-      subtitle: 'Grundriss Emporenebene',
+      subtitle: 'Herstellung Lehmsteine',
     },
     {
       imageUrl: images['07_Thusanang.jpg'],
-      subtitle: 'Grundriss Emporenebene',
+      subtitle: 'Herstellung Lehmsteine',
     },
   ],
   title: 'Thusanang',

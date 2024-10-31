@@ -29,11 +29,6 @@ const boulderChurch = {
         '« Art that makes Your brain hurt. But in a good way », MS Dockville',
     },
     {
-      imageUrl: images['02_Ihl-Architektur_03_Dockville.jpg'],
-      subtitle:
-        '« Art that makes Your brain hurt. But in a good way », MS Dockville',
-    },
-    {
       imageUrl: images['02_Ihl-Architektur_04_Dockville.jpg'],
       subtitle:
         '« Art that makes Your brain hurt. But in a good way », MS Dockville',
@@ -43,11 +38,7 @@ const boulderChurch = {
       subtitle:
         '« Art that makes Your brain hurt. But in a good way », MS Dockville',
     },
-    {
-      imageUrl: images['02_Ihl-Architektur_06_Dockville.jpg'],
-      subtitle:
-        '« Art that makes Your brain hurt. But in a good way », MS Dockville',
-    },
+
     {
       imageUrl: images['03_Ihl-Architektur_01_Bucht der Träumer.jpg'],
       subtitle: ' Speed Dating, Bucht der Träumer',
