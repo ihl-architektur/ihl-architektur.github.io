@@ -16,11 +16,11 @@ const boulderChurch = {
     },
     {
       imageUrl: images['03_hparc_FKS_Nutzungsverteilung Isometrie.jpg'],
-      subtitle: 'Nutzungsverteilung Isometrie',
+      subtitle: 'Nutzungsverteilung Isometrie © hparc',
     },
     {
       imageUrl: images['04_hparc_FKS_Ansicht Musterfassade.jpg'],
-      subtitle: 'Ansicht Musterfassade',
+      subtitle: 'Ansicht Musterfassade © hparc',
     },
     {
       imageUrl: images['05_hparc_FKS_Musterfassade.jpg'],

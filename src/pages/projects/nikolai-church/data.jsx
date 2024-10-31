@@ -12,23 +12,23 @@ const boulderChurch = {
   images: [
     {
       imageUrl: images['01_hparc_IKA_Innenperspektive.jpg'],
-      subtitle: 'Perspektive Innenraum',
+      subtitle: 'Perspektive Innenraum © hparc',
     },
     {
       imageUrl: images['02_hparc_IKA_Lageplan.jpg'],
-      subtitle: 'Lageplan',
+      subtitle: 'Lageplan © hparc',
     },
     {
       imageUrl: images['03_hparc_IKA_Grundriss Erdgeschoss.jpg'],
-      subtitle: 'Grundriss Erdgeschoss',
+      subtitle: 'Grundriss Erdgeschoss © hparc',
     },
     {
       imageUrl: images['04_hparc_IKA_Grundriss Obergeschoss.jpg'],
-      subtitle: 'Grundriss Obergeschoss',
+      subtitle: 'Grundriss Obergeschoss © hparc',
     },
     {
       imageUrl: images['05_hparc_IKA_Schnitt.jpg'],
-      subtitle: 'Schnitt',
+      subtitle: 'Schnitt © hparc',
     },
   ],
   title: 'Lilienthal Flug Museum',

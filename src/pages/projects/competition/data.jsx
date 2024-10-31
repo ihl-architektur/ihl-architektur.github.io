@@ -8,20 +8,22 @@ const boulderChurch = {
   images: [
     {
       imageUrl:
-        images['01_W+W_Tapetenmuseum Kassel_Wettbewerb_Außenperspektive.jpg'],
-      subtitle: 'Außenperspektive',
+        images['01_W+W_Tapetenmuseum-Kassel_Wettbewerb_Außenperspektive.jpg'],
+      subtitle: 'Außenperspektive © W+W Architekten',
     },
     {
-      imageUrl: images['02_W+W_Tapetenmuseum Kassel_Wettbewerb_Grundriss.jpg'],
-      subtitle: 'Grundriss Erdgeschoss',
+      imageUrl:
+        images[
+          '02_W+W_Tapetenmuseum Kassel_Wettbewerb_Grundriss Erdgeschoss.jpg'
+        ],
+      subtitle: 'Grundriss Erdgeschoss © W+W Architekten',
     },
     {
-      imageUrl: images['03_Ihl-Architektur_BOU_Erdgeschoss.jpg'],
-      subtitle: 'Grundriss Erdgeschoss',
-    },
-    {
-      imageUrl: images['04_Ihl-Architektur_BOU_Emporenebene.jpg'],
-      subtitle: 'Grundriss Emporenebene',
+      imageUrl:
+        images[
+          '03_W+W_Tapetenmuseum Kassel_Wettbewerb_Grundriss Ausstellungsebene.jpg'
+        ],
+      subtitle: 'Grundriss Ausstellungsebene © W+W Architekten',
     },
   ],
   title: 'Wettbewerb: Neubau Deutsches Tapetenmuseum Kassel',

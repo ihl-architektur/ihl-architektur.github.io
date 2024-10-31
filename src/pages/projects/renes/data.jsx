@@ -12,19 +12,19 @@ const boulderChurch = {
   images: [
     {
       imageUrl: images['01_Ihl-Architektur_BOU_Innenperspektive.jpg'],
-      subtitle: 'Innenperspektive',
+      subtitle: 'Innenperspektive © Dreier Frenzel',
     },
     {
       imageUrl: images['02_Ihl-Architektur_BOU_Innenperspektive_belebt.jpg'],
-      subtitle: 'Innenperspektive belebt',
+      subtitle: 'Innenperspektive belebt © Dreier Frenzel',
     },
     {
       imageUrl: images['03_Ihl-Architektur_BOU_Erdgeschoss.jpg'],
-      subtitle: 'Grundriss Erdgeschoss',
+      subtitle: 'Grundriss Erdgeschoss © Dreier Frenzel',
     },
     {
       imageUrl: images['04_Ihl-Architektur_BOU_Emporenebene.jpg'],
-      subtitle: 'Grundriss Emporenebene',
+      subtitle: 'Grundriss Emporenebene © Dreier Frenzel',
     },
   ],
   title: 'Wohnungsbau: Immeuble Verdeaux',
