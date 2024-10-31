@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cff61347.css",
-    "main.js": "/static/js/main.f5f1fb92.js",
+    "main.js": "/static/js/main.acc294b4.js",
     "static/media/06_Thusanang.jpg": "/static/media/06_Thusanang.8af80c5ec1087e738ef8.jpg",
     "static/media/02_Thusanang.jpg": "/static/media/02_Thusanang.9c9f27de2436e6a80634.jpg",
     "static/media/02_Ihl-Architektur_03_Dockville.jpg": "/static/media/02_Ihl-Architektur_03_Dockville.850b34f3bd29fb041f2c.jpg",
@@ -11,7 +11,7 @@
     "static/media/03_Thusanang.jpg": "/static/media/03_Thusanang.909eb7646172758fd7e4.jpg",
     "static/media/02_Ihl-Architektur_04_Dockville.jpg": "/static/media/02_Ihl-Architektur_04_Dockville.9a01515bd93890b1153a.jpg",
     "static/media/01_hparc_IKA_Innenperspektive.jpg": "/static/media/01_hparc_IKA_Innenperspektive.2e9c59376c0b1ac01a20.jpg",
-    "static/media/01_W+W_Tapetenmuseum Kassel_Wettbewerb_Außenperspektive.jpg": "/static/media/01_W+W_Tapetenmuseum Kassel_Wettbewerb_Außenperspektive.17034b2956ceed443077.jpg",
+    "static/media/01_W+W_Tapetenmuseum-Kassel_Wettbewerb_Außenperspektive.jpg": "/static/media/01_W+W_Tapetenmuseum-Kassel_Wettbewerb_Außenperspektive.d078e088fbd0e7b693be.jpg",
     "static/media/05_Thusanang.jpg": "/static/media/05_Thusanang.3cd8efda7f411330367c.jpg",
     "static/media/01_hparc_FKS_Gemälde.jpg": "/static/media/01_hparc_FKS_Gemälde.bd5ec40327d1ce5cec29.jpg",
     "static/media/07_Thusanang.jpg": "/static/media/07_Thusanang.b4e6eed4ead246794240.jpg",
@@ -34,7 +34,7 @@
     "static/media/02_hparc_FKS_Festungsgelände Isometrie.jpg": "/static/media/02_hparc_FKS_Festungsgelände Isometrie.02b9272fd28ee3af741c.jpg",
     "static/media/02_Ihl-Architektur_02_Dockville.jpg": "/static/media/02_Ihl-Architektur_02_Dockville.c1a984b148553e236fba.jpg",
     "static/media/04_hparc_FKS_Ansicht Musterfassade.jpg": "/static/media/04_hparc_FKS_Ansicht Musterfassade.f441ac19590c299b0baf.jpg",
-    "static/media/02_W+W_Tapetenmuseum Kassel_Wettbewerb_Grundriss.jpg": "/static/media/02_W+W_Tapetenmuseum Kassel_Wettbewerb_Grundriss.74f5c13298241af0e156.jpg",
+    "static/media/02_W+W_Tapetenmuseum Kassel_Wettbewerb_Grundriss Erdgeschoss.jpg": "/static/media/02_W+W_Tapetenmuseum Kassel_Wettbewerb_Grundriss Erdgeschoss.6eeaf24d9ac67dec8e90.jpg",
     "static/media/01_Ihl-Architektur_03_Feel.jpg": "/static/media/01_Ihl-Architektur_03_Feel.af0cc0d347fc8c557c83.jpg",
     "static/media/02_Thusanang_Soziales-Projekt.jpg": "/static/media/02_Thusanang_Soziales-Projekt.e8b256def08a613df88e.jpg",
     "static/media/04_Prof.-Felix-Waechter_Machbarkeitsstudie-Mannheim_Schnitt.jpg": "/static/media/04_Prof.-Felix-Waechter_Machbarkeitsstudie-Mannheim_Schnitt.4f52feef5f6c5ab06baf.jpg",
@@ -49,6 +49,7 @@
     "static/media/02_Wohnungsbau_Forms-of-Living.jpg": "/static/media/02_Wohnungsbau_Forms-of-Living.e3cba77ce6bcd6112a49.jpg",
     "static/media/04_Ihl-Architektur_BOU_Emporenebene.jpg": "/static/media/04_Ihl-Architektur_BOU_Emporenebene.55710fe16580b3736ab5.jpg",
     "static/media/01_hparc_FKS_Gemälde Bestand.jpg": "/static/media/01_hparc_FKS_Gemälde Bestand.e0c0c10c7b46e13ea09a.jpg",
+    "static/media/03_W+W_Tapetenmuseum Kassel_Wettbewerb_Grundriss Ausstellungsebene.jpg": "/static/media/03_W+W_Tapetenmuseum Kassel_Wettbewerb_Grundriss Ausstellungsebene.a4fa150c3a722cc9c7ff.jpg",
     "static/media/03_Prof. Felix Waechter_Machbarkeitsstudie Mannheim_Modellfoto.jpg": "/static/media/03_Prof. Felix Waechter_Machbarkeitsstudie Mannheim_Modellfoto.2e037105af3422e219ae.jpg",
     "static/media/05_Dreier Frenzel_Immeuble Verdeaux Renens_Innenraum.jpg": "/static/media/05_Dreier Frenzel_Immeuble Verdeaux Renens_Innenraum.a35c836ef6faacd35300.jpg",
     "static/media/03_Fachmodul_Pausa---Ort-der-inneren-Einkehr.jpg": "/static/media/03_Fachmodul_Pausa---Ort-der-inneren-Einkehr.7e8e1f45c8852d1c942a.jpg",
@@ -57,10 +58,10 @@
     "static/media/02_Ihl-Architektur_BOU_Erdgeschoss.jpg": "/static/media/02_Ihl-Architektur_BOU_Erdgeschoss.9fa55ba20351c33a185b.jpg",
     "index.html": "/index.html",
     "main.cff61347.css.map": "/static/css/main.cff61347.css.map",
-    "main.f5f1fb92.js.map": "/static/js/main.f5f1fb92.js.map"
+    "main.acc294b4.js.map": "/static/js/main.acc294b4.js.map"
   },
   "entrypoints": [
     "static/css/main.cff61347.css",
-    "static/js/main.f5f1fb92.js"
+    "static/js/main.acc294b4.js"
   ]
 }
