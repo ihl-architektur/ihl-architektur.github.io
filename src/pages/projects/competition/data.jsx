@@ -1,22 +1,19 @@
 import { importAll } from 'utils/helper';
 
 const images = importAll(
-  require.context(
-    '../../../assets/a_boulderchurch',
-    false,
-    /\.(png|jpe?g|svg)$/
-  )
+  require.context('../../../assets/b4_competition', false, /\.(png|jpe?g|svg)$/)
 );
 
 const boulderChurch = {
   images: [
     {
-      imageUrl: images['01_Ihl-Architektur_BOU_Innenperspektive.jpg'],
-      subtitle: 'Innenperspektive',
+      imageUrl:
+        images['01_W+W_Tapetenmuseum Kassel_Wettbewerb_Außenperspektive.jpg'],
+      subtitle: 'Außenperspektive',
     },
     {
-      imageUrl: images['02_Ihl-Architektur_BOU_Innenperspektive_belebt.jpg'],
-      subtitle: 'Innenperspektive belebt',
+      imageUrl: images['02_W+W_Tapetenmuseum Kassel_Wettbewerb_Grundriss.jpg'],
+      subtitle: 'Grundriss Erdgeschoss',
     },
     {
       imageUrl: images['03_Ihl-Architektur_BOU_Erdgeschoss.jpg'],

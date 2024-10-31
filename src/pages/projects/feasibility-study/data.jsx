@@ -2,7 +2,7 @@ import { importAll } from 'utils/helper';
 
 const images = importAll(
   require.context(
-    '../../../assets/a_boulderchurch',
+    '../../../assets/b3_feasibilitystudy',
     false,
     /\.(png|jpe?g|svg)$/
   )
@@ -11,20 +11,32 @@ const images = importAll(
 const boulderChurch = {
   images: [
     {
-      imageUrl: images['01_Ihl-Architektur_BOU_Innenperspektive.jpg'],
-      subtitle: 'Innenperspektive',
+      imageUrl:
+        images[
+          '01_Prof.-Felix-Waechter_Machbarkeitsstudie-Mannheim_Modellfoto.jpg'
+        ],
+      subtitle: 'Modellfoto',
     },
     {
-      imageUrl: images['02_Ihl-Architektur_BOU_Innenperspektive_belebt.jpg'],
-      subtitle: 'Innenperspektive belebt',
-    },
-    {
-      imageUrl: images['03_Ihl-Architektur_BOU_Erdgeschoss.jpg'],
+      imageUrl:
+        images[
+          '02_Prof.-Felix-Waechter_Machbarkeitsstudie-Mannheim_Grundriss-EG.jpg'
+        ],
       subtitle: 'Grundriss Erdgeschoss',
     },
     {
-      imageUrl: images['04_Ihl-Architektur_BOU_Emporenebene.jpg'],
-      subtitle: 'Grundriss Emporenebene',
+      imageUrl:
+        images[
+          '03_Prof.-Felix-Waechter_Machbarkeitsstudie-Mannheim_Grundriss-UG.jpg'
+        ],
+      subtitle: 'Grundriss Untergeschoss',
+    },
+    {
+      imageUrl:
+        images[
+          '04_Prof.-Felix-Waechter_Machbarkeitsstudie-Mannheim_Schnitt.jpg'
+        ],
+      subtitle: 'Schnitt',
     },
   ],
   title: 'Machbarkeitsstudie: Erweiterungsbau Musikhochschule Mannheim',
