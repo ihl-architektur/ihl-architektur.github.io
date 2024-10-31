@@ -2,7 +2,7 @@ import { importAll } from 'utils/helper';
 
 const images = importAll(
   require.context(
-    '../../../assets/a_boulderchurch',
+    '../../../assets/d2_SocialProject',
     false,
     /\.(png|jpe?g|svg)$/
   )
@@ -11,19 +11,31 @@ const images = importAll(
 const boulderChurch = {
   images: [
     {
-      imageUrl: images['01_Ihl-Architektur_BOU_Innenperspektive.jpg'],
+      imageUrl: images['01_Thusanang.jpg'],
       subtitle: 'Innenperspektive',
     },
     {
-      imageUrl: images['02_Ihl-Architektur_BOU_Innenperspektive_belebt.jpg'],
+      imageUrl: images['02_Thusanang.jpg'],
       subtitle: 'Innenperspektive belebt',
     },
     {
-      imageUrl: images['03_Ihl-Architektur_BOU_Erdgeschoss.jpg'],
+      imageUrl: images['03_Thusanang.jpg'],
       subtitle: 'Grundriss Erdgeschoss',
     },
     {
-      imageUrl: images['04_Ihl-Architektur_BOU_Emporenebene.jpg'],
+      imageUrl: images['04_Thusanang.jpg'],
+      subtitle: 'Grundriss Emporenebene',
+    },
+    {
+      imageUrl: images['05_Thusanang.jpg'],
+      subtitle: 'Grundriss Emporenebene',
+    },
+    {
+      imageUrl: images['06_Thusanang.jpg'],
+      subtitle: 'Grundriss Emporenebene',
+    },
+    {
+      imageUrl: images['07_Thusanang.jpg'],
       subtitle: 'Grundriss Emporenebene',
     },
   ],
