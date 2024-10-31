@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cff61347.css",
-    "main.js": "/static/js/main.27a1e7f0.js",
+    "main.js": "/static/js/main.cb6c9403.js",
     "static/media/06_Thusanang.jpg": "/static/media/06_Thusanang.8af80c5ec1087e738ef8.jpg",
     "static/media/02_Thusanang.jpg": "/static/media/02_Thusanang.9c9f27de2436e6a80634.jpg",
     "static/media/02_Ihl-Architektur_03_Dockville.jpg": "/static/media/02_Ihl-Architektur_03_Dockville.850b34f3bd29fb041f2c.jpg",
@@ -10,8 +10,9 @@
     "static/media/01_Ihl-Architektur_01_Feel.jpg": "/static/media/01_Ihl-Architektur_01_Feel.6bf302ac12abe5681790.jpg",
     "static/media/03_Thusanang.jpg": "/static/media/03_Thusanang.909eb7646172758fd7e4.jpg",
     "static/media/02_Ihl-Architektur_04_Dockville.jpg": "/static/media/02_Ihl-Architektur_04_Dockville.9a01515bd93890b1153a.jpg",
+    "static/media/01_hparc_IKA_Innenperspektive.jpg": "/static/media/01_hparc_IKA_Innenperspektive.2e9c59376c0b1ac01a20.jpg",
     "static/media/05_Thusanang.jpg": "/static/media/05_Thusanang.3cd8efda7f411330367c.jpg",
-    "static/media/01_hparc_FKS_Gemälde,E.F. v. Oehme.jpg": "/static/media/01_hparc_FKS_Gemälde,E.F. v. Oehme.15cff4b133dfad4b8649.jpg",
+    "static/media/01_hparc_FKS_Gemälde.jpg": "/static/media/01_hparc_FKS_Gemälde.bd5ec40327d1ce5cec29.jpg",
     "static/media/07_Thusanang.jpg": "/static/media/07_Thusanang.b4e6eed4ead246794240.jpg",
     "static/media/02_Ihl-Architektur_05_Dockville.jpg": "/static/media/02_Ihl-Architektur_05_Dockville.329c9247b464b1385b8c.jpg",
     "static/media/03_Ihl-Architektur_01_Bucht der Träumer.jpg": "/static/media/03_Ihl-Architektur_01_Bucht der Träumer.467456dd2191dc61fa31.jpg",
@@ -20,9 +21,13 @@
     "static/media/02_Ihl-Architektur_BOU_Innenperspektive_belebt.jpg": "/static/media/02_Ihl-Architektur_BOU_Innenperspektive_belebt.3e6fd82be3a7a652f39b.jpg",
     "static/media/05_hparc_FKS_Musterfassade.jpg": "/static/media/05_hparc_FKS_Musterfassade.faefdfa8b1b284e4a583.jpg",
     "static/media/01_Ihl-Architektur_BOU_Innenperspektive.jpg": "/static/media/01_Ihl-Architektur_BOU_Innenperspektive.449f3da0dbb392ae2c26.jpg",
+    "static/media/03_hparc_IKA_Grundriss Erdgeschoss.jpg": "/static/media/03_hparc_IKA_Grundriss Erdgeschoss.2a25a4c96b15e702bd8b.jpg",
     "static/media/03_hparc_FKS_Nutzungsverteilung Isometrie.jpg": "/static/media/03_hparc_FKS_Nutzungsverteilung Isometrie.f0e7eb137e06989a16d0.jpg",
     "static/media/01_Ihl-Architektur_02_Feel.jpg": "/static/media/01_Ihl-Architektur_02_Feel.f323c2fce59b40b0798b.jpg",
-    "static/media/02_hparc_FKS_Festungsgelände Isometrie, Peter Mauksch.jpg": "/static/media/02_hparc_FKS_Festungsgelände Isometrie, Peter Mauksch.bbf0e3b1c9bf05805702.jpg",
+    "static/media/04_hparc_IKA_Grundriss Obergeschoss.jpg": "/static/media/04_hparc_IKA_Grundriss Obergeschoss.eaca063d2fdfda64eae3.jpg",
+    "static/media/05_hparc_IKA_Schnitt.jpg": "/static/media/05_hparc_IKA_Schnitt.e9c39f12c4b623958056.jpg",
+    "static/media/02_hparc_IKA_Lageplan.jpg": "/static/media/02_hparc_IKA_Lageplan.2249afa5062c40acdadc.jpg",
+    "static/media/02_hparc_FKS_Festungsgelände Isometrie.jpg": "/static/media/02_hparc_FKS_Festungsgelände Isometrie.02b9272fd28ee3af741c.jpg",
     "static/media/02_Ihl-Architektur_02_Dockville.jpg": "/static/media/02_Ihl-Architektur_02_Dockville.c1a984b148553e236fba.jpg",
     "static/media/04_hparc_FKS_Ansicht Musterfassade.jpg": "/static/media/04_hparc_FKS_Ansicht Musterfassade.f441ac19590c299b0baf.jpg",
     "static/media/01_Ihl-Architektur_03_Feel.jpg": "/static/media/01_Ihl-Architektur_03_Feel.af0cc0d347fc8c557c83.jpg",
@@ -46,10 +51,10 @@
     "static/media/02_Ihl-Architektur_BOU_Erdgeschoss.jpg": "/static/media/02_Ihl-Architektur_BOU_Erdgeschoss.9fa55ba20351c33a185b.jpg",
     "index.html": "/index.html",
     "main.cff61347.css.map": "/static/css/main.cff61347.css.map",
-    "main.27a1e7f0.js.map": "/static/js/main.27a1e7f0.js.map"
+    "main.cb6c9403.js.map": "/static/js/main.cb6c9403.js.map"
   },
   "entrypoints": [
     "static/css/main.cff61347.css",
-    "static/js/main.27a1e7f0.js"
+    "static/js/main.cb6c9403.js"
   ]
 }
