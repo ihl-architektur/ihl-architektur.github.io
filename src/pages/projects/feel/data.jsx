@@ -41,7 +41,7 @@ const boulderChurch = {
 
     {
       imageUrl: images['03_Ihl-Architektur_01_Bucht der Träumer.jpg'],
-      subtitle: ' Speed Dating, Bucht der Träumer',
+      subtitle: 'Speed Dating, Bucht der Träumer',
     },
   ],
   title: 'Lattemit',
