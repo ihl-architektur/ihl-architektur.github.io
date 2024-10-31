@@ -1,30 +1,22 @@
 import { importAll } from 'utils/helper';
 
 const images = importAll(
-  require.context(
-    '../../../assets/a_boulderchurch',
-    false,
-    /\.(png|jpe?g|svg)$/
-  )
+  require.context('../../../assets/c3_hikinghouse', false, /\.(png|jpe?g|svg)$/)
 );
 
 const boulderChurch = {
   images: [
     {
-      imageUrl: images['01_Ihl-Architektur_BOU_Innenperspektive.jpg'],
-      subtitle: 'Innenperspektive',
+      imageUrl: images['01_Isabelle Ihl Architektur_Fachmodul_Modellfoto.jpg'],
+      subtitle: 'Modellfoto',
     },
     {
-      imageUrl: images['02_Ihl-Architektur_BOU_Innenperspektive_belebt.jpg'],
-      subtitle: 'Innenperspektive belebt',
+      imageUrl: images['02_Isabelle Ihl Architektur_Fachmodul_Grundriss.jpg'],
+      subtitle: 'Grundriss',
     },
     {
-      imageUrl: images['03_Ihl-Architektur_BOU_Erdgeschoss.jpg'],
-      subtitle: 'Grundriss Erdgeschoss',
-    },
-    {
-      imageUrl: images['04_Ihl-Architektur_BOU_Emporenebene.jpg'],
-      subtitle: 'Grundriss Emporenebene',
+      imageUrl: images['03_Isabelle Ihl Architektur_Fachmodul_Schnitt.jpg'],
+      subtitle: 'Schnitt',
     },
   ],
   title: "'Pausa - Ort der inneren Einkehr'",

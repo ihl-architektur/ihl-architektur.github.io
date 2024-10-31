@@ -2,7 +2,7 @@ import { importAll } from 'utils/helper';
 
 const images = importAll(
   require.context(
-    '../../../assets/a_boulderchurch',
+    '../../../assets/c4_picturebuilding',
     false,
     /\.(png|jpe?g|svg)$/
   )
@@ -11,20 +11,20 @@ const images = importAll(
 const boulderChurch = {
   images: [
     {
-      imageUrl: images['01_Ihl-Architektur_BOU_Innenperspektive.jpg'],
-      subtitle: 'Innenperspektive',
+      imageUrl: images['01_Isabelle Ihl Architektur_Bildbauten.jpg'],
+      subtitle: '',
     },
     {
-      imageUrl: images['02_Ihl-Architektur_BOU_Innenperspektive_belebt.jpg'],
-      subtitle: 'Innenperspektive belebt',
+      imageUrl: images['02_Isabelle Ihl Architektur_Bildbauten.jpg'],
+      subtitle: '',
     },
     {
-      imageUrl: images['03_Ihl-Architektur_BOU_Erdgeschoss.jpg'],
-      subtitle: 'Grundriss Erdgeschoss',
+      imageUrl: images['03_Isabelle Ihl Architektur_Bildbauten.jpg'],
+      subtitle: '',
     },
     {
-      imageUrl: images['04_Ihl-Architektur_BOU_Emporenebene.jpg'],
-      subtitle: 'Grundriss Emporenebene',
+      imageUrl: images['04_Isabelle Ihl Architektur_Bildbauten.jpg'],
+      subtitle: '',
     },
   ],
   title: 'Bildbauten',

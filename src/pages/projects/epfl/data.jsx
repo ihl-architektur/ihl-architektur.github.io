@@ -1,30 +1,38 @@
 import { importAll } from 'utils/helper';
 
 const images = importAll(
-  require.context(
-    '../../../assets/a_boulderchurch',
-    false,
-    /\.(png|jpe?g|svg)$/
-  )
+  require.context('../../../assets/c2_epfl', false, /\.(png|jpe?g|svg)$/)
 );
 
 const boulderChurch = {
   images: [
     {
-      imageUrl: images['01_Ihl-Architektur_BOU_Innenperspektive.jpg'],
-      subtitle: 'Innenperspektive',
+      imageUrl:
+        images[
+          '01_Isabelle Ihl Architektur_Wohnungsbau_Modellfoto Innenraum.jpg'
+        ],
+      subtitle: 'Modellfoto Innenraum',
     },
     {
-      imageUrl: images['02_Ihl-Architektur_BOU_Innenperspektive_belebt.jpg'],
-      subtitle: 'Innenperspektive belebt',
-    },
-    {
-      imageUrl: images['03_Ihl-Architektur_BOU_Erdgeschoss.jpg'],
+      imageUrl:
+        images[
+          '02_Isabelle Ihl Architektur_Wohnungsbau_Grundriss Erdgeschoss.jpg'
+        ],
       subtitle: 'Grundriss Erdgeschoss',
     },
     {
-      imageUrl: images['04_Ihl-Architektur_BOU_Emporenebene.jpg'],
-      subtitle: 'Grundriss Emporenebene',
+      imageUrl:
+        images[
+          '03_Isabelle Ihl Architektur_Wohnungsbau_Grundriss 1.Obergeschoss.jpg'
+        ],
+      subtitle: 'Grundriss 1.Obergeschoss',
+    },
+    {
+      imageUrl:
+        images[
+          '04_Isabelle Ihl Architektur_Wohnungsbau_Grundriss 2.Obergeschoss.jpg'
+        ],
+      subtitle: 'Grundriss 2.Obergeschoss',
     },
   ],
   title: "Wohnungsbau 'Forms of Living'",
