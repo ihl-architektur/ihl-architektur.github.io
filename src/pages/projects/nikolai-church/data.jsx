@@ -2,7 +2,7 @@ import { importAll } from 'utils/helper';
 
 const images = importAll(
   require.context(
-    '../../../assets/a_boulderchurch',
+    '../../../assets/b2_nikolai-church',
     false,
     /\.(png|jpe?g|svg)$/
   )
@@ -11,12 +11,24 @@ const images = importAll(
 const boulderChurch = {
   images: [
     {
-      imageUrl: images['01_Ihl-Architektur_BOU_Innenperspektive.jpg'],
+      imageUrl: images['01_hparc_IKA_Innenperspektive.jpg'],
+      subtitle: 'Perspektive Innenraum',
+    },
+    {
+      imageUrl: images['02_hparc_IKA_Lageplan.jpg'],
+      subtitle: 'Lageplan',
+    },
+    {
+      imageUrl: images['03_hparc_IKA_Grundriss Erdgeschoss.jpg'],
       subtitle: 'Grundriss Erdgeschoss',
     },
     {
-      imageUrl: images['02_Ihl-Architektur_BOU_Erdgeschoss.jpg'],
+      imageUrl: images['04_hparc_IKA_Grundriss Obergeschoss.jpg'],
       subtitle: 'Grundriss Obergeschoss',
+    },
+    {
+      imageUrl: images['05_hparc_IKA_Schnitt.jpg'],
+      subtitle: 'Schnitt',
     },
   ],
   title: 'Lilienthal Flug Museum',
