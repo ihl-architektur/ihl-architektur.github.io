@@ -1,9 +1,26 @@
 {
   "files": {
     "main.css": "/static/css/main.cff61347.css",
-    "main.js": "/static/js/main.3e247a8b.js",
+    "main.js": "/static/js/main.2816ed4a.js",
+    "static/media/06_Thusanang.jpg": "/static/media/06_Thusanang.8af80c5ec1087e738ef8.jpg",
+    "static/media/02_Thusanang.jpg": "/static/media/02_Thusanang.9c9f27de2436e6a80634.jpg",
+    "static/media/02_Ihl-Architektur_03_Dockville.jpg": "/static/media/02_Ihl-Architektur_03_Dockville.850b34f3bd29fb041f2c.jpg",
+    "static/media/04_Thusanang.jpg": "/static/media/04_Thusanang.3828a8ecaf74e74afc34.jpg",
+    "static/media/01_Thusanang.jpg": "/static/media/01_Thusanang.5ee1f0b7f5ae538d34fe.jpg",
+    "static/media/01_Ihl-Architektur_01_Feel.jpg": "/static/media/01_Ihl-Architektur_01_Feel.6bf302ac12abe5681790.jpg",
+    "static/media/03_Thusanang.jpg": "/static/media/03_Thusanang.909eb7646172758fd7e4.jpg",
+    "static/media/02_Ihl-Architektur_04_Dockville.jpg": "/static/media/02_Ihl-Architektur_04_Dockville.9a01515bd93890b1153a.jpg",
+    "static/media/05_Thusanang.jpg": "/static/media/05_Thusanang.3cd8efda7f411330367c.jpg",
+    "static/media/07_Thusanang.jpg": "/static/media/07_Thusanang.b4e6eed4ead246794240.jpg",
+    "static/media/02_Ihl-Architektur_05_Dockville.jpg": "/static/media/02_Ihl-Architektur_05_Dockville.329c9247b464b1385b8c.jpg",
+    "static/media/03_Ihl-Architektur_01_Bucht der Träumer.jpg": "/static/media/03_Ihl-Architektur_01_Bucht der Träumer.467456dd2191dc61fa31.jpg",
+    "static/media/02_Ihl-Architektur_06_Dockville.jpg": "/static/media/02_Ihl-Architektur_06_Dockville.7a15ab6028c4aca92e30.jpg",
+    "static/media/02_Ihl-Architektur_01_Dockville.jpg": "/static/media/02_Ihl-Architektur_01_Dockville.edc306730cd78f0c248c.jpg",
     "static/media/02_Ihl-Architektur_BOU_Innenperspektive_belebt.jpg": "/static/media/02_Ihl-Architektur_BOU_Innenperspektive_belebt.3e6fd82be3a7a652f39b.jpg",
     "static/media/01_Ihl-Architektur_BOU_Innenperspektive.jpg": "/static/media/01_Ihl-Architektur_BOU_Innenperspektive.449f3da0dbb392ae2c26.jpg",
+    "static/media/01_Ihl-Architektur_02_Feel.jpg": "/static/media/01_Ihl-Architektur_02_Feel.f323c2fce59b40b0798b.jpg",
+    "static/media/02_Ihl-Architektur_02_Dockville.jpg": "/static/media/02_Ihl-Architektur_02_Dockville.c1a984b148553e236fba.jpg",
+    "static/media/01_Ihl-Architektur_03_Feel.jpg": "/static/media/01_Ihl-Architektur_03_Feel.af0cc0d347fc8c557c83.jpg",
     "static/media/02_Thusanang_Soziales-Projekt.jpg": "/static/media/02_Thusanang_Soziales-Projekt.e8b256def08a613df88e.jpg",
     "static/media/02_Architekturkollektiv_Lattemit.jpg": "/static/media/02_Architekturkollektiv_Lattemit.9fe689a6a14b0def25d6.jpg",
     "static/media/03_Architekturkollektiv_Lattemit.jpg": "/static/media/03_Architekturkollektiv_Lattemit.460682f4475e68dc2258.jpg",
@@ -24,10 +41,10 @@
     "static/media/02_Ihl-Architektur_BOU_Erdgeschoss.jpg": "/static/media/02_Ihl-Architektur_BOU_Erdgeschoss.9fa55ba20351c33a185b.jpg",
     "index.html": "/index.html",
     "main.cff61347.css.map": "/static/css/main.cff61347.css.map",
-    "main.3e247a8b.js.map": "/static/js/main.3e247a8b.js.map"
+    "main.2816ed4a.js.map": "/static/js/main.2816ed4a.js.map"
   },
   "entrypoints": [
     "static/css/main.cff61347.css",
-    "static/js/main.3e247a8b.js"
+    "static/js/main.2816ed4a.js"
   ]
 }
