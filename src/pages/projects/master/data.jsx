@@ -1,29 +1,36 @@
 import { importAll } from 'utils/helper';
 
 const images = importAll(
-  require.context(
-    '../../../assets/a_boulderchurch',
-    false,
-    /\.(png|jpe?g|svg)$/
-  )
+  require.context('../../../assets/c1_master', false, /\.(png|jpe?g|svg)$/)
 );
 
 const boulderChurch = {
   images: [
     {
-      imageUrl: images['01_Ihl-Architektur_BOU_Innenperspektive.jpg'],
+      imageUrl:
+        images['01_Isabelle Ihl Architektur_Masterthesis_Modellfoto Hof.jpg'],
       subtitle: 'Innenperspektive',
     },
     {
-      imageUrl: images['02_Ihl-Architektur_BOU_Innenperspektive_belebt.jpg'],
+      imageUrl: images['03_Isabelle Ihl Architektur_Masterthesis_Lageplan.jpg'],
       subtitle: 'Innenperspektive belebt',
     },
     {
-      imageUrl: images['03_Ihl-Architektur_BOU_Erdgeschoss.jpg'],
+      imageUrl:
+        images[
+          '04_Isabelle Ihl Architektur_Masterthesis_Grundriss Erdgeschoss.jpg'
+        ],
       subtitle: 'Grundriss Erdgeschoss',
     },
     {
-      imageUrl: images['04_Ihl-Architektur_BOU_Emporenebene.jpg'],
+      imageUrl:
+        images[
+          '05_Isabelle Ihl Architektur_Masterthesis_Grundriss Obergeschoss.jpg'
+        ],
+      subtitle: 'Grundriss Emporenebene',
+    },
+    {
+      imageUrl: images['06_Isabelle Ihl Architektur_Masterthesis_Schnitt.jpg'],
       subtitle: 'Grundriss Emporenebene',
     },
   ],

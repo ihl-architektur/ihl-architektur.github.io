@@ -1,30 +1,25 @@
 import { importAll } from 'utils/helper';
 
 const images = importAll(
-  require.context(
-    '../../../assets/a_boulderchurch',
-    false,
-    /\.(png|jpe?g|svg)$/
-  )
+  require.context('../../../assets/b5_renes', false, /\.(png|jpe?g|svg)$/)
 );
 
 const boulderChurch = {
   images: [
     {
-      imageUrl: images['01_Ihl-Architektur_BOU_Innenperspektive.jpg'],
-      subtitle: 'Innenperspektive © Dreier Frenzel',
+      imageUrl:
+        images['01_Dreier Frenzel_Immeuble Verdeaux Renens_Gebäude.jpg'],
+      subtitle: 'Gebäude © Dreier Frenzel',
     },
     {
-      imageUrl: images['02_Ihl-Architektur_BOU_Innenperspektive_belebt.jpg'],
-      subtitle: 'Innenperspektive belebt © Dreier Frenzel',
+      imageUrl:
+        images['02_Dreier Frenzel_Immeuble Verdeaux Renens_Innenraum.jpg'],
+      subtitle: 'Innenraum © Dreier Frenzel',
     },
     {
-      imageUrl: images['03_Ihl-Architektur_BOU_Erdgeschoss.jpg'],
+      imageUrl:
+        images['03_Dreier Frenzel_Immeuble Verdeaux Renes_Obergeschoss.jpg'],
       subtitle: 'Grundriss Erdgeschoss © Dreier Frenzel',
-    },
-    {
-      imageUrl: images['04_Ihl-Architektur_BOU_Emporenebene.jpg'],
-      subtitle: 'Grundriss Emporenebene © Dreier Frenzel',
     },
   ],
   title: 'Wohnungsbau: Immeuble Verdeaux',
