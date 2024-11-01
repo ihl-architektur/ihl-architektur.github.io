@@ -125,12 +125,11 @@ const DataPrivacy = () => {
           <br />
           10711 Berlin
           <br />
-          info@ihl-architektur.de
+          isabelle.ihl@gmx.de
         </p>
-
+        <br />
         <p>
           <div>Widerruf Ihrer Einwilligung zur Datenverarbeitung</div>
-          <br />
           Viele Datenverarbeitungsvorgänge sind nur mit Ihrer ausdrücklichen
           Einwilligung möglich. Sie können eine bereits erteilte Einwilligung
           jederzeit widerrufen. Dazu reicht eine formlose Mitteilung per E-Mail

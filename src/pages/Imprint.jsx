@@ -15,7 +15,7 @@ const Imprint = () => {
           <br />
           +49 15733927022
           <br />
-          info@ihl-architektur.de
+          isabelle.ihl@gmx.de
         </p>
 
         <h2 className="pt-6">BERUFSBEZEICHNUNG</h2>

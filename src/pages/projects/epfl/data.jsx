@@ -34,6 +34,10 @@ const boulderChurch = {
         ],
       subtitle: 'Grundriss 2.Obergeschoss',
     },
+    {
+      imageUrl: images['05_Isabelle-Ihl-Architektur_Wohnungsbau_Schnitt.jpg'],
+      subtitle: 'Schnitt',
+    },
   ],
   title: "Wohnungsbau 'Forms of Living'",
   topline: 'Entwurf EPFL',

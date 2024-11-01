@@ -12,7 +12,7 @@ const Contact = () => {
           <p>Damaschkestraße 34</p>
           <p>D-10711 Berlin</p>
           <p className="pt-6">+49 15733927022</p>
-          <p>info@ihl-architektur.de</p>
+          <p>isabelle.ihl@gmx.de</p>
         </div>
       </div>
     </Container>

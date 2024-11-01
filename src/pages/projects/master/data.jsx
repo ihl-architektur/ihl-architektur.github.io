@@ -8,7 +8,14 @@ const boulderChurch = {
   images: [
     {
       imageUrl:
-        images['01_Isabelle Ihl Architektur_Masterthesis_Modellfoto Hof.jpg'],
+        images[
+          '01_Isabelle Ihl Architektur_Masterthesis_Modellfoto Hauptansicht.jpg'
+        ],
+      subtitle: 'Modellfoto Hauptansicht',
+    },
+    {
+      imageUrl:
+        images['02_Isabelle Ihl Architektur_Masterthesis_Modellfoto Hof.jpg'],
       subtitle: 'Modellfoto Innenhof',
     },
     {
