@@ -8,8 +8,8 @@ const boulderChurch = {
   images: [
     {
       imageUrl:
-        images['01_Dreier Frenzel_Immeuble Verdeaux Renens_Gebäude.jpg'],
-      subtitle: 'Gebäude © Dreier Frenzel',
+        images['01_Dreier Frenzel_Immeuble Verdeaux Renens_Gebaeude.jpg'],
+      subtitle: '© Dreier Frenzel',
     },
     {
       imageUrl:
@@ -19,7 +19,7 @@ const boulderChurch = {
     {
       imageUrl:
         images['03_Dreier Frenzel_Immeuble Verdeaux Renes_Obergeschoss.jpg'],
-      subtitle: 'Grundriss Erdgeschoss © Dreier Frenzel',
+      subtitle: 'Grundriss 2.Obergeschoss © Dreier Frenzel',
     },
   ],
   title: 'Wohnungsbau: Immeuble Verdeaux',

@@ -7,12 +7,12 @@ const images = importAll(
 const boulderChurch = {
   images: [
     {
-      imageUrl: images['01_hparc_FKS_Gemälde.jpg'],
+      imageUrl: images['01_hparc_FKS_Gemaelde Oehme.jpg'],
       subtitle: 'Gemälde, E.F. v. Oehme (1797-1855)',
     },
     {
-      imageUrl: images['02_hparc_FKS_Festungsgelände Isometrie.jpg'],
-      subtitle: 'Festungsgelände Isometrie, Peter Mauksch',
+      imageUrl: images['02_hparc_FKS_Festungsgelaende Isometrie.jpg'],
+      subtitle: 'Festungsgelände Isometrie © Peter Mauksch',
     },
     {
       imageUrl: images['03_hparc_FKS_Nutzungsverteilung Isometrie.jpg'],

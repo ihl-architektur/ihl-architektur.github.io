@@ -9,11 +9,11 @@ const boulderChurch = {
     {
       imageUrl:
         images['01_Isabelle Ihl Architektur_Masterthesis_Modellfoto Hof.jpg'],
-      subtitle: 'Innenperspektive',
+      subtitle: 'Modellfoto Innenhof',
     },
     {
       imageUrl: images['03_Isabelle Ihl Architektur_Masterthesis_Lageplan.jpg'],
-      subtitle: 'Innenperspektive belebt',
+      subtitle: 'Lageplan',
     },
     {
       imageUrl:
@@ -27,11 +27,11 @@ const boulderChurch = {
         images[
           '05_Isabelle Ihl Architektur_Masterthesis_Grundriss Obergeschoss.jpg'
         ],
-      subtitle: 'Grundriss Emporenebene',
+      subtitle: 'Grundriss Saalebene',
     },
     {
       imageUrl: images['06_Isabelle Ihl Architektur_Masterthesis_Schnitt.jpg'],
-      subtitle: 'Grundriss Emporenebene',
+      subtitle: 'Schnitt',
     },
   ],
   title: 'Flamencoschule',
