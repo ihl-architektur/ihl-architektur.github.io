@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cff61347.css",
-    "main.js": "/static/js/main.03476d33.js",
+    "main.js": "/static/js/main.fad8abfd.js",
     "static/media/06_Thusanang.jpg": "/static/media/06_Thusanang.8af80c5ec1087e738ef8.jpg",
     "static/media/02_Thusanang.jpg": "/static/media/02_Thusanang.9c9f27de2436e6a80634.jpg",
     "static/media/02_Ihl-Architektur_03_Dockville.jpg": "/static/media/02_Ihl-Architektur_03_Dockville.850b34f3bd29fb041f2c.jpg",
@@ -13,9 +13,9 @@
     "static/media/01_hparc_IKA_Innenperspektive.jpg": "/static/media/01_hparc_IKA_Innenperspektive.2e9c59376c0b1ac01a20.jpg",
     "static/media/01_W+W_Tapetenmuseum-Kassel_Wettbewerb_Außenperspektive.jpg": "/static/media/01_W+W_Tapetenmuseum-Kassel_Wettbewerb_Außenperspektive.d078e088fbd0e7b693be.jpg",
     "static/media/05_Thusanang.jpg": "/static/media/05_Thusanang.3cd8efda7f411330367c.jpg",
-    "static/media/01_hparc_FKS_Gemälde.jpg": "/static/media/01_hparc_FKS_Gemälde.bd5ec40327d1ce5cec29.jpg",
+    "static/media/01_hparc_FKS_Gemaelde Oehme.jpg": "/static/media/01_hparc_FKS_Gemaelde Oehme.bd5ec40327d1ce5cec29.jpg",
     "static/media/03_Ihl-Architektur_01_Bucht der Träumer.jpg": "/static/media/03_Ihl-Architektur_01_Bucht der Träumer.e0bf11a11401888424b9.jpg",
-    "static/media/01_Dreier Frenzel_Immeuble Verdeaux Renens_Gebäude.jpg": "/static/media/01_Dreier Frenzel_Immeuble Verdeaux Renens_Gebäude.41dfe19163ee91e3c538.jpg",
+    "static/media/01_Dreier Frenzel_Immeuble Verdeaux Renens_Gebaeude.jpg": "/static/media/01_Dreier Frenzel_Immeuble Verdeaux Renens_Gebaeude.41dfe19163ee91e3c538.jpg",
     "static/media/07_Thusanang.jpg": "/static/media/07_Thusanang.b4e6eed4ead246794240.jpg",
     "static/media/02_Ihl-Architektur_05_Dockville.jpg": "/static/media/02_Ihl-Architektur_05_Dockville.329c9247b464b1385b8c.jpg",
     "static/media/02_Dreier Frenzel_Immeuble Verdeaux Renens_Innenraum.jpg": "/static/media/02_Dreier Frenzel_Immeuble Verdeaux Renens_Innenraum.65fe12777589deb79785.jpg",
@@ -40,7 +40,7 @@
     "static/media/02_hparc_IKA_Lageplan.jpg": "/static/media/02_hparc_IKA_Lageplan.2249afa5062c40acdadc.jpg",
     "static/media/01_Isabelle Ihl Architektur_Bildbauten.jpg": "/static/media/01_Isabelle Ihl Architektur_Bildbauten.e3e5adbfaf01afeb0f7d.jpg",
     "static/media/03_Isabelle Ihl Architektur_Masterthesis_Lageplan.jpg": "/static/media/03_Isabelle Ihl Architektur_Masterthesis_Lageplan.5ad6677d86ecf4d79d21.jpg",
-    "static/media/02_hparc_FKS_Festungsgelände Isometrie.jpg": "/static/media/02_hparc_FKS_Festungsgelände Isometrie.02b9272fd28ee3af741c.jpg",
+    "static/media/02_hparc_FKS_Festungsgelaende Isometrie.jpg": "/static/media/02_hparc_FKS_Festungsgelaende Isometrie.02b9272fd28ee3af741c.jpg",
     "static/media/02_Ihl-Architektur_02_Dockville.jpg": "/static/media/02_Ihl-Architektur_02_Dockville.c1a984b148553e236fba.jpg",
     "static/media/04_hparc_FKS_Ansicht Musterfassade.jpg": "/static/media/04_hparc_FKS_Ansicht Musterfassade.f441ac19590c299b0baf.jpg",
     "static/media/02_W+W_Tapetenmuseum Kassel_Wettbewerb_Grundriss Erdgeschoss.jpg": "/static/media/02_W+W_Tapetenmuseum Kassel_Wettbewerb_Grundriss Erdgeschoss.6eeaf24d9ac67dec8e90.jpg",
@@ -77,10 +77,10 @@
     "static/media/02_Ihl-Architektur_BOU_Erdgeschoss.jpg": "/static/media/02_Ihl-Architektur_BOU_Erdgeschoss.9fa55ba20351c33a185b.jpg",
     "index.html": "/index.html",
     "main.cff61347.css.map": "/static/css/main.cff61347.css.map",
-    "main.03476d33.js.map": "/static/js/main.03476d33.js.map"
+    "main.fad8abfd.js.map": "/static/js/main.fad8abfd.js.map"
   },
   "entrypoints": [
     "static/css/main.cff61347.css",
-    "static/js/main.03476d33.js"
+    "static/js/main.fad8abfd.js"
   ]
 }
