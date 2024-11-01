@@ -98,8 +98,14 @@ const ProjectDetailView = ({ data }) => {
                   )}
                   {data.client && (
                     <li className="pb-5">
-                      AUFTRAGGEBER:IN
+                      AUFTRAGGEBER*IN
                       <p>{data.client}</p>
+                    </li>
+                  )}
+                  {data.client && (
+                    <li className="pb-5">
+                      PROFESSOR*IN
+                      <p>{data.prof}</p>
                     </li>
                   )}
                   {data.team && (
