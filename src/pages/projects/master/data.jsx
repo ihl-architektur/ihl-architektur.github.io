@@ -52,8 +52,9 @@ const boulderChurch = {
   timerange: 'Wintersemester 2017|18',
   performance: '',
   client: '',
+  prof: 'Prof. Anett-Maud Joppien',
   team: '',
-  company: 'PROFESSOR*IN Prof. Anett-Maud Joppien',
+  company: '',
 };
 
 export default boulderChurch;

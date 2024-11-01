@@ -30,8 +30,9 @@ const boulderChurch = {
   timerange: 'Sommersemester 2017',
   performance: '',
   client: '',
+  prof: 'Dipl.-Ing. Joachim Raab',
   team: '',
-  company: 'PROFESSOR*IN Dipl.-Ing. Joachim Raab',
+  company: '',
 };
 
 export default boulderChurch;

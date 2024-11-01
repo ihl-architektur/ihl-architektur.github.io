@@ -50,7 +50,7 @@ const boulderChurch = {
   timerange: 'Wintersemester 2015|16',
   performance: '',
   client: '',
-  prof: 'Christian Müller Inderbitzin',
+  prof: 'Prof. Christian Müller Inderbitzin',
   team: '',
   company: '',
 };

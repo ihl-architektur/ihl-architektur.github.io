@@ -38,8 +38,9 @@ const boulderChurch = {
   timerange: 'Wintersemester 2015|16',
   performance: '',
   client: '',
+  prof: 'Dipl. Arch. Philipp Schaerer',
   team: '',
-  company: 'PROFESSOR*IN Dipl. Arch. Philipp Schaerer',
+  company: '',
 };
 
 export default boulderChurch;

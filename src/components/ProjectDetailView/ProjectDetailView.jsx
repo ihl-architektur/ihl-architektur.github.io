@@ -102,9 +102,9 @@ const ProjectDetailView = ({ data }) => {
                       <p>{data.client}</p>
                     </li>
                   )}
-                  {data.client && (
+                  {data.prof && (
                     <li className="pb-5">
-                      PROFESSOR*IN
+                      DOZENT*IN
                       <p>{data.prof}</p>
                     </li>
                   )}
