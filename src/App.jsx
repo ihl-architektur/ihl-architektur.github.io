@@ -19,10 +19,11 @@ import NikolaiChurch from 'pages/projects/nikolai-church/NikolaiChurch';
 import PictureBuilding from 'pages/projects/picture-building/PictureBuilding';
 import Renes from 'pages/projects/renes/Renes';
 import SocialProject from 'pages/projects/social-project/SocialProject';
-
+import ScrollToTop from 'utils/ScrollToTop';
 const App = () => {
   return (
     <BrowserRouter>
+      <ScrollToTop />
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
