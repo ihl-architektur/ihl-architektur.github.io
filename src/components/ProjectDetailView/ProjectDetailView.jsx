@@ -58,7 +58,7 @@ const ProjectDetailView = ({ data }) => {
               </div>
 
               {/* Additional info section */}
-              <div className="w-full p-6 mt-6 md:w-1/3 md:ml-6 md:mt-0">
+              <div className="w-full mt-6 md:p-6 md:w-1/3 md:ml-6 md:mt-0">
                 <ul>
                   {data.location && (
                     <li className="pb-5">
