@@ -58,52 +58,52 @@ const ProjectDetailView = ({ data }) => {
               </div>
 
               {/* Additional info section */}
-              <div className="w-full mt-6 md:p-6 md:w-1/3 md:ml-6 md:mt-0">
+              <div className="w-full mt-6 text-sm md:p-6 md:w-1/3 md:ml-6 md:mt-0 md:text-base">
                 <ul>
                   {data.location && (
-                    <li className="pb-5">
+                    <li className="pb-3 md:pb-3 md:pb-5">
                       ORT
                       <p>{data.location}</p>
                     </li>
                   )}
                   {data.type && (
-                    <li className="pb-5">
+                    <li className="pb-3 md:pb-5">
                       ART
                       <p>{data.type}</p>
                     </li>
                   )}
                   {data.size && (
-                    <li className="pb-5">
+                    <li className="pb-3 md:pb-5">
                       GROESSE
                       <p>{data.size}</p>
                     </li>
                   )}
                   {data.state && (
-                    <li className="pb-5">
+                    <li className="pb-3 md:pb-5">
                       STATUS
                       <p>{data.state}</p>
                     </li>
                   )}
                   {data.timerange && (
-                    <li className="pb-5">
+                    <li className="pb-3 md:pb-5">
                       ZEITRAUM
                       <p>{data.timerange}</p>
                     </li>
                   )}
                   {data.performance && (
-                    <li className="pb-5">
+                    <li className="pb-3 md:pb-5">
                       LEISTUNG
                       <p>{data.performance}</p>
                     </li>
                   )}
                   {data.client && (
-                    <li className="pb-5">
+                    <li className="pb-3 md:pb-5">
                       AUFTRAGGEBER*IN
                       <p>{data.client}</p>
                     </li>
                   )}
                   {data.prof && (
-                    <li className="pb-5">
+                    <li className="pb-3 md:pb-5">
                       DOZENT*IN
                       <p>{data.prof}</p>
                     </li>
