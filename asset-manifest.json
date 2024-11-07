@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.604e179c.css",
-    "main.js": "/static/js/main.3f13c2c4.js",
+    "main.js": "/static/js/main.b848a209.js",
     "static/media/06_Thusanang.jpg": "/static/media/06_Thusanang.8af80c5ec1087e738ef8.jpg",
     "static/media/02_Thusanang.jpg": "/static/media/02_Thusanang.9c9f27de2436e6a80634.jpg",
     "static/media/02_Ihl-Architektur_03_Dockville.jpg": "/static/media/02_Ihl-Architektur_03_Dockville.850b34f3bd29fb041f2c.jpg",
@@ -47,6 +47,7 @@
     "static/media/01_Ihl-Architektur_03_Feel.jpg": "/static/media/01_Ihl-Architektur_03_Feel.af0cc0d347fc8c557c83.jpg",
     "static/media/02_Thusanang_Soziales-Projekt.jpg": "/static/media/02_Thusanang_Soziales-Projekt.e8b256def08a613df88e.jpg",
     "static/media/04_Prof.-Felix-Waechter_Machbarkeitsstudie-Mannheim_Schnitt.jpg": "/static/media/04_Prof.-Felix-Waechter_Machbarkeitsstudie-Mannheim_Schnitt.4f52feef5f6c5ab06baf.jpg",
+    "static/media/03_Ihl-Architektur_BOU_Isometrie.jpg": "/static/media/03_Ihl-Architektur_BOU_Isometrie.81184e4ce9a7538f6da9.jpg",
     "static/media/02_Isabelle Ihl Architektur_Bildbauten.jpg": "/static/media/02_Isabelle Ihl Architektur_Bildbauten.7bd38dd5b741c7391430.jpg",
     "static/media/01_Isabelle Ihl Architektur_Masterthesis_Modellfoto Hauptansicht.jpg": "/static/media/01_Isabelle Ihl Architektur_Masterthesis_Modellfoto Hauptansicht.a6dacce5078b731aa8d6.jpg",
     "static/media/02_Architekturkollektiv_Lattemit.jpg": "/static/media/02_Architekturkollektiv_Lattemit.429c7552dd2116e28db0.jpg",
@@ -79,10 +80,10 @@
     "static/media/02_Ihl-Architektur_BOU_Erdgeschoss.jpg": "/static/media/02_Ihl-Architektur_BOU_Erdgeschoss.9fa55ba20351c33a185b.jpg",
     "index.html": "/index.html",
     "main.604e179c.css.map": "/static/css/main.604e179c.css.map",
-    "main.3f13c2c4.js.map": "/static/js/main.3f13c2c4.js.map"
+    "main.b848a209.js.map": "/static/js/main.b848a209.js.map"
   },
   "entrypoints": [
     "static/css/main.604e179c.css",
-    "static/js/main.3f13c2c4.js"
+    "static/js/main.b848a209.js"
   ]
 }
