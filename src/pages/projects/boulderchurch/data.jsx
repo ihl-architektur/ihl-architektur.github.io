@@ -19,6 +19,10 @@ const boulderChurch = {
       subtitle: 'Innenperspektive belebt',
     },
     {
+      imageUrl: images['03_Ihl-Architektur_BOU_Isometrie.jpg'],
+      subtitle: 'Isometrie Nutzungsaufteilung',
+    },
+    {
       imageUrl: images['03_Ihl-Architektur_BOU_Erdgeschoss.jpg'],
       subtitle: 'Grundriss Erdgeschoss',
     },
