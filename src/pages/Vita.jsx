@@ -22,7 +22,7 @@ const Vita = () => {
           <td className="flex flex-row justify-between min-w-[140px]">
             <div>09|2015</div> <div>-</div> <div>06|2016</div>
           </td>
-          <td className="pl-4">Austauschstudium, EPF Lausanne</td>
+          <td className="pl-4">Austauschstudium, EPFL Lausanne</td>
         </tr>
         <tr>
           <td className="flex flex-row justify-between min-w-[140px]">

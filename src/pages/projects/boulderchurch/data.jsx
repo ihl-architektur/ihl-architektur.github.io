@@ -42,7 +42,7 @@ const boulderChurch = {
   timerange: '2023 - 2025',
   performance: 'LPH 1-5',
   client: 'Boulderchurch GmbH',
-  team: '<p>Statik: Kleespies Ingenieure</p><p>Brandschutz: Rieser Wessel GbR </p><p>Boulderwandpl.: Problemkind Routenbau </p><p>Boulderwandhersteller: VerSys GmbH </p><p>Zurarbeit Parkplatzplanung: Next Habitat </p><p>Bestandsaufmaß: VB Hummel </p>',
+  team: '<p>Statik: Kleespies Ingenieure</p><p>Brandschutz: Rieser Wessel GbR </p><p>Boulderwandpl.: Problemkind Routenbau </p><p>Boulderwandhersteller: VerSys GmbH </p><p>Zuarbeit Parkplatzplanung: Next Habitat </p><p>Bestandsaufmaß: VB Hummel </p>',
   company: '',
 };
 
