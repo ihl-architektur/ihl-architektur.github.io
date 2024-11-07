@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.604e179c.css",
-    "main.js": "/static/js/main.b848a209.js",
+    "main.js": "/static/js/main.6f76a40c.js",
     "static/media/06_Thusanang.jpg": "/static/media/06_Thusanang.8af80c5ec1087e738ef8.jpg",
     "static/media/02_Thusanang.jpg": "/static/media/02_Thusanang.9c9f27de2436e6a80634.jpg",
     "static/media/02_Ihl-Architektur_03_Dockville.jpg": "/static/media/02_Ihl-Architektur_03_Dockville.850b34f3bd29fb041f2c.jpg",
@@ -72,6 +72,7 @@
     "static/media/02_Isabelle Ihl Architektur_Fachmodul_Grundriss.jpg": "/static/media/02_Isabelle Ihl Architektur_Fachmodul_Grundriss.442cd0b25eb6639c49d1.jpg",
     "static/media/03_Isabelle Ihl Architektur_Wohnungsbau_Grundriss 1.Obergeschoss.jpg": "/static/media/03_Isabelle Ihl Architektur_Wohnungsbau_Grundriss 1.Obergeschoss.ea873d7713f451f9048a.jpg",
     "static/media/02_Isabelle Ihl Architektur_Wohnungsbau_Grundriss Erdgeschoss.jpg": "/static/media/02_Isabelle Ihl Architektur_Wohnungsbau_Grundriss Erdgeschoss.470e8fcfd4030d8b7ce0.jpg",
+    "static/media/02_Ihl-Architektur_BOU_Isometrie.jpg": "/static/media/02_Ihl-Architektur_BOU_Isometrie.99a126df3a667b66b061.jpg",
     "static/media/01_Isabelle Ihl Architektur_Wohnungsbau_Modellfoto Innenraum.jpg": "/static/media/01_Isabelle Ihl Architektur_Wohnungsbau_Modellfoto Innenraum.625a45f4aa69bfb3ca66.jpg",
     "static/media/04_Isabelle Ihl Architektur_Wohnungsbau_Grundriss 2.Obergeschoss.jpg": "/static/media/04_Isabelle Ihl Architektur_Wohnungsbau_Grundriss 2.Obergeschoss.604c58f2458d1567bff9.jpg",
     "static/media/03_Fachmodul_Pausa---Ort-der-inneren-Einkehr.jpg": "/static/media/03_Fachmodul_Pausa---Ort-der-inneren-Einkehr.7e8e1f45c8852d1c942a.jpg",
@@ -80,10 +81,10 @@
     "static/media/02_Ihl-Architektur_BOU_Erdgeschoss.jpg": "/static/media/02_Ihl-Architektur_BOU_Erdgeschoss.9fa55ba20351c33a185b.jpg",
     "index.html": "/index.html",
     "main.604e179c.css.map": "/static/css/main.604e179c.css.map",
-    "main.b848a209.js.map": "/static/js/main.b848a209.js.map"
+    "main.6f76a40c.js.map": "/static/js/main.6f76a40c.js.map"
   },
   "entrypoints": [
     "static/css/main.604e179c.css",
-    "static/js/main.b848a209.js"
+    "static/js/main.6f76a40c.js"
   ]
 }
