@@ -2,10 +2,11 @@ import React from 'react';
 
 import 'swiper/css';
 import projectsA1 from '../assets/projects-a/01_Ihl-Architektur_BOU_Innenperspektive.jpg';
-import projectsA2 from '../assets/projects-a/02_Ihl-Architektur_BOU_Erdgeschoss.jpg';
+import projectsA2 from '../assets/projects-a/02_Ihl-Architektur_BOU_Isometrie.jpg';
 import projectsA3 from '../assets/projects-a/03_Ihl-Architektur_BOU_Foto Chorbereich.jpg';
-import projectsA4 from '../assets/projects-a/04_Ihl-Architektur_BOU_Emporenebene.jpg';
+import projectsA4 from '../assets/projects-a/02_Ihl-Architektur_BOU_Erdgeschoss.jpg';
 import projectsA5 from '../assets/projects-a/05_bad-orb-st-michael3-bild-Jörg-Braukmann-cc-by-sa-4.0-2020.jpg';
+import projectsA6 from '../assets/projects-a/04_Ihl-Architektur_BOU_Emporenebene.jpg';
 
 import projectsB1 from '../assets/projects-b/01_hparc_FKS_Gemälde Bestand.jpg';
 import projectsB2 from '../assets/projects-b/02_hparc_IKA_Innenraumperspektive.jpg';
@@ -52,6 +53,12 @@ const Projects = () => {
     },
     {
       src: projectsA5,
+      title: 'Boulderhalle',
+      subtitle: 'Eigenes Projekt',
+      link: '/projects/boulderchurch',
+    },
+    {
+      src: projectsA6,
       title: 'Boulderhalle',
       subtitle: 'Eigenes Projekt',
       link: '/projects/boulderchurch',
