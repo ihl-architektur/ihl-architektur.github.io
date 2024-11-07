@@ -34,7 +34,7 @@ const Nav = () => {
                 to="/vita"
                 className="font-medium uppercase transition-colors text-primary hover:text-secondary"
               >
-                Vita
+                Profil
               </Link>
             </li>
             <li>
