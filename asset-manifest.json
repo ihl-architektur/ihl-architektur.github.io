@@ -1,15 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.7a279d24.css",
-    "main.js": "/static/js/main.33ce8fcc.js",
+    "main.js": "/static/js/main.d64d987e.js",
     "static/media/06_Thusanang.jpg": "/static/media/06_Thusanang.8af80c5ec1087e738ef8.jpg",
     "static/media/02_Thusanang.jpg": "/static/media/02_Thusanang.9c9f27de2436e6a80634.jpg",
     "static/media/02_Ihl-Architektur_03_Dockville.jpg": "/static/media/02_Ihl-Architektur_03_Dockville.850b34f3bd29fb041f2c.jpg",
     "static/media/04_Thusanang.jpg": "/static/media/04_Thusanang.3828a8ecaf74e74afc34.jpg",
     "static/media/01_Thusanang.jpg": "/static/media/01_Thusanang.5ee1f0b7f5ae538d34fe.jpg",
-    "static/media/01_Ihl-Architektur_01_Feel.jpg": "/static/media/01_Ihl-Architektur_01_Feel.6bf302ac12abe5681790.jpg",
     "static/media/03_Thusanang.jpg": "/static/media/03_Thusanang.909eb7646172758fd7e4.jpg",
-    "static/media/02_Ihl-Architektur_04_Dockville.jpg": "/static/media/02_Ihl-Architektur_04_Dockville.9a01515bd93890b1153a.jpg",
     "static/media/01_hparc_IKA_Innenperspektive.jpg": "/static/media/01_hparc_IKA_Innenperspektive.2e9c59376c0b1ac01a20.jpg",
     "static/media/01_W+W_Tapetenmuseum-Kassel_Wettbewerb_Außenperspektive.jpg": "/static/media/01_W+W_Tapetenmuseum-Kassel_Wettbewerb_Außenperspektive.d078e088fbd0e7b693be.jpg",
     "static/media/05_Thusanang.jpg": "/static/media/05_Thusanang.3cd8efda7f411330367c.jpg",
@@ -31,7 +29,6 @@
     "static/media/03_hparc_FKS_Nutzungsverteilung Isometrie.jpg": "/static/media/03_hparc_FKS_Nutzungsverteilung Isometrie.f0e7eb137e06989a16d0.jpg",
     "static/media/02_Prof.-Felix-Waechter_Machbarkeitsstudie-Mannheim_Grundriss-EG.jpg": "/static/media/02_Prof.-Felix-Waechter_Machbarkeitsstudie-Mannheim_Grundriss-EG.7ab8f1d931fc70d9c5e6.jpg",
     "static/media/03_Prof.-Felix-Waechter_Machbarkeitsstudie-Mannheim_Grundriss-UG.jpg": "/static/media/03_Prof.-Felix-Waechter_Machbarkeitsstudie-Mannheim_Grundriss-UG.6c747835244eccc28930.jpg",
-    "static/media/01_Ihl-Architektur_02_Feel.jpg": "/static/media/01_Ihl-Architektur_02_Feel.f323c2fce59b40b0798b.jpg",
     "static/media/04_Isabelle Ihl Architektur_Bildbauten.jpg": "/static/media/04_Isabelle Ihl Architektur_Bildbauten.2d6b15f8282016f89286.jpg",
     "static/media/02_Isabelle Ihl Architektur_Masterthesis_Modellfoto Hof.jpg": "/static/media/02_Isabelle Ihl Architektur_Masterthesis_Modellfoto Hof.8703db789e9847879b0a.jpg",
     "static/media/04_hparc_IKA_Grundriss Obergeschoss.jpg": "/static/media/04_hparc_IKA_Grundriss Obergeschoss.eaca063d2fdfda64eae3.jpg",
@@ -39,12 +36,13 @@
     "static/media/05_hparc_IKA_Schnitt.jpg": "/static/media/05_hparc_IKA_Schnitt.e9c39f12c4b623958056.jpg",
     "static/media/02_hparc_IKA_Lageplan.jpg": "/static/media/02_hparc_IKA_Lageplan.2249afa5062c40acdadc.jpg",
     "static/media/01_Isabelle Ihl Architektur_Bildbauten.jpg": "/static/media/01_Isabelle Ihl Architektur_Bildbauten.e3e5adbfaf01afeb0f7d.jpg",
+    "static/media/01_Ihl-Architektur_01_Feel.jpg": "/static/media/01_Ihl-Architektur_01_Feel.716c002720efd6853625.jpg",
     "static/media/03_Isabelle Ihl Architektur_Masterthesis_Lageplan.jpg": "/static/media/03_Isabelle Ihl Architektur_Masterthesis_Lageplan.5ad6677d86ecf4d79d21.jpg",
     "static/media/02_hparc_FKS_Festungsgelaende Isometrie.jpg": "/static/media/02_hparc_FKS_Festungsgelaende Isometrie.02b9272fd28ee3af741c.jpg",
     "static/media/02_Ihl-Architektur_02_Dockville.jpg": "/static/media/02_Ihl-Architektur_02_Dockville.c1a984b148553e236fba.jpg",
     "static/media/04_hparc_FKS_Ansicht Musterfassade.jpg": "/static/media/04_hparc_FKS_Ansicht Musterfassade.f441ac19590c299b0baf.jpg",
     "static/media/02_W+W_Tapetenmuseum Kassel_Wettbewerb_Grundriss Erdgeschoss.jpg": "/static/media/02_W+W_Tapetenmuseum Kassel_Wettbewerb_Grundriss Erdgeschoss.6eeaf24d9ac67dec8e90.jpg",
-    "static/media/01_Ihl-Architektur_03_Feel.jpg": "/static/media/01_Ihl-Architektur_03_Feel.af0cc0d347fc8c557c83.jpg",
+    "static/media/02_Ihl-Architektur_04_Dockville.jpg": "/static/media/02_Ihl-Architektur_04_Dockville.1e913fb5fbec316fed76.jpg",
     "static/media/02_Thusanang_Soziales-Projekt.jpg": "/static/media/02_Thusanang_Soziales-Projekt.e8b256def08a613df88e.jpg",
     "static/media/04_Prof.-Felix-Waechter_Machbarkeitsstudie-Mannheim_Schnitt.jpg": "/static/media/04_Prof.-Felix-Waechter_Machbarkeitsstudie-Mannheim_Schnitt.4f52feef5f6c5ab06baf.jpg",
     "static/media/02_Isabelle Ihl Architektur_Bildbauten.jpg": "/static/media/02_Isabelle Ihl Architektur_Bildbauten.7bd38dd5b741c7391430.jpg",
@@ -52,7 +50,6 @@
     "static/media/02_Architekturkollektiv_Lattemit.jpg": "/static/media/02_Architekturkollektiv_Lattemit.429c7552dd2116e28db0.jpg",
     "static/media/03_Ihl-Architektur_BOU_Isometrie.jpg": "/static/media/03_Ihl-Architektur_BOU_Isometrie.1ff4b622209daa1aedcb.jpg",
     "static/media/03_Dreier Frenzel_Immeuble Verdeaux Renes_Obergeschoss.jpg": "/static/media/03_Dreier Frenzel_Immeuble Verdeaux Renes_Obergeschoss.a9da52abbffa24180004.jpg",
-    "static/media/03_Architekturkollektiv_Lattemit.jpg": "/static/media/03_Architekturkollektiv_Lattemit.460682f4475e68dc2258.jpg",
     "static/media/03_Isabelle Ihl Architektur_Fachmodul_Schnitt.jpg": "/static/media/03_Isabelle Ihl Architektur_Fachmodul_Schnitt.d94d59857bf6e6522ddb.jpg",
     "static/media/03_Ihl-Architektur_BOU_Foto Chorbereich.jpg": "/static/media/03_Ihl-Architektur_BOU_Foto Chorbereich.3eb7489432af7d8796ba.jpg",
     "static/media/01_Isabelle Ihl Architektur_Fachmodul_Modellfoto.jpg": "/static/media/01_Isabelle Ihl Architektur_Fachmodul_Modellfoto.b6b6068123726395d990.jpg",
@@ -60,8 +57,10 @@
     "static/media/03_Ihl-Architektur_BOU_Erdgeschoss.jpg": "/static/media/03_Ihl-Architektur_BOU_Erdgeschoss.c887a79e1873ac7968e3.jpg",
     "static/media/02_hparc_IKA_Innenraumperspektive.jpg": "/static/media/02_hparc_IKA_Innenraumperspektive.98ae4a2d8eab30dd3d22.jpg",
     "static/media/01_Architekturkollektiv_Lattemit.jpg": "/static/media/01_Architekturkollektiv_Lattemit.fd4cbe41b555152b9e21.jpg",
+    "static/media/01_Ihl-Architektur_02_Feel.jpg": "/static/media/01_Ihl-Architektur_02_Feel.6f4e9f8dc9864252b24c.jpg",
     "static/media/05_Isabelle-Ihl-Architektur_Wohnungsbau_Schnitt.jpg": "/static/media/05_Isabelle-Ihl-Architektur_Wohnungsbau_Schnitt.d70029dade24b5a81010.jpg",
     "static/media/01_Masterthesis_Flamenco-Schule_Perspektive-Modell-Hof.jpg": "/static/media/01_Masterthesis_Flamenco-Schule_Perspektive-Modell-Hof.e26a5fece70b5ad61694.jpg",
+    "static/media/01_Ihl-Architektur_03_Feel.jpg": "/static/media/01_Ihl-Architektur_03_Feel.52025b747f7ca6dc50a3.jpg",
     "static/media/02_Wohnungsbau_Forms-of-Living.jpg": "/static/media/02_Wohnungsbau_Forms-of-Living.e3cba77ce6bcd6112a49.jpg",
     "static/media/04_Ihl-Architektur_BOU_Emporenebene.jpg": "/static/media/04_Ihl-Architektur_BOU_Emporenebene.55710fe16580b3736ab5.jpg",
     "static/media/01_hparc_FKS_Gemälde Bestand.jpg": "/static/media/01_hparc_FKS_Gemälde Bestand.e0c0c10c7b46e13ea09a.jpg",
@@ -78,13 +77,14 @@
     "static/media/03_Fachmodul_Pausa---Ort-der-inneren-Einkehr.jpg": "/static/media/03_Fachmodul_Pausa---Ort-der-inneren-Einkehr.7e8e1f45c8852d1c942a.jpg",
     "static/media/04_W+W_Tapetenmuseum Kassel_Wettbewerb.jpg": "/static/media/04_W+W_Tapetenmuseum Kassel_Wettbewerb.a5bfacbd3ee0cb2d44b4.jpg",
     "static/media/04_Fachmodul_Bildbauten.jpg": "/static/media/04_Fachmodul_Bildbauten.e6a651df70eb15c1ae35.jpg",
+    "static/media/03_Architekturkollektiv_Lattemit.jpg": "/static/media/03_Architekturkollektiv_Lattemit.66819568e5f5dc289583.jpg",
     "static/media/02_Ihl-Architektur_BOU_Erdgeschoss.jpg": "/static/media/02_Ihl-Architektur_BOU_Erdgeschoss.9fa55ba20351c33a185b.jpg",
     "index.html": "/index.html",
     "main.7a279d24.css.map": "/static/css/main.7a279d24.css.map",
-    "main.33ce8fcc.js.map": "/static/js/main.33ce8fcc.js.map"
+    "main.d64d987e.js.map": "/static/js/main.d64d987e.js.map"
   },
   "entrypoints": [
     "static/css/main.7a279d24.css",
-    "static/js/main.33ce8fcc.js"
+    "static/js/main.d64d987e.js"
   ]
 }
