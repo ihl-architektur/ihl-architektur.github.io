@@ -9,7 +9,7 @@ const Contact = () => {
         <div className="py-6 pl-[82px]">
           <p>Isabelle Ihl</p>
           <p>M.Sc. Architektin</p>
-          <p>Damaschkestraße 34</p>
+          <p>Damaschkestr. 34</p>
           <p>D-10711 Berlin</p>
           <p className="pt-6">+49 15733927022</p>
           <p>isabelle.ihl@gmx.de</p>
