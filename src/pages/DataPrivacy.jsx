@@ -121,11 +121,11 @@ const DataPrivacy = () => {
           Website ist:
           <br /> Isabelle Ihl
           <br />
-          Damaschkestraße 34
+          Damaschkestr. 34
           <br />
-          10711 Berlin
+          D- 10711 Berlin
           <br />
-          isabelle.ihl@gmx.de
+          info@ihl-architektur.de
         </p>
         <br />
         <p>
