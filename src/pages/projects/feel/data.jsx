@@ -21,12 +21,12 @@ const boulderChurch = {
     {
       imageUrl: images['02_Ihl-Architektur_01_Dockville.jpg'],
       subtitle:
-        '« Art that makes Your brain hurt. But in a good way », MS Dockville',
+        'Konstruktion « Art that makes Your brain hurt. But in a good way », MS Dockville',
     },
     {
       imageUrl: images['02_Ihl-Architektur_02_Dockville.jpg'],
       subtitle:
-        '« Art that makes Your brain hurt. But in a good way », MS Dockville',
+        'Konstruktion « Art that makes Your brain hurt. But in a good way », MS Dockville',
     },
     {
       imageUrl: images['02_Ihl-Architektur_04_Dockville.jpg'],

@@ -12,19 +12,19 @@ const boulderChurch = {
   images: [
     {
       imageUrl: images['01_Thusanang.jpg'],
-      subtitle: 'Baustelle_Community Center',
+      subtitle: 'Baustelle, Community Center',
     },
     {
       imageUrl: images['02_Thusanang.jpg'],
-      subtitle: 'Baustelle_Community Centert',
+      subtitle: 'Baustelle, Community Centert',
     },
     {
       imageUrl: images['03_Thusanang.jpg'],
-      subtitle: 'Baustelle_Community Center',
+      subtitle: 'Baustelle, Community Center',
     },
     {
       imageUrl: images['04_Thusanang.jpg'],
-      subtitle: 'Baustelle_Community Center',
+      subtitle: 'Baustelle, Community Center',
     },
     {
       imageUrl: images['05_Thusanang.jpg'],
