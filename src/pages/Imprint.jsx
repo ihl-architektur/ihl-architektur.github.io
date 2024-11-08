@@ -9,7 +9,7 @@ const Imprint = () => {
         <p>
           Isabelle Ihl
           <br />
-          Damaschkestraße 34
+          Damaschkestr. 34
           <br />
           D- 10711 Berlin
           <br />
