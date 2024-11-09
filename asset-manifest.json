@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7a279d24.css",
-    "main.js": "/static/js/main.ee47b2cb.js",
+    "main.js": "/static/js/main.c0c9967b.js",
     "static/media/06_Thusanang.jpg": "/static/media/06_Thusanang.8af80c5ec1087e738ef8.jpg",
     "static/media/02_Thusanang.jpg": "/static/media/02_Thusanang.9c9f27de2436e6a80634.jpg",
     "static/media/02_Ihl-Architektur_03_Dockville.jpg": "/static/media/02_Ihl-Architektur_03_Dockville.850b34f3bd29fb041f2c.jpg",
@@ -23,9 +23,9 @@
     "static/media/02_Ihl-Architektur_BOU_Innenperspektive_belebt.jpg": "/static/media/02_Ihl-Architektur_BOU_Innenperspektive_belebt.3e6fd82be3a7a652f39b.jpg",
     "static/media/01_Ihl-Architektur_BOU_Innenperspektive.jpg": "/static/media/01_Ihl-Architektur_BOU_Innenperspektive.449f3da0dbb392ae2c26.jpg",
     "static/media/03_hparc_IKA_Grundriss Erdgeschoss.jpg": "/static/media/03_hparc_IKA_Grundriss Erdgeschoss.2a25a4c96b15e702bd8b.jpg",
-    "static/media/01_Prof.-Felix-Waechter_Machbarkeitsstudie-Mannheim_Modellfoto.jpg": "/static/media/01_Prof.-Felix-Waechter_Machbarkeitsstudie-Mannheim_Modellfoto.c50b1c7f0fb61dd79e8f.jpg",
     "static/media/03_Isabelle Ihl Architektur_Bildbauten.jpg": "/static/media/03_Isabelle Ihl Architektur_Bildbauten.f5478a07b4ca23c2281d.jpg",
     "static/media/05_Isabelle Ihl Architektur_Masterthesis_Grundriss Obergeschoss.jpg": "/static/media/05_Isabelle Ihl Architektur_Masterthesis_Grundriss Obergeschoss.0afc17fa6bd22ab3e3b5.jpg",
+    "static/media/01_Prof.-Felix-Waechter_Machbarkeitsstudie-Mannheim_Modellfoto.jpg": "/static/media/01_Prof.-Felix-Waechter_Machbarkeitsstudie-Mannheim_Modellfoto.9dfae57c49f60b880ef0.jpg",
     "static/media/03_hparc_FKS_Nutzungsverteilung Isometrie.jpg": "/static/media/03_hparc_FKS_Nutzungsverteilung Isometrie.f0e7eb137e06989a16d0.jpg",
     "static/media/02_Prof.-Felix-Waechter_Machbarkeitsstudie-Mannheim_Grundriss-EG.jpg": "/static/media/02_Prof.-Felix-Waechter_Machbarkeitsstudie-Mannheim_Grundriss-EG.7ab8f1d931fc70d9c5e6.jpg",
     "static/media/03_Prof.-Felix-Waechter_Machbarkeitsstudie-Mannheim_Grundriss-UG.jpg": "/static/media/03_Prof.-Felix-Waechter_Machbarkeitsstudie-Mannheim_Grundriss-UG.6c747835244eccc28930.jpg",
@@ -48,14 +48,15 @@
     "static/media/02_Isabelle Ihl Architektur_Bildbauten.jpg": "/static/media/02_Isabelle Ihl Architektur_Bildbauten.7bd38dd5b741c7391430.jpg",
     "static/media/01_Isabelle Ihl Architektur_Masterthesis_Modellfoto Hauptansicht.jpg": "/static/media/01_Isabelle Ihl Architektur_Masterthesis_Modellfoto Hauptansicht.a6dacce5078b731aa8d6.jpg",
     "static/media/02_Architekturkollektiv_Lattemit.jpg": "/static/media/02_Architekturkollektiv_Lattemit.429c7552dd2116e28db0.jpg",
-    "static/media/03_Ihl-Architektur_BOU_Isometrie.jpg": "/static/media/03_Ihl-Architektur_BOU_Isometrie.1ff4b622209daa1aedcb.jpg",
+    "static/media/03_Ihl-Architektur_BOU_Isometrie.jpg": "/static/media/03_Ihl-Architektur_BOU_Isometrie.5c4c8f408c493ddfffd5.jpg",
     "static/media/03_Dreier Frenzel_Immeuble Verdeaux Renes_Obergeschoss.jpg": "/static/media/03_Dreier Frenzel_Immeuble Verdeaux Renes_Obergeschoss.a9da52abbffa24180004.jpg",
     "static/media/03_Isabelle Ihl Architektur_Fachmodul_Schnitt.jpg": "/static/media/03_Isabelle Ihl Architektur_Fachmodul_Schnitt.d94d59857bf6e6522ddb.jpg",
     "static/media/03_Ihl-Architektur_BOU_Foto Chorbereich.jpg": "/static/media/03_Ihl-Architektur_BOU_Foto Chorbereich.3eb7489432af7d8796ba.jpg",
     "static/media/01_Isabelle Ihl Architektur_Fachmodul_Modellfoto.jpg": "/static/media/01_Isabelle Ihl Architektur_Fachmodul_Modellfoto.b6b6068123726395d990.jpg",
+    "static/media/03_Ihl-Architektur_BOU_Erdgeschoss.jpg": "/static/media/03_Ihl-Architektur_BOU_Erdgeschoss.7e2fdb16e4229d06138b.jpg",
     "static/media/05_bad-orb-st-michael3-bild-Jörg-Braukmann-cc-by-sa-4.0-2020.jpg": "/static/media/05_bad-orb-st-michael3-bild-Jörg-Braukmann-cc-by-sa-4.0-2020.d59c90d9c2ed2afb85db.jpg",
-    "static/media/03_Ihl-Architektur_BOU_Erdgeschoss.jpg": "/static/media/03_Ihl-Architektur_BOU_Erdgeschoss.c887a79e1873ac7968e3.jpg",
     "static/media/02_hparc_IKA_Innenraumperspektive.jpg": "/static/media/02_hparc_IKA_Innenraumperspektive.98ae4a2d8eab30dd3d22.jpg",
+    "static/media/06_Isabelle Ihl Architektur_Masterthesis_Schnitt.jpg": "/static/media/06_Isabelle Ihl Architektur_Masterthesis_Schnitt.6d2693c4f435f2405265.jpg",
     "static/media/01_Architekturkollektiv_Lattemit.jpg": "/static/media/01_Architekturkollektiv_Lattemit.fd4cbe41b555152b9e21.jpg",
     "static/media/01_Ihl-Architektur_02_Feel.jpg": "/static/media/01_Ihl-Architektur_02_Feel.6f4e9f8dc9864252b24c.jpg",
     "static/media/05_Isabelle-Ihl-Architektur_Wohnungsbau_Schnitt.jpg": "/static/media/05_Isabelle-Ihl-Architektur_Wohnungsbau_Schnitt.d70029dade24b5a81010.jpg",
@@ -65,7 +66,6 @@
     "static/media/04_Ihl-Architektur_BOU_Emporenebene.jpg": "/static/media/04_Ihl-Architektur_BOU_Emporenebene.55710fe16580b3736ab5.jpg",
     "static/media/01_hparc_FKS_Gemälde Bestand.jpg": "/static/media/01_hparc_FKS_Gemälde Bestand.e0c0c10c7b46e13ea09a.jpg",
     "static/media/03_W+W_Tapetenmuseum Kassel_Wettbewerb_Grundriss Ausstellungsebene.jpg": "/static/media/03_W+W_Tapetenmuseum Kassel_Wettbewerb_Grundriss Ausstellungsebene.a4fa150c3a722cc9c7ff.jpg",
-    "static/media/06_Isabelle Ihl Architektur_Masterthesis_Schnitt.jpg": "/static/media/06_Isabelle Ihl Architektur_Masterthesis_Schnitt.03832085b5831e929b2d.jpg",
     "static/media/03_Prof. Felix Waechter_Machbarkeitsstudie Mannheim_Modellfoto.jpg": "/static/media/03_Prof. Felix Waechter_Machbarkeitsstudie Mannheim_Modellfoto.2e037105af3422e219ae.jpg",
     "static/media/05_Dreier Frenzel_Immeuble Verdeaux Renens_Innenraum.jpg": "/static/media/05_Dreier Frenzel_Immeuble Verdeaux Renens_Innenraum.a35c836ef6faacd35300.jpg",
     "static/media/02_Isabelle Ihl Architektur_Fachmodul_Grundriss.jpg": "/static/media/02_Isabelle Ihl Architektur_Fachmodul_Grundriss.442cd0b25eb6639c49d1.jpg",
@@ -81,10 +81,10 @@
     "static/media/02_Ihl-Architektur_BOU_Erdgeschoss.jpg": "/static/media/02_Ihl-Architektur_BOU_Erdgeschoss.9fa55ba20351c33a185b.jpg",
     "index.html": "/index.html",
     "main.7a279d24.css.map": "/static/css/main.7a279d24.css.map",
-    "main.ee47b2cb.js.map": "/static/js/main.ee47b2cb.js.map"
+    "main.c0c9967b.js.map": "/static/js/main.c0c9967b.js.map"
   },
   "entrypoints": [
     "static/css/main.7a279d24.css",
-    "static/js/main.ee47b2cb.js"
+    "static/js/main.c0c9967b.js"
   ]
 }
