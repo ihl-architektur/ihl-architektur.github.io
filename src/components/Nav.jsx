@@ -78,7 +78,7 @@ const Nav = () => {
                   to="/vita"
                   className="block py-3 font-medium uppercase transition-colors text-primary hover:text-secondary"
                 >
-                  Vita
+                  Profil
                 </Link>
               </li>
             </Container>
