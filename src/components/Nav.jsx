@@ -66,19 +66,19 @@ const Nav = () => {
               <li>
                 <Link
                   onClick={switchMenu}
-                  to="/kontakt"
+                  to="/vita"
                   className="block py-3 font-medium uppercase transition-colors text-primary hover:text-secondary"
                 >
-                  Kontakt
+                  Profil
                 </Link>
               </li>
               <li>
                 <Link
                   onClick={switchMenu}
-                  to="/vita"
+                  to="/kontakt"
                   className="block py-3 font-medium uppercase transition-colors text-primary hover:text-secondary"
                 >
-                  Profil
+                  Kontakt
                 </Link>
               </li>
             </Container>
