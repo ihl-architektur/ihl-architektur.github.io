@@ -9,6 +9,10 @@ const images = importAll(
 );
 
 const boulderChurch = {
+  metaDescription:
+    'Isabelle Ihl Architektur - Konzepte und Räume, die Menschen zusammenbringen, ihren Austausch fördern und zu einer positiven sowie nachhaltigen Veränderung beitragen.',
+  metaKeywords:
+    'Isabelle Ihl, Isabelle Ihl Architektur, Isabelle Ihl Architektin, Ihl Architektur, Boulderchurch, Boulderhalle Bad Orb, Michaelskirche Bad Orb, Boulderhalle in Kirche, Umnutzung Kirche',
   images: [
     {
       imageUrl: images['01_Ihl-Architektur_BOU_Innenperspektive.jpg'],

@@ -20,9 +20,23 @@ import PictureBuilding from 'pages/projects/picture-building/PictureBuilding';
 import Renes from 'pages/projects/renes/Renes';
 import SocialProject from 'pages/projects/social-project/SocialProject';
 import ScrollToTop from 'utils/ScrollToTop';
+import { Helmet } from 'react-helmet';
+
 const App = () => {
   return (
     <BrowserRouter>
+      {/* SEO Data */}
+      <Helmet>
+        <title>ISABELLE IHL ARCHITEKTUR</title>
+        <meta
+          name="description"
+          content="Isabelle Ihl Architektur - Konzepte und Räume, die Menschen zusammenbringen, ihren Austausch fördern und zu einer positiven sowie nachhaltigen Veränderung beitragen."
+        />
+        <meta
+          name="keywords"
+          content="Isabelle Ihl, Isabelle Ihl Architektur, Isabelle Ihl Architektin, Ihl Architektur, Boulderchurch, Boulderhalle Bad Orb, Michaelskirche Bad Orb, Boulderhalle in Kirche, Umnutzung Kirche"
+        />
+      </Helmet>
       <ScrollToTop />
       <Routes>
         <Route path="/" element={<Layout />}>

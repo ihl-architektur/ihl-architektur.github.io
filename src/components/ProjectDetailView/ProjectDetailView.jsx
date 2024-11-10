@@ -7,12 +7,17 @@ import './swiper.css';
 import { Navigation, Pagination } from 'swiper/modules';
 import Container from 'utils/Container';
 import { Link } from 'react-router-dom';
+import { Helmet } from 'react-helmet';
 
 const ProjectDetailView = ({ data }) => {
   const swiperRef = useRef(null); // Reference to the Swiper instance
 
   return (
     <Container>
+      <Helmet>
+        <meta name="description" content={data.metaDescription} />
+        <meta name="keywords" content={data.metaKeywords} />
+      </Helmet>
       {/* Close button */}
       <div className="flex flex-col w-full h-full bg-white">
         <div className="flex flex-row justify-between py-4">
