@@ -10,9 +10,9 @@ const images = importAll(
 
 const boulderChurch = {
   metaDescription:
-    'Isabelle Ihl Architektur - Konzepte und Räume, die Menschen zusammenbringen, ihren Austausch fördern und zu einer positiven sowie nachhaltigen Veränderung beitragen.',
+    'Die St. Michaelskirche Bad Orb wird zur Boulderhalle umgenutzt - ein einzigartiges Zusammenspiel aus sakraler Architektur und modernem Klettersport.',
   metaKeywords:
-    'Isabelle Ihl, Isabelle Ihl Architektur, Isabelle Ihl Architektin, Ihl Architektur, Boulderchurch, Boulderhalle Bad Orb, Michaelskirche Bad Orb, Boulderhalle in Kirche, Umnutzung Kirche',
+    'Boulderchurch, Boulder-Church, Boulderhalle, Kletterhalle, Bouldern, Michaelskirche, Umnutzung Kirche, Kirchenumbau, Bad Orb, Hessen',
   images: [
     {
       imageUrl: images['01_Ihl-Architektur_BOU_Innenperspektive.jpg'],
