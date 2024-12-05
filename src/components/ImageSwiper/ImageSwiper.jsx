@@ -29,7 +29,11 @@ const ImageSwiper = ({ imageArray }) => {
               onMouseLeave={() => setHovered(null)}
               onClick={() => handleProjectClick(image.link)}
             >
-              <img src={image.src} alt={`Slide ${index + 1}`} />
+              <img
+                src={image.src}
+                alt={`Slide ${index + 1}`}
+                className="max-h-[300px] md:max-h-[400px]"
+              />
               {hovered === index && (
                 <div
                   className={`px-4 absolute flex-col inset-0 bg-secondary bg-opacity-80 flex items-center justify-center text-black text-center text-lg font-semibold transition-opacity duration-300 ${
