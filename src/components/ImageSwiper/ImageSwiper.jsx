@@ -28,11 +28,14 @@ const ImageSwiper = ({ imageArray }) => {
               onMouseEnter={() => setHovered(index)}
               onMouseLeave={() => setHovered(null)}
               onClick={() => handleProjectClick(image.link)}
+              onTouchStart={() => setHovered(index)}
+              onTouchEnd={() => setHovered(null)}
             >
               <img
                 src={image.src}
                 alt={`Slide ${index + 1}`}
                 className="max-h-[300px] md:max-h-[400px]"
+                loading="lazy"
               />
               {hovered === index && (
                 <div
