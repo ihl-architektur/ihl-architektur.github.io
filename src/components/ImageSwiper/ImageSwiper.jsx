@@ -31,7 +31,7 @@ const ImageSwiper = ({ imageArray }) => {
               />
 
               <div
-                className={`px-4 absolute flex-col inset-0 bg-secondary bg-opacity-80 opacity-0 flex items-center justify-center text-black text-center text-lg font-semibold transition-opacity duration-300 hover:opacity-100 hover:delay-300`}
+                className={`px-4 absolute flex-col inset-0 bg-secondary bg-opacity-80 opacity-0 flex items-center justify-center text-black text-center text-lg font-semibold transition-opacity duration-300 lg:hover:opacity-100`}
               >
                 {image?.title?.toUpperCase()}
                 <p className="mx-4 text-sm font-normal select-none">
