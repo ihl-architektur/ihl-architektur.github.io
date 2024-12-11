@@ -30,37 +30,37 @@ const Projects = () => {
     {
       src: projectsA1,
       title: 'Boulderhalle',
-      subtitle: 'Eigenes Projekt',
+      subtitle: 'Michaelskirche Bad Orb',
       link: '/projects/boulderchurch',
     },
     {
       src: projectsA2,
       title: 'Boulderhalle',
-      subtitle: 'Eigenes Projekt',
+      subtitle: 'Michaelskirche Bad Orb',
       link: '/projects/boulderchurch',
     },
     {
       src: projectsA3,
       title: 'Boulderhalle',
-      subtitle: 'Eigenes Projekt',
+      subtitle: 'Michaelskirche Bad Orb',
       link: '/projects/boulderchurch',
     },
     {
       src: projectsA4,
       title: 'Boulderhalle',
-      subtitle: 'Eigenes Projekt',
+      subtitle: 'Michaelskirche Bad Orb',
       link: '/projects/boulderchurch',
     },
     {
       src: projectsA5,
       title: 'Boulderhalle',
-      subtitle: 'Eigenes Projekt',
+      subtitle: 'Michaelskirche Bad Orb',
       link: '/projects/boulderchurch',
     },
     {
       src: projectsA6,
       title: 'Boulderhalle',
-      subtitle: 'Eigenes Projekt',
+      subtitle: 'Michaelskirche Bad Orb',
       link: '/projects/boulderchurch',
     },
   ];
