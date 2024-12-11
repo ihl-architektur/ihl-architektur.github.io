@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.692b81b5.css",
-    "main.js": "/static/js/main.36ff1ea6.js",
+    "main.js": "/static/js/main.064e301a.js",
     "static/media/06_Thusanang.jpg": "/static/media/06_Thusanang.8af80c5ec1087e738ef8.jpg",
     "static/media/02_Thusanang.jpg": "/static/media/02_Thusanang.9c9f27de2436e6a80634.jpg",
     "static/media/02_Ihl-Architektur_03_Dockville.jpg": "/static/media/02_Ihl-Architektur_03_Dockville.850b34f3bd29fb041f2c.jpg",
@@ -60,12 +60,12 @@
     "static/media/01_Architekturkollektiv_Lattemit.jpg": "/static/media/01_Architekturkollektiv_Lattemit.fd4cbe41b555152b9e21.jpg",
     "static/media/01_Ihl-Architektur_02_Feel.jpg": "/static/media/01_Ihl-Architektur_02_Feel.6f4e9f8dc9864252b24c.jpg",
     "static/media/05_Isabelle-Ihl-Architektur_Wohnungsbau_Schnitt.jpg": "/static/media/05_Isabelle-Ihl-Architektur_Wohnungsbau_Schnitt.d70029dade24b5a81010.jpg",
-    "static/media/01_Masterthesis_Flamenco-Schule_Perspektive-Modell-Hof.jpg": "/static/media/01_Masterthesis_Flamenco-Schule_Perspektive-Modell-Hof.e26a5fece70b5ad61694.jpg",
     "static/media/01_Ihl-Architektur_03_Feel.jpg": "/static/media/01_Ihl-Architektur_03_Feel.52025b747f7ca6dc50a3.jpg",
     "static/media/02_Wohnungsbau_Forms-of-Living.jpg": "/static/media/02_Wohnungsbau_Forms-of-Living.e3cba77ce6bcd6112a49.jpg",
     "static/media/04_Ihl-Architektur_BOU_Emporenebene.jpg": "/static/media/04_Ihl-Architektur_BOU_Emporenebene.55710fe16580b3736ab5.jpg",
-    "static/media/01_hparc_FKS_Gemälde Bestand.jpg": "/static/media/01_hparc_FKS_Gemälde Bestand.e0c0c10c7b46e13ea09a.jpg",
+    "static/media/01_Masterthesis_Flamenco-Schule_Perspektive-Modell-Hof.jpg": "/static/media/01_Masterthesis_Flamenco-Schule_Perspektive-Modell-Hof.ac7bc58a5f51f92abefb.jpg",
     "static/media/03_W+W_Tapetenmuseum Kassel_Wettbewerb_Grundriss Ausstellungsebene.jpg": "/static/media/03_W+W_Tapetenmuseum Kassel_Wettbewerb_Grundriss Ausstellungsebene.a4fa150c3a722cc9c7ff.jpg",
+    "static/media/01_hparc_FKS_Gemälde Bestand.jpg": "/static/media/01_hparc_FKS_Gemälde Bestand.ad0317c39e9ab3ecd3a1.jpg",
     "static/media/03_Prof. Felix Waechter_Machbarkeitsstudie Mannheim_Modellfoto.jpg": "/static/media/03_Prof. Felix Waechter_Machbarkeitsstudie Mannheim_Modellfoto.2e037105af3422e219ae.jpg",
     "static/media/05_Dreier Frenzel_Immeuble Verdeaux Renens_Innenraum.jpg": "/static/media/05_Dreier Frenzel_Immeuble Verdeaux Renens_Innenraum.a35c836ef6faacd35300.jpg",
     "static/media/02_Isabelle Ihl Architektur_Fachmodul_Grundriss.jpg": "/static/media/02_Isabelle Ihl Architektur_Fachmodul_Grundriss.442cd0b25eb6639c49d1.jpg",
@@ -81,10 +81,10 @@
     "static/media/02_Ihl-Architektur_BOU_Erdgeschoss.jpg": "/static/media/02_Ihl-Architektur_BOU_Erdgeschoss.9fa55ba20351c33a185b.jpg",
     "index.html": "/index.html",
     "main.692b81b5.css.map": "/static/css/main.692b81b5.css.map",
-    "main.36ff1ea6.js.map": "/static/js/main.36ff1ea6.js.map"
+    "main.064e301a.js.map": "/static/js/main.064e301a.js.map"
   },
   "entrypoints": [
     "static/css/main.692b81b5.css",
-    "static/js/main.36ff1ea6.js"
+    "static/js/main.064e301a.js"
   ]
 }
