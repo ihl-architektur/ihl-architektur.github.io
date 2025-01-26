@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.692b81b5.css",
-    "main.js": "/static/js/main.064e301a.js",
+    "main.js": "/static/js/main.ea2f7f30.js",
     "static/media/06_Thusanang.jpg": "/static/media/06_Thusanang.8af80c5ec1087e738ef8.jpg",
     "static/media/02_Thusanang.jpg": "/static/media/02_Thusanang.9c9f27de2436e6a80634.jpg",
     "static/media/02_Ihl-Architektur_03_Dockville.jpg": "/static/media/02_Ihl-Architektur_03_Dockville.850b34f3bd29fb041f2c.jpg",
     "static/media/04_Thusanang.jpg": "/static/media/04_Thusanang.3828a8ecaf74e74afc34.jpg",
+    "static/media/08_Ihl-Architektur_BOU_Baustelle.jpg": "/static/media/08_Ihl-Architektur_BOU_Baustelle.2ddab6dfc035a684e589.jpg",
     "static/media/01_Thusanang.jpg": "/static/media/01_Thusanang.5ee1f0b7f5ae538d34fe.jpg",
     "static/media/03_Thusanang.jpg": "/static/media/03_Thusanang.909eb7646172758fd7e4.jpg",
     "static/media/01_hparc_IKA_Innenperspektive.jpg": "/static/media/01_hparc_IKA_Innenperspektive.2e9c59376c0b1ac01a20.jpg",
@@ -22,9 +23,12 @@
     "static/media/05_hparc_FKS_Musterfassade.jpg": "/static/media/05_hparc_FKS_Musterfassade.d416ee02aa5bca997ff7.jpg",
     "static/media/02_Ihl-Architektur_BOU_Innenperspektive_belebt.jpg": "/static/media/02_Ihl-Architektur_BOU_Innenperspektive_belebt.3e6fd82be3a7a652f39b.jpg",
     "static/media/01_Ihl-Architektur_BOU_Innenperspektive.jpg": "/static/media/01_Ihl-Architektur_BOU_Innenperspektive.449f3da0dbb392ae2c26.jpg",
+    "static/media/06_Ihl-Architektur_BOU_Baustelle.jpg": "/static/media/06_Ihl-Architektur_BOU_Baustelle.81dc5c250c9e491209b5.jpg",
     "static/media/03_hparc_IKA_Grundriss Erdgeschoss.jpg": "/static/media/03_hparc_IKA_Grundriss Erdgeschoss.2a25a4c96b15e702bd8b.jpg",
+    "static/media/05_Ihl-Architektur_BOU_Baustelle.jpg": "/static/media/05_Ihl-Architektur_BOU_Baustelle.460266c2ab14e1684514.jpg",
     "static/media/03_Isabelle Ihl Architektur_Bildbauten.jpg": "/static/media/03_Isabelle Ihl Architektur_Bildbauten.f5478a07b4ca23c2281d.jpg",
     "static/media/05_Isabelle Ihl Architektur_Masterthesis_Grundriss Obergeschoss.jpg": "/static/media/05_Isabelle Ihl Architektur_Masterthesis_Grundriss Obergeschoss.0afc17fa6bd22ab3e3b5.jpg",
+    "static/media/07_Ihl-Architektur_BOU_Baustelle.jpg": "/static/media/07_Ihl-Architektur_BOU_Baustelle.218d9a8fd22bac894523.jpg",
     "static/media/01_Prof.-Felix-Waechter_Machbarkeitsstudie-Mannheim_Modellfoto.jpg": "/static/media/01_Prof.-Felix-Waechter_Machbarkeitsstudie-Mannheim_Modellfoto.9dfae57c49f60b880ef0.jpg",
     "static/media/03_hparc_FKS_Nutzungsverteilung Isometrie.jpg": "/static/media/03_hparc_FKS_Nutzungsverteilung Isometrie.f0e7eb137e06989a16d0.jpg",
     "static/media/02_Prof.-Felix-Waechter_Machbarkeitsstudie-Mannheim_Grundriss-EG.jpg": "/static/media/02_Prof.-Felix-Waechter_Machbarkeitsstudie-Mannheim_Grundriss-EG.7ab8f1d931fc70d9c5e6.jpg",
@@ -81,10 +85,10 @@
     "static/media/02_Ihl-Architektur_BOU_Erdgeschoss.jpg": "/static/media/02_Ihl-Architektur_BOU_Erdgeschoss.9fa55ba20351c33a185b.jpg",
     "index.html": "/index.html",
     "main.692b81b5.css.map": "/static/css/main.692b81b5.css.map",
-    "main.064e301a.js.map": "/static/js/main.064e301a.js.map"
+    "main.ea2f7f30.js.map": "/static/js/main.ea2f7f30.js.map"
   },
   "entrypoints": [
     "static/css/main.692b81b5.css",
-    "static/js/main.064e301a.js"
+    "static/js/main.ea2f7f30.js"
   ]
 }
