@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.692b81b5.css",
-    "main.js": "/static/js/main.1b77dfe7.js",
+    "main.js": "/static/js/main.e7a9c3cd.js",
     "static/media/06_Thusanang.jpg": "/static/media/06_Thusanang.8af80c5ec1087e738ef8.jpg",
     "static/media/02_Thusanang.jpg": "/static/media/02_Thusanang.9c9f27de2436e6a80634.jpg",
     "static/media/02_Ihl-Architektur_03_Dockville.jpg": "/static/media/02_Ihl-Architektur_03_Dockville.850b34f3bd29fb041f2c.jpg",
@@ -24,7 +24,7 @@
     "static/media/02_Ihl-Architektur_BOU_Innenperspektive_belebt.jpg": "/static/media/02_Ihl-Architektur_BOU_Innenperspektive_belebt.3e6fd82be3a7a652f39b.jpg",
     "static/media/01_Ihl-Architektur_BOU_Innenperspektive.jpg": "/static/media/01_Ihl-Architektur_BOU_Innenperspektive.449f3da0dbb392ae2c26.jpg",
     "static/media/05_Ihl-Architektur_BOU_Baustelle.jpg": "/static/media/05_Ihl-Architektur_BOU_Baustelle.3e92603ae17127669fe4.jpg",
-    "static/media/06_Ihl-Architektur_BOU_Baustelle.jpg": "/static/media/06_Ihl-Architektur_BOU_Baustelle.4066c3e4be937f7ed21b.jpg",
+    "static/media/06_Ihl-Architektur_BOU_Baustelle.jpg": "/static/media/06_Ihl-Architektur_BOU_Baustelle.7418bd6ecb3e413e13b4.jpg",
     "static/media/07_Ihl-Architektur_BOU_Baustelle.jpg": "/static/media/07_Ihl-Architektur_BOU_Baustelle.a0d8d6bf417235087b59.jpg",
     "static/media/03_hparc_IKA_Grundriss Erdgeschoss.jpg": "/static/media/03_hparc_IKA_Grundriss Erdgeschoss.2a25a4c96b15e702bd8b.jpg",
     "static/media/03_Isabelle Ihl Architektur_Bildbauten.jpg": "/static/media/03_Isabelle Ihl Architektur_Bildbauten.f5478a07b4ca23c2281d.jpg",
@@ -85,10 +85,10 @@
     "static/media/02_Ihl-Architektur_BOU_Erdgeschoss.jpg": "/static/media/02_Ihl-Architektur_BOU_Erdgeschoss.9fa55ba20351c33a185b.jpg",
     "index.html": "/index.html",
     "main.692b81b5.css.map": "/static/css/main.692b81b5.css.map",
-    "main.1b77dfe7.js.map": "/static/js/main.1b77dfe7.js.map"
+    "main.e7a9c3cd.js.map": "/static/js/main.e7a9c3cd.js.map"
   },
   "entrypoints": [
     "static/css/main.692b81b5.css",
-    "static/js/main.1b77dfe7.js"
+    "static/js/main.e7a9c3cd.js"
   ]
 }
