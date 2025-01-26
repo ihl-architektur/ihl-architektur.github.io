@@ -34,6 +34,10 @@ const boulderChurch = {
       imageUrl: images['04_Ihl-Architektur_BOU_Emporenebene.jpg'],
       subtitle: 'Grundriss Emporenebene',
     },
+    {
+      imageUrl: images['05_Ihl-Architektur_BOU_Baustelle.jpg'],
+      subtitle: 'Einblick in die Baustelle',
+    },
   ],
   title: "Boulderhalle 'Boulderchurch'",
   topline: 'Michaelskirche Bad Orb',
