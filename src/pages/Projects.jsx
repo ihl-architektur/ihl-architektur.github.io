@@ -7,6 +7,7 @@ import projectsA3 from '../assets/projects-a/03_Ihl-Architektur_BOU_Foto Chorber
 import projectsA4 from '../assets/projects-a/02_Ihl-Architektur_BOU_Erdgeschoss.jpg';
 import projectsA5 from '../assets/projects-a/05_bad-orb-st-michael3-bild-Jörg-Braukmann-cc-by-sa-4.0-2020.jpg';
 import projectsA6 from '../assets/projects-a/04_Ihl-Architektur_BOU_Emporenebene.jpg';
+import projectsA6 from '../assets/projects-a/06_Ihl-Architektur_BOU_Baustelle.jpg';
 
 import projectsB1 from '../assets/projects-b/01_hparc_FKS_Gemälde Bestand.jpg';
 import projectsB2 from '../assets/projects-b/02_hparc_IKA_Innenraumperspektive.jpg';
