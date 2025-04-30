@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.692b81b5.css",
-    "main.js": "/static/js/main.7078f2c6.js",
+    "main.js": "/static/js/main.d502f404.js",
     "static/media/06_Thusanang.jpg": "/static/media/06_Thusanang.8af80c5ec1087e738ef8.jpg",
     "static/media/02_Thusanang.jpg": "/static/media/02_Thusanang.9c9f27de2436e6a80634.jpg",
     "static/media/02_Ihl-Architektur_03_Dockville.jpg": "/static/media/02_Ihl-Architektur_03_Dockville.850b34f3bd29fb041f2c.jpg",
@@ -55,7 +55,7 @@
     "static/media/03_Ihl-Architektur_BOU_Isometrie.jpg": "/static/media/03_Ihl-Architektur_BOU_Isometrie.5c4c8f408c493ddfffd5.jpg",
     "static/media/03_Dreier Frenzel_Immeuble Verdeaux Renes_Obergeschoss.jpg": "/static/media/03_Dreier Frenzel_Immeuble Verdeaux Renes_Obergeschoss.a9da52abbffa24180004.jpg",
     "static/media/03_Isabelle Ihl Architektur_Fachmodul_Schnitt.jpg": "/static/media/03_Isabelle Ihl Architektur_Fachmodul_Schnitt.d94d59857bf6e6522ddb.jpg",
-    "static/media/03_Ihl-Architektur_BOU_Foto Chorbereich.jpg": "/static/media/03_Ihl-Architektur_BOU_Foto Chorbereich.cf913dafb5e1b6f3005c.jpg",
+    "static/media/03_Ihl-Architektur_BOU_Foto Chorbereich.jpg": "/static/media/03_Ihl-Architektur_BOU_Foto Chorbereich.3eb7489432af7d8796ba.jpg",
     "static/media/01_Isabelle Ihl Architektur_Fachmodul_Modellfoto.jpg": "/static/media/01_Isabelle Ihl Architektur_Fachmodul_Modellfoto.b6b6068123726395d990.jpg",
     "static/media/03_Ihl-Architektur_BOU_Erdgeschoss.jpg": "/static/media/03_Ihl-Architektur_BOU_Erdgeschoss.7e2fdb16e4229d06138b.jpg",
     "static/media/05_bad-orb-st-michael3-bild-Jörg-Braukmann-cc-by-sa-4.0-2020.jpg": "/static/media/05_bad-orb-st-michael3-bild-Jörg-Braukmann-cc-by-sa-4.0-2020.d59c90d9c2ed2afb85db.jpg",
@@ -85,10 +85,10 @@
     "static/media/02_Ihl-Architektur_BOU_Erdgeschoss.jpg": "/static/media/02_Ihl-Architektur_BOU_Erdgeschoss.9fa55ba20351c33a185b.jpg",
     "index.html": "/index.html",
     "main.692b81b5.css.map": "/static/css/main.692b81b5.css.map",
-    "main.7078f2c6.js.map": "/static/js/main.7078f2c6.js.map"
+    "main.d502f404.js.map": "/static/js/main.d502f404.js.map"
   },
   "entrypoints": [
     "static/css/main.692b81b5.css",
-    "static/js/main.7078f2c6.js"
+    "static/js/main.d502f404.js"
   ]
 }
