@@ -19,6 +19,26 @@ const boulderChurch = {
       subtitle: 'Innenperspektive: Boulderbereich',
     },
     {
+      imageUrl: images['0B_Ihl-Architektur_BOU_Innenperspektive.jpg'],
+      subtitle: 'Innenperspektive: Boulderbereich',
+    },
+    {
+      imageUrl: images['0C_Ihl-Architektur_BOU_Innenperspektive.jpg'],
+      subtitle: 'Innenperspektive: Boulderbereich',
+    },
+    {
+      imageUrl: images['0D_Ihl-Architektur_BOU_Innenperspektive.jpg'],
+      subtitle: 'Innenperspektive: Boulderbereich',
+    },
+    {
+      imageUrl: images['0E_Ihl-Architektur_BOU_Innenperspektive.jpg'],
+      subtitle: 'Innenperspektive: Boulderbereich',
+    },
+    {
+      imageUrl: images['0F_Ihl-Architektur_BOU_Innenperspektive.jpg'],
+      subtitle: 'Innenperspektive: Boulderbereich',
+    },
+    {
       imageUrl: images['01_Ihl-Architektur_BOU_Innenperspektive.jpg'],
       subtitle: 'Rendering Innenraum',
     },
