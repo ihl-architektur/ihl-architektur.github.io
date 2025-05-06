@@ -16,27 +16,27 @@ const boulderChurch = {
   images: [
     {
       imageUrl: images['0A_Ihl-Architektur_BOU_Innenperspektive.jpg'],
-      subtitle: 'Innenperspektive: Boulderbereich',
-    },
-    {
-      imageUrl: images['0B_Ihl-Architektur_BOU_Innenperspektive.jpg'],
-      subtitle: 'Innenperspektive: Boulderbereich',
+      subtitle: 'Boulderbereich im Hauptschiff',
     },
     {
       imageUrl: images['0C_Ihl-Architektur_BOU_Innenperspektive.jpg'],
-      subtitle: 'Innenperspektive: Boulderbereich',
-    },
-    {
-      imageUrl: images['0D_Ihl-Architektur_BOU_Innenperspektive.jpg'],
-      subtitle: 'Innenperspektive: Boulderbereich',
+      subtitle: 'Ergänzte Boulderebene: Treppenaufgang',
     },
     {
       imageUrl: images['0E_Ihl-Architektur_BOU_Innenperspektive.jpg'],
-      subtitle: 'Innenperspektive: Boulderbereich',
+      subtitle: 'Einblick Kinderbereich',
     },
     {
       imageUrl: images['0F_Ihl-Architektur_BOU_Innenperspektive.jpg'],
-      subtitle: 'Innenperspektive: Boulderbereich',
+      subtitle: 'Bistro',
+    },
+    {
+      imageUrl: images['05_Ihl-Architektur_BOU_Baustelle.jpg'],
+      subtitle: 'Einblick in die Baustelle',
+    },
+    {
+      imageUrl: images['08_Ihl-Architektur_BOU_Baustelle.jpg'],
+      subtitle: 'Einblick in die Baustelle',
     },
     {
       imageUrl: images['01_Ihl-Architektur_BOU_Innenperspektive.jpg'],
@@ -53,22 +53,6 @@ const boulderChurch = {
     {
       imageUrl: images['04_Ihl-Architektur_BOU_Emporenebene.jpg'],
       subtitle: 'Grundriss Emporenebene',
-    },
-    {
-      imageUrl: images['05_Ihl-Architektur_BOU_Baustelle.jpg'],
-      subtitle: 'Einblick in die Baustelle',
-    },
-    {
-      imageUrl: images['06_Ihl-Architektur_BOU_Baustelle.jpg'],
-      subtitle: 'Einblick in die Baustelle',
-    },
-    {
-      imageUrl: images['07_Ihl-Architektur_BOU_Baustelle.jpg'],
-      subtitle: 'Einblick in die Baustelle',
-    },
-    {
-      imageUrl: images['08_Ihl-Architektur_BOU_Baustelle.jpg'],
-      subtitle: 'Einblick in die Baustelle',
     },
   ],
   title: "Boulderhalle 'Boulderchurch'",
