@@ -15,6 +15,10 @@ const boulderChurch = {
     'Boulderchurch, Boulder-Church, Boulderhalle, Kletterhalle, Bouldern, Michaelskirche, Umnutzung Kirche, Kirchenumbau, Bad Orb, Hessen',
   images: [
     {
+      imageUrl: images['0A_Ihl-Architektur_BOU_Innenperspektive.jpg'],
+      subtitle: 'Innenperspektive',
+    },
+    {
       imageUrl: images['01_Ihl-Architektur_BOU_Innenperspektive.jpg'],
       subtitle: 'Innenperspektive',
     },
