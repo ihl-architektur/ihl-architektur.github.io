@@ -16,11 +16,11 @@ const boulderChurch = {
   images: [
     {
       imageUrl: images['0A_Ihl-Architektur_BOU_Innenperspektive.jpg'],
-      subtitle: 'Innenperspektive',
+      subtitle: 'Innenperspektive: Boulderbereich',
     },
     {
       imageUrl: images['01_Ihl-Architektur_BOU_Innenperspektive.jpg'],
-      subtitle: 'Innenperspektive',
+      subtitle: 'Rendering Innenraum',
     },
     {
       imageUrl: images['03_Ihl-Architektur_BOU_Isometrie.jpg'],
