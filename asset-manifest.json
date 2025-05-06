@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.692b81b5.css",
-    "main.js": "/static/js/main.1edf6aba.js",
+    "main.js": "/static/js/main.194a412b.js",
     "static/media/06_Thusanang.jpg": "/static/media/06_Thusanang.8af80c5ec1087e738ef8.jpg",
     "static/media/02_Thusanang.jpg": "/static/media/02_Thusanang.9c9f27de2436e6a80634.jpg",
     "static/media/02_Ihl-Architektur_03_Dockville.jpg": "/static/media/02_Ihl-Architektur_03_Dockville.850b34f3bd29fb041f2c.jpg",
@@ -58,12 +58,12 @@
     "static/media/03_Ihl-Architektur_BOU_Foto Chorbereich.jpg": "/static/media/03_Ihl-Architektur_BOU_Foto Chorbereich.9370d1b5107cdbe4eeb2.jpg",
     "static/media/01_Isabelle Ihl Architektur_Fachmodul_Modellfoto.jpg": "/static/media/01_Isabelle Ihl Architektur_Fachmodul_Modellfoto.b6b6068123726395d990.jpg",
     "static/media/03_Ihl-Architektur_BOU_Erdgeschoss.jpg": "/static/media/03_Ihl-Architektur_BOU_Erdgeschoss.7e2fdb16e4229d06138b.jpg",
-    "static/media/05_bad-orb-st-michael3-bild-Jörg-Braukmann-cc-by-sa-4.0-2020.jpg": "/static/media/05_bad-orb-st-michael3-bild-Jörg-Braukmann-cc-by-sa-4.0-2020.d59c90d9c2ed2afb85db.jpg",
     "static/media/02_hparc_IKA_Innenraumperspektive.jpg": "/static/media/02_hparc_IKA_Innenraumperspektive.98ae4a2d8eab30dd3d22.jpg",
     "static/media/06_Isabelle Ihl Architektur_Masterthesis_Schnitt.jpg": "/static/media/06_Isabelle Ihl Architektur_Masterthesis_Schnitt.6d2693c4f435f2405265.jpg",
     "static/media/01_Architekturkollektiv_Lattemit.jpg": "/static/media/01_Architekturkollektiv_Lattemit.fd4cbe41b555152b9e21.jpg",
     "static/media/01_Ihl-Architektur_02_Feel.jpg": "/static/media/01_Ihl-Architektur_02_Feel.6f4e9f8dc9864252b24c.jpg",
     "static/media/05_Isabelle-Ihl-Architektur_Wohnungsbau_Schnitt.jpg": "/static/media/05_Isabelle-Ihl-Architektur_Wohnungsbau_Schnitt.d70029dade24b5a81010.jpg",
+    "static/media/05_bad-orb-st-michael3-bild-Jörg-Braukmann-cc-by-sa-4.0-2020.jpg": "/static/media/05_bad-orb-st-michael3-bild-Jörg-Braukmann-cc-by-sa-4.0-2020.98ef6c83a6354ab7df3c.jpg",
     "static/media/01_Ihl-Architektur_03_Feel.jpg": "/static/media/01_Ihl-Architektur_03_Feel.52025b747f7ca6dc50a3.jpg",
     "static/media/02_Wohnungsbau_Forms-of-Living.jpg": "/static/media/02_Wohnungsbau_Forms-of-Living.e3cba77ce6bcd6112a49.jpg",
     "static/media/04_Ihl-Architektur_BOU_Emporenebene.jpg": "/static/media/04_Ihl-Architektur_BOU_Emporenebene.55710fe16580b3736ab5.jpg",
@@ -85,10 +85,10 @@
     "static/media/02_Ihl-Architektur_BOU_Erdgeschoss.jpg": "/static/media/02_Ihl-Architektur_BOU_Erdgeschoss.9fa55ba20351c33a185b.jpg",
     "index.html": "/index.html",
     "main.692b81b5.css.map": "/static/css/main.692b81b5.css.map",
-    "main.1edf6aba.js.map": "/static/js/main.1edf6aba.js.map"
+    "main.194a412b.js.map": "/static/js/main.194a412b.js.map"
   },
   "entrypoints": [
     "static/css/main.692b81b5.css",
-    "static/js/main.1edf6aba.js"
+    "static/js/main.194a412b.js"
   ]
 }
