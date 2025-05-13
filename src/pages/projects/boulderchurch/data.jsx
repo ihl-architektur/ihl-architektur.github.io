@@ -27,6 +27,10 @@ const boulderChurch = {
       subtitle: 'Einblick Kinderbereich',
     },
     {
+      imageUrl: images['0D_Ihl-Architektur_BOU_Innenperspektive.jpg'],
+      subtitle: 'Boulderwand',
+    },
+    {
       imageUrl: images['0F_Ihl-Architektur_BOU_Innenperspektive.jpg'],
       subtitle: 'Bistro',
     },
