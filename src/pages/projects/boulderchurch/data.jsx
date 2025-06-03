@@ -66,7 +66,7 @@ const boulderChurch = {
   location: 'Michaelskirche Bad Orb, Deutschland',
   type: 'Nutzungserweiterung',
   size: '1.656 m² BGF',
-  state: 'in Realisierung',
+  state: 'Realisiert',
   timerange: '2023 - 2025',
   performance: 'LPH 1-5',
   client: 'Boulderchurch GmbH',
