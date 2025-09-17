@@ -6,7 +6,7 @@ import 'swiper/css';
 import './swiper.css';
 import { Navigation, Pagination } from 'swiper/modules';
 import Container from 'utils/Container';
-import { Link } from 'react-router-dom';
+import { Link } from 'react-router';
 import { Helmet } from 'react-helmet';
 
 const ProjectDetailView = ({ data }) => {

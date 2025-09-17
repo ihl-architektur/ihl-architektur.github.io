@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'react-router-dom'; // Importing Link from react-router-dom
+import { Link } from 'react-router'; // Importing Link from react-router
 import Container from '../utils/Container';
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';

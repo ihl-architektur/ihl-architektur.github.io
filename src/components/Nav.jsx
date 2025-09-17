@@ -4,7 +4,7 @@ import Logo from '../atoms/Logo';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBars } from '@fortawesome/free-solid-svg-icons';
 import { useRef } from 'react';
-import { Link } from 'react-router-dom';
+import { Link } from 'react-router';
 
 const Nav = () => {
   const menuRef = useRef();

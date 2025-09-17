@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router';
 import Layout from './pages/Layout';
 import Home from './pages/Home';
 import Imprint from './pages/Imprint';
@@ -24,7 +24,7 @@ import { Helmet } from 'react-helmet';
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <HashRouter>
       {/* SEO Data */}
       <Helmet>
         <title>ISABELLE IHL ARCHITEKTUR</title>
@@ -62,7 +62,7 @@ const App = () => {
           </Route>
         </Route>
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 };
 
