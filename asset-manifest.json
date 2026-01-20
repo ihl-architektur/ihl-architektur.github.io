@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a74d09f8.css",
-    "main.js": "/static/js/main.05e2895e.js",
+    "main.js": "/static/js/main.4a7f6991.js",
     "static/media/06_Thusanang.jpg": "/static/media/06_Thusanang.8af80c5ec1087e738ef8.jpg",
     "static/media/02_Thusanang.jpg": "/static/media/02_Thusanang.9c9f27de2436e6a80634.jpg",
     "static/media/02_Ihl-Architektur_03_Dockville.jpg": "/static/media/02_Ihl-Architektur_03_Dockville.850b34f3bd29fb041f2c.jpg",
@@ -58,7 +58,7 @@
     "static/media/02_Isabelle Ihl Architektur_Bildbauten.jpg": "/static/media/02_Isabelle Ihl Architektur_Bildbauten.7bd38dd5b741c7391430.jpg",
     "static/media/01_Isabelle Ihl Architektur_Masterthesis_Modellfoto Hauptansicht.jpg": "/static/media/01_Isabelle Ihl Architektur_Masterthesis_Modellfoto Hauptansicht.a6dacce5078b731aa8d6.jpg",
     "static/media/02_Architekturkollektiv_Lattemit.jpg": "/static/media/02_Architekturkollektiv_Lattemit.429c7552dd2116e28db0.jpg",
-    "static/media/03_Ihl-Architektur_BOU_Isometrie.jpg": "/static/media/03_Ihl-Architektur_BOU_Isometrie.5c4c8f408c493ddfffd5.jpg",
+    "static/media/03_Ihl-Architektur_BOU_Isometrie.jpg": "/static/media/03_Ihl-Architektur_BOU_Isometrie.9481870fd88e73123243.jpg",
     "static/media/03_Dreier Frenzel_Immeuble Verdeaux Renes_Obergeschoss.jpg": "/static/media/03_Dreier Frenzel_Immeuble Verdeaux Renes_Obergeschoss.a9da52abbffa24180004.jpg",
     "static/media/03_Isabelle Ihl Architektur_Fachmodul_Schnitt.jpg": "/static/media/03_Isabelle Ihl Architektur_Fachmodul_Schnitt.d94d59857bf6e6522ddb.jpg",
     "static/media/03_Ihl-Architektur_BOU_Foto Chorbereich.jpg": "/static/media/03_Ihl-Architektur_BOU_Foto Chorbereich.9370d1b5107cdbe4eeb2.jpg",
@@ -91,10 +91,10 @@
     "static/media/02_Ihl-Architektur_BOU_Erdgeschoss.jpg": "/static/media/02_Ihl-Architektur_BOU_Erdgeschoss.9fa55ba20351c33a185b.jpg",
     "index.html": "/index.html",
     "main.a74d09f8.css.map": "/static/css/main.a74d09f8.css.map",
-    "main.05e2895e.js.map": "/static/js/main.05e2895e.js.map"
+    "main.4a7f6991.js.map": "/static/js/main.4a7f6991.js.map"
   },
   "entrypoints": [
     "static/css/main.a74d09f8.css",
-    "static/js/main.05e2895e.js"
+    "static/js/main.4a7f6991.js"
   ]
 }
