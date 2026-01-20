@@ -167,13 +167,13 @@ const Vita = () => {
         </tr>
         <tr>
           <td className="font-light flex flex-row justify-between min-w-[140px]">
-            <div>09|2025 -</div>
+            <div>09|2025 </div>
           </td>
           <td className="pl-4">Vortrag - Kirche im Wandel, Bistum Mainz</td>
         </tr>
         <tr>
           <td className="font-light flex flex-row justify-between min-w-[140px]">
-            <div>07|2025 -</div>
+            <div>07|2025 </div>
           </td>
           <td className="pl-4">
             Gastkritik - Kirche für Alle, Architektur der Transformation, Prof.
@@ -182,18 +182,11 @@ const Vita = () => {
         </tr>
         <tr>
           <td className="font-light flex flex-row justify-between min-w-[140px]">
-            <div>01|2024 -</div>
+            <div>06|2025 -</div>
           </td>
           <td className="pl-4">
-            Berliner Netzwerk für Stadt, Land und Architektur &apos;AfA&apos;
-          </td>
-        </tr>
-        <tr>
-          <td className="font-light flex flex-row justify-between min-w-[140px]">
-            <div>02|2020</div> <div>-</div> <div>03|2020</div>
-          </td>
-          <td className="pl-4">
-            Soziales Projekt &apos;Thusanang&apos;, Südafrika
+            Vortrag - Zentren-Spotlight, Bundesministerium Wohnen,
+            Stadtentwicklung und Bauwesen
           </td>
         </tr>
       </table>
