@@ -153,6 +153,48 @@ const Vita = () => {
             Soziales Projekt &apos;Thusanang&apos;, Südafrika
           </td>
         </tr>
+        <tr>
+          <th></th>
+          <th className="pl-4 italic font-light text-left">
+            Nebenberufliche Engagements
+          </th>
+        </tr>
+        <tr>
+          <td className="font-light flex flex-row justify-between min-w-[140px]">
+            <div>09|2025 -</div>
+          </td>
+          <td className="pl-4">Bundesarchitektenkammer</td>
+        </tr>
+        <tr>
+          <td className="font-light flex flex-row justify-between min-w-[140px]">
+            <div>06|2025 -</div>
+          </td>
+          <td className="pl-4">
+            Vertreterversammlung der Architektenkammer Berlin
+          </td>
+        </tr>
+        <tr>
+          <td className="font-light flex flex-row justify-between min-w-[140px]">
+            <div>04|2024 -</div>
+          </td>
+          <td className="pl-4">Architekturkollektiv &apos;Lattemit&apos;</td>
+        </tr>
+        <tr>
+          <td className="font-light flex flex-row justify-between min-w-[140px]">
+            <div>01|2024 -</div>
+          </td>
+          <td className="pl-4">
+            Berliner Netzwerk für Stadt, Land und Architektur &apos;AfA&apos;
+          </td>
+        </tr>
+        <tr>
+          <td className="font-light flex flex-row justify-between min-w-[140px]">
+            <div>02|2020</div> <div>-</div> <div>03|2020</div>
+          </td>
+          <td className="pl-4">
+            Soziales Projekt &apos;Thusanang&apos;, Südafrika
+          </td>
+        </tr>
       </table>
     </Container>
   );
