@@ -153,6 +153,7 @@ const Vita = () => {
             Soziales Projekt &apos;Thusanang&apos;, Südafrika
           </td>
         </tr>
+        <th></th>
         <tr>
           <th></th>
           <th className="pl-4 italic font-light text-left">
@@ -182,7 +183,7 @@ const Vita = () => {
         </tr>
         <tr>
           <td className="font-light flex flex-row justify-between min-w-[140px]">
-            <div>06|2025 -</div>
+            <div>06|2025 </div>
           </td>
           <td className="pl-4">
             Vortrag - Zentren-Spotlight, Bundesministerium Wohnen,
