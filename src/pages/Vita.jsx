@@ -175,7 +175,7 @@ const Vita = () => {
             <div>07|2025 </div>
           </td>
           <td className="pl-4">
-            Gastkritik - Kirche für Alle, Prof. Nanni Grau, TU Berlin
+            Gastkritik - Kirche für Alle!, Prof. Nanni Grau, TU Berlin
           </td>
         </tr>
         <tr>
@@ -183,7 +183,7 @@ const Vita = () => {
             <div>06|2025 </div>
           </td>
           <td className="pl-4">
-            Vortrag - Zentren-Spotlight, Bundesministerium Wohnen, Stadtentw.,
+            Vortrag - ZentrenSpotlight, Bundesministerium Wohnen, Stadtentw.,
             Bauwesen
           </td>
         </tr>
