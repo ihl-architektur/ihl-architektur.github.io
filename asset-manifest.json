@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a74d09f8.css",
-    "main.js": "/static/js/main.6a525554.js",
+    "main.js": "/static/js/main.b9735157.js",
     "static/media/06_Thusanang.jpg": "/static/media/06_Thusanang.8af80c5ec1087e738ef8.jpg",
     "static/media/02_Thusanang.jpg": "/static/media/02_Thusanang.9c9f27de2436e6a80634.jpg",
     "static/media/02_Ihl-Architektur_03_Dockville.jpg": "/static/media/02_Ihl-Architektur_03_Dockville.850b34f3bd29fb041f2c.jpg",
@@ -91,10 +91,10 @@
     "static/media/02_Ihl-Architektur_BOU_Erdgeschoss.jpg": "/static/media/02_Ihl-Architektur_BOU_Erdgeschoss.9fa55ba20351c33a185b.jpg",
     "index.html": "/index.html",
     "main.a74d09f8.css.map": "/static/css/main.a74d09f8.css.map",
-    "main.6a525554.js.map": "/static/js/main.6a525554.js.map"
+    "main.b9735157.js.map": "/static/js/main.b9735157.js.map"
   },
   "entrypoints": [
     "static/css/main.a74d09f8.css",
-    "static/js/main.6a525554.js"
+    "static/js/main.b9735157.js"
   ]
 }
