@@ -183,8 +183,8 @@ const Vita = () => {
             <div>06|2025 </div>
           </td>
           <td className="pl-4">
-            Vortrag - Zentren-Spotlight, Bundesministerium Wohnen,
-            Stadtentwicklung, Bauwesen
+            Vortrag - Zentren-Spotlight, Bundesministerium Wohnen, Stadtentw.,
+            Bauwesen
           </td>
         </tr>
       </table>
