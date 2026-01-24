@@ -45,7 +45,7 @@ const Vita = () => {
 
         <tr>
           <td className="font-light flex flex-row justify-between min-w-[140px]">
-            <div>0 1|2024 -</div>
+            <div>01|2024 -</div>
           </td>
           <td className="pl-4">Mitglied der Architektenkammer, Berlin</td>
         </tr>
@@ -160,7 +160,7 @@ const Vita = () => {
         </tr>
         <tr>
           <td className="font-light flex flex-row justify-between min-w-[140px]">
-            <div> 1 1|2025 </div>
+            <div>1 1|2025 </div>
           </td>
           <td className="pl-4">Vortrag - Architektinnengespräch, Berlin</td>
         </tr>
