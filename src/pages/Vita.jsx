@@ -34,7 +34,7 @@ const Vita = () => {
         </tr>
         <tr>
           <td className="font-light flex flex-row justify-between min-w-[140px]">
-            <div>10|2011</div> <div>-</div> <div>07|2014</div>
+            <div>10|201 1</div> <div>-</div> <div>07|2014</div>
           </td>
           <td className="pb-10 pl-4">Bachelor of Science, TU Darmstadt</td>
         </tr>
@@ -45,13 +45,13 @@ const Vita = () => {
 
         <tr>
           <td className="font-light flex flex-row justify-between min-w-[140px]">
-            <div>01|2024 -</div>
+            <div>0 1|2024 -</div>
           </td>
           <td className="pl-4">Mitglied der Architektenkammer, Berlin</td>
         </tr>
         <tr>
           <td className="font-light flex flex-row justify-between min-w-[140px]">
-            <div>11|2023 -</div>
+            <div>1 1|2023 -</div>
           </td>
           <td className="pl-4">Selbstständigkeit</td>
         </tr>
@@ -89,7 +89,7 @@ const Vita = () => {
         </tr>
         <tr>
           <td className="font-light flex flex-row justify-between min-w-[140px]">
-            <div>06|2016</div> <div>-</div> <div>11|2016</div>
+            <div>06|2016</div> <div>-</div> <div>1 1|2016</div>
           </td>
           <td className="pl-4">
             Praktikantin, Dreier Frenzel Architekten, Lausanne
@@ -137,7 +137,7 @@ const Vita = () => {
         </tr>
         <tr>
           <td className="font-light flex flex-row justify-between min-w-[140px]">
-            <div>01|2024 -</div>
+            <div>0 1|2024 -</div>
           </td>
           <td className="pl-4">
             Berliner Netzwerk für Stadt, Land und Architektur &apos;AfA&apos;
