@@ -149,7 +149,7 @@ const Vita = () => {
           <td className="font-light flex flex-row justify-between min-w-[140px]">
             <div>02|2020</div> <div>-</div> <div>03|2020</div>
           </td>
-          <td className="pl-4">
+          <td className="pb-10 pl-4">
             Soziales Projekt &apos;Thusanang&apos;, Südafrika
           </td>
         </tr>
