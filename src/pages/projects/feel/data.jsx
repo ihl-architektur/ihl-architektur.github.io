@@ -56,7 +56,7 @@ const boulderChurch = {
   type: '',
   size: '',
   state: 'Realisiert',
-  timerange: '2024',
+  timerange: '2024 | 2025',
   performance: '',
   client: '',
   team: '',
