@@ -162,7 +162,9 @@ const Vita = () => {
           <td className="font-light flex flex-row justify-between min-w-[140px]">
             <div>1 1|2025 </div>
           </td>
-          <td className="pl-4">Vortrag - Architektinnengespräch, Berlin</td>
+          <td className="pl-4">
+            Gastkritik - 'Lead 'n beach', Prof. Ignacio Borrego, TU Berlin
+          </td>
         </tr>
         <tr>
           <td className="font-light flex flex-row justify-between min-w-[140px]">
