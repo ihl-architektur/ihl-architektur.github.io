@@ -160,7 +160,7 @@ const Vita = () => {
         </tr>
         <tr>
           <td className="font-light flex flex-row justify-between min-w-[140px]">
-            <div>1 1|2025 </div>
+            <div>0 1|2026 </div>
           </td>
           <td className="pl-4">
             Gastkritik - 'Lead 'n beach', Prof. Ignacio Borrego, TU Berlin
