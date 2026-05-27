@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.a74d09f8.css",
-    "main.js": "/static/js/main.ceac667c.js",
-    "static/media/03_Ihl-Architektur_02_Bucht der Träumer.jpg.png": "/static/media/03_Ihl-Architektur_02_Bucht der Träumer.jpg.408803e6543f4a163944.png",
+    "main.js": "/static/js/main.6cc54025.js",
+    "static/media/03_Ihl-Architektur_02_Bucht der Träumer.jpg": "/static/media/03_Ihl-Architektur_02_Bucht der Träumer.408803e6543f4a163944.jpg",
     "static/media/06_Thusanang.jpg": "/static/media/06_Thusanang.8af80c5ec1087e738ef8.jpg",
     "static/media/02_Thusanang.jpg": "/static/media/02_Thusanang.9c9f27de2436e6a80634.jpg",
     "static/media/02_Ihl-Architektur_03_Dockville.jpg": "/static/media/02_Ihl-Architektur_03_Dockville.850b34f3bd29fb041f2c.jpg",
@@ -92,10 +92,10 @@
     "static/media/02_Ihl-Architektur_BOU_Erdgeschoss.jpg": "/static/media/02_Ihl-Architektur_BOU_Erdgeschoss.9fa55ba20351c33a185b.jpg",
     "index.html": "/index.html",
     "main.a74d09f8.css.map": "/static/css/main.a74d09f8.css.map",
-    "main.ceac667c.js.map": "/static/js/main.ceac667c.js.map"
+    "main.6cc54025.js.map": "/static/js/main.6cc54025.js.map"
   },
   "entrypoints": [
     "static/css/main.a74d09f8.css",
-    "static/js/main.ceac667c.js"
+    "static/js/main.6cc54025.js"
   ]
 }
