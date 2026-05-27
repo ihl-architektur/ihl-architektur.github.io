@@ -43,6 +43,10 @@ const boulderChurch = {
       imageUrl: images['03_Ihl-Architektur_01_Bucht der Träumer.jpg'],
       subtitle: 'Kreiselneutron, Feel Festival | 2025',
     },
+    {
+      imageUrl: images['03_Ihl-Architektur_02_Bucht der Träumer.jpg'],
+      subtitle: 'Kreiselneutron, Feel Festival | 2025',
+    },
   ],
   title: 'Lattemit',
   topline: 'Engagement',
