@@ -22,6 +22,7 @@ import projectsC4 from '../assets/projects-c/04_Fachmodul_Bildbauten.jpg';
 import projectsD1 from '../assets/projects-d/01_Architekturkollektiv_Lattemit.jpg';
 import projectsD2 from '../assets/projects-d/02_Architekturkollektiv_Lattemit.jpg';
 import projectsD3 from '../assets/projects-d/03_Architekturkollektiv_Lattemit.jpg';
+import projectsD4 from '../assets/projects-d/01_Architekturkollektiv_LattemitX.jpg';
 import projectsD5 from '../assets/projects-d/02_Thusanang_Soziales-Projekt.jpg';
 import ImageSwiper from 'components/ImageSwiper/ImageSwiper';
 
@@ -138,6 +139,12 @@ const Projects = () => {
     },
     {
       src: projectsD2,
+      title: 'Lattemit',
+      subtitle: 'Engagement Architekturkollektiv',
+      link: '/projects/lattemit',
+    },
+    {
+      src: projectsD4,
       title: 'Lattemit',
       subtitle: 'Engagement Architekturkollektiv',
       link: '/projects/lattemit',
