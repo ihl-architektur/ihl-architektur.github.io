@@ -160,7 +160,7 @@ const Vita = () => {
         </tr>
         <tr>
           <td className="font-light flex flex-row justify-between min-w-[140px]">
-            <div>0 1|2026 </div>
+            <div>01|2026 </div>
           </td>
           <td className="pl-4">
             Gastkritik - Marseille &apos;Lead &apos;n beach&apos;, Prof. Ignacio
