@@ -8,35 +8,35 @@ const boulderChurch = {
   images: [
     {
       imageUrl: images['01_Ihl-Architektur_01_Feel.jpg'],
-      subtitle: 'Konstruktion d-surfy, Feel Festival',
+      subtitle: 'Konstruktion d-surfy, Feel Festival | 2024',
     },
     {
       imageUrl: images['01_Ihl-Architektur_02_Feel.jpg'],
-      subtitle: 'd-surfy, Feel Festival',
+      subtitle: 'd-surfy, Feel Festival | 2024',
     },
     {
       imageUrl: images['01_Ihl-Architektur_03_Feel.jpg'],
-      subtitle: 'd-surfy, Feel Festival',
+      subtitle: 'd-surfy, Feel Festival | 2024',
     },
     {
       imageUrl: images['02_Ihl-Architektur_01_Dockville.jpg'],
       subtitle:
-        'Konstruktion « Art that makes Your brain hurt. But in a good way », MS Dockville',
+        'Konstruktion « Art that makes Your brain hurt. But in a good way », MS Dockville | 2024',
     },
     {
       imageUrl: images['02_Ihl-Architektur_02_Dockville.jpg'],
       subtitle:
-        'Konstruktion « Art that makes Your brain hurt. But in a good way », MS Dockville',
+        'Konstruktion « Art that makes Your brain hurt. But in a good way », MS Dockville | 2024',
     },
     {
       imageUrl: images['02_Ihl-Architektur_04_Dockville.jpg'],
       subtitle:
-        '« Art that makes Your brain hurt. But in a good way », MS Dockville',
+        '« Art that makes Your brain hurt. But in a good way », MS Dockville | 2024',
     },
     {
       imageUrl: images['02_Ihl-Architektur_05_Dockville.jpg'],
       subtitle:
-        '« Art that makes Your brain hurt. But in a good way », MS Dockville',
+        '« Art that makes Your brain hurt. But in a good way », MS Dockville | 2024',
     },
 
     {
