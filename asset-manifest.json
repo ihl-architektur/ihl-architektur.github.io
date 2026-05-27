@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a74d09f8.css",
-    "main.js": "/static/js/main.5fd672ac.js",
+    "main.js": "/static/js/main.9c4cabbf.js",
     "static/media/06_Thusanang.jpg": "/static/media/06_Thusanang.8af80c5ec1087e738ef8.jpg",
     "static/media/02_Thusanang.jpg": "/static/media/02_Thusanang.9c9f27de2436e6a80634.jpg",
     "static/media/02_Ihl-Architektur_03_Dockville.jpg": "/static/media/02_Ihl-Architektur_03_Dockville.850b34f3bd29fb041f2c.jpg",
@@ -53,6 +53,7 @@
     "static/media/02_Ihl-Architektur_02_Dockville.jpg": "/static/media/02_Ihl-Architektur_02_Dockville.c1a984b148553e236fba.jpg",
     "static/media/04_hparc_FKS_Ansicht Musterfassade.jpg": "/static/media/04_hparc_FKS_Ansicht Musterfassade.f441ac19590c299b0baf.jpg",
     "static/media/02_W+W_Tapetenmuseum Kassel_Wettbewerb_Grundriss Erdgeschoss.jpg": "/static/media/02_W+W_Tapetenmuseum Kassel_Wettbewerb_Grundriss Erdgeschoss.6eeaf24d9ac67dec8e90.jpg",
+    "static/media/01_Architekturkollektiv_Lattemit.jpg": "/static/media/01_Architekturkollektiv_Lattemit.5229faca8c432e2b9bde.jpg",
     "static/media/02_Ihl-Architektur_04_Dockville.jpg": "/static/media/02_Ihl-Architektur_04_Dockville.1e913fb5fbec316fed76.jpg",
     "static/media/02_Thusanang_Soziales-Projekt.jpg": "/static/media/02_Thusanang_Soziales-Projekt.e8b256def08a613df88e.jpg",
     "static/media/04_Prof.-Felix-Waechter_Machbarkeitsstudie-Mannheim_Schnitt.jpg": "/static/media/04_Prof.-Felix-Waechter_Machbarkeitsstudie-Mannheim_Schnitt.4f52feef5f6c5ab06baf.jpg",
@@ -67,7 +68,6 @@
     "static/media/03_Ihl-Architektur_BOU_Erdgeschoss.jpg": "/static/media/03_Ihl-Architektur_BOU_Erdgeschoss.7e2fdb16e4229d06138b.jpg",
     "static/media/02_hparc_IKA_Innenraumperspektive.jpg": "/static/media/02_hparc_IKA_Innenraumperspektive.98ae4a2d8eab30dd3d22.jpg",
     "static/media/06_Isabelle Ihl Architektur_Masterthesis_Schnitt.jpg": "/static/media/06_Isabelle Ihl Architektur_Masterthesis_Schnitt.6d2693c4f435f2405265.jpg",
-    "static/media/01_Architekturkollektiv_Lattemit.jpg": "/static/media/01_Architekturkollektiv_Lattemit.fd4cbe41b555152b9e21.jpg",
     "static/media/01_Ihl-Architektur_02_Feel.jpg": "/static/media/01_Ihl-Architektur_02_Feel.6f4e9f8dc9864252b24c.jpg",
     "static/media/05_Isabelle-Ihl-Architektur_Wohnungsbau_Schnitt.jpg": "/static/media/05_Isabelle-Ihl-Architektur_Wohnungsbau_Schnitt.d70029dade24b5a81010.jpg",
     "static/media/05_bad-orb-st-michael3-bild-Jörg-Braukmann-cc-by-sa-4.0-2020.jpg": "/static/media/05_bad-orb-st-michael3-bild-Jörg-Braukmann-cc-by-sa-4.0-2020.98ef6c83a6354ab7df3c.jpg",
@@ -92,10 +92,10 @@
     "static/media/02_Ihl-Architektur_BOU_Erdgeschoss.jpg": "/static/media/02_Ihl-Architektur_BOU_Erdgeschoss.9fa55ba20351c33a185b.jpg",
     "index.html": "/index.html",
     "main.a74d09f8.css.map": "/static/css/main.a74d09f8.css.map",
-    "main.5fd672ac.js.map": "/static/js/main.5fd672ac.js.map"
+    "main.9c4cabbf.js.map": "/static/js/main.9c4cabbf.js.map"
   },
   "entrypoints": [
     "static/css/main.a74d09f8.css",
-    "static/js/main.5fd672ac.js"
+    "static/js/main.9c4cabbf.js"
   ]
 }
