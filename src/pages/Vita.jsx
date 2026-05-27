@@ -163,7 +163,7 @@ const Vita = () => {
             <div>0 1|2026 </div>
           </td>
           <td className="pl-4">
-            Gastkritik - &apos;Lead &apos;n beach&apos; Marseille, Prof. Ignacio
+            Gastkritik - Marseille &apos;Lead &apos;n beach&apos;, Prof. Ignacio
             Borrego, TU Berlin
           </td>
         </tr>
