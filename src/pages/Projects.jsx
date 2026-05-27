@@ -22,7 +22,7 @@ import projectsC4 from '../assets/projects-c/04_Fachmodul_Bildbauten.jpg';
 import projectsD1 from '../assets/projects-d/01_Architekturkollektiv_Lattemit.jpg';
 import projectsD2 from '../assets/projects-d/02_Architekturkollektiv_Lattemit.jpg';
 import projectsD3 from '../assets/projects-d/03_Architekturkollektiv_Lattemit.jpg';
-import projectsD4 from '../assets/projects-d/02_Thusanang_Soziales-Projekt.jpg';
+import projectsD5 from '../assets/projects-d/02_Thusanang_Soziales-Projekt.jpg';
 import ImageSwiper from 'components/ImageSwiper/ImageSwiper';
 
 const Projects = () => {
@@ -143,7 +143,7 @@ const Projects = () => {
       link: '/projects/lattemit',
     },
     {
-      src: projectsD4,
+      src: projectsD5,
       title: 'Thusanang',
       subtitle: 'Engagement Soziales Projekt',
       link: '/projects/social-project',
