@@ -166,6 +166,12 @@ const Vita = () => {
         </tr>
         <tr>
           <td className="font-light flex flex-row justify-between min-w-[140px]">
+            <div>1 1|2025 </div>
+          </td>
+          <td className="pl-4">Vortrag - Architektinnengespräch, Berlin</td>
+        </tr>
+        <tr>
+          <td className="font-light flex flex-row justify-between min-w-[140px]">
             <div>09|2025 </div>
           </td>
           <td className="pl-4">Vortrag - Kirche im Wandel, Bistum Mainz</td>
